@@ -10,7 +10,7 @@
 
 # 图标列表
 |图标名称|图标数量|图标名称|图标数量|图标名称|图标数量|图标名称|图标数量|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |网易云音乐|1|天翼云盘|1|阿里云盘|1|Alist|1|
 |Aria2 NG|1|百度网盘|1|Bark|1|Bitwarden|1|
 |Calibre|1|Chrome|1|Docker|1|Draw.io|1|
@@ -21,16 +21,11 @@
 |NaviDrome|1|Nginx|2|Nut|1|PhpMyAdmin|2|
 |PTHelper|2|Planka|1|Plex|2|Portainer|2|
 |Qbittorrent|1|签到框架|1|青龙面板|1|Redis|1|
-|Rocket.Chat|1|ShadowSocks|1|
-|ShadowSocksR|1|Syncthing|2|
-|TinyMediaManager|1|
-|Traefik|2|Transmission|2|UnlockMusic|1|
-|Unraid|3|VNC|1|
-|VSCode|1|
-|Vertex|1|VerySync|1|Wallabag|4|
-|WhiteBophir|1|Webdav|1|
-|Wekan|1|
-|WireGuard|1|WizNote|2|ZeroTier|1|
-||1||1||1|
-||1||1||1|
-||1||1||1|
+|Rocket.Chat|1|ShadowSocks|1|ShadowSocksR|1|Syncthing|2|
+|TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|1|
+|Unraid|3|VNC|1|VSCode|1|Vertex|1|
+|VerySync|1|Wallabag|4|WhiteBophir|1|Webdav|1|
+|Wekan|1|WireGuard|1|WizNote|2|ZeroTier|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
