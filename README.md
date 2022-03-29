@@ -19,7 +19,7 @@
 |Koodo Reader|1|Kutt|1|Lomorage|1|MariaDB|2|
 |MediaElch|1|Memcached|1|MySQL|2|Nginx Proxy Manager|4|
 |NaviDrome|1|Nginx|2|Nut|1|PhpMyAdmin|2|
-|PTHelper|2|Planka|1|Plex|2|Portainer|2|
+|PTHelper|3|Planka|1|Plex|2|Portainer|2|
 |Qbittorrent|1|签到框架|1|青龙面板|1|Redis|1|
 |Rocket.Chat|1|ShadowSocks|1|ShadowSocksR|1|Syncthing|2|
 |TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|1|
@@ -29,7 +29,7 @@
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
 |Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
-||1|-|1|-|1|-|1|
+|YesPlayMusic|1|Amule|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
