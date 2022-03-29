@@ -28,7 +28,7 @@
 |Wekan|1|WireGuard|1|为知笔记|2|ZeroTier|1|
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
-|Remotely|1|贴吧|1|企业微信|1|-|1|
+|Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
