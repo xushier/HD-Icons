@@ -1,5 +1,5 @@
 # 高清图标
-- 主要用于`Unraid Docker`容器使用。分辨率大部分是 `1024x1024`，极小部分是 `512x512`。
+- 主要用于`Unraid Docker`容器使用。分辨率大部分是 `1024x1024`，少数是 `512x512`。
 - `round` 文件夹包含几个圆形图标，`border-radius` 文件夹包含圆角矩形图标。
 - 大家有需要的图标可以在`Issues`里留言。
 - 后续更新的图标大部分都将是圆角矩形。
@@ -19,7 +19,7 @@
 |Koodo Reader|1|Kutt|1|Lomorage|1|MariaDB|2|
 |MediaElch|1|Memcached|1|MySQL|2|Nginx Proxy Manager|4|
 |NaviDrome|1|Nginx|2|Nut|1|PhpMyAdmin|2|
-|PTHelper|2|Planka|1|Plex|2|Portainer|2|
+|PTHelper|3|Planka|1|Plex|2|Portainer|2|
 |Qbittorrent|1|签到框架|1|青龙面板|1|Redis|1|
 |Rocket.Chat|1|ShadowSocks|1|ShadowSocksR|1|Syncthing|2|
 |TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|1|
@@ -29,7 +29,11 @@
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
 |Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
+<<<<<<< HEAD
 |Bilibili|5|MovieRobot|2|-|1|-|1|
+=======
+|YesPlayMusic|1|Amule|1|-|1|-|1|
+>>>>>>> 9d990f1959afe9d4af8b0e43de3c9cca5a6ccdf4
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
 ||1|-|1|-|1|-|1|
