@@ -29,11 +29,9 @@
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
 |Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
-<<<<<<< HEAD
-|Bilibili|5|MovieRobot|2|-|1|-|1|
-=======
-|YesPlayMusic|1|Amule|1|-|1|-|1|
->>>>>>> 9d990f1959afe9d4af8b0e43de3c9cca5a6ccdf4
-||1|-|1|-|1|-|1|
-||1|-|1|-|1|-|1|
-||1|-|1|-|1|-|1|
+|YesPlayMusic|1|Amule|1|Bilibili|5|MovieRobot|2|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
