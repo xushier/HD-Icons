@@ -31,7 +31,7 @@
 |Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
 |YesPlayMusic|1|Amule|1|Bilibili|5|MovieRobot|2|
 |Snap2Html|1|ThemeEngine|1|Overseerr|2|Jellyseerr|2|
-|-|1|-|1|-|1|-|1|
+|OpenWRT|2|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
