@@ -25,7 +25,7 @@
 |TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|1|
 |Unraid|3|VNC|1|VSCode|1|Vertex|1|
 |微力同步|1|Wallabag|4|WhiteBophir|1|Webdav|1|
-|Wekan|1|WireGuard|1|为知笔记|2|ZeroTier|1|
+|Wekan|2|WireGuard|1|为知笔记|2|ZeroTier|1|
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
 |Remotely|1|贴吧|1|企业微信|1|Chevereto|1|
