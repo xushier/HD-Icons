@@ -2,9 +2,9 @@
 
 - 主要用于`Unraid Docker`容器使用。分辨率大部分是 `1024x1024`，少数是 `512x512`。
 - `round` 文件夹包含几个圆形图标，`border-radius` 文件夹包含圆角矩形图标。
-- 大家有需要的图标可以在`Issues`里留言。
+- **大家有需要的图标可以添加`Issues`。**
 - 后续更新的图标大部分都将是圆角矩形。
-- 所有图标都已经过无损压缩处理。
+- 所有图标都已经过**无损压缩**处理。
 - 部分图标包含多个版本，文件名称会加上`A、B`等。
 - 多个版本的图标若背景颜色完全相反，文件名称会加上`White、Black`等。
 - 某些图标包含带名字的版本，文件名称会加上`WithName`。
@@ -16,7 +16,7 @@
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_A.png)
 
-# 图标列表
+# 图标清单
 
 |图标名称|数量|图标名称|数量|图标名称|数量|图标名称|数量|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
