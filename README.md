@@ -1,4 +1,12 @@
+# 最新
+
+![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
+![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
+![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
+![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_A.png)
+
 # 高清图标
+
 - 主要用于`Unraid Docker`容器使用。分辨率大部分是 `1024x1024`，少数是 `512x512`。
 - `round` 文件夹包含几个圆形图标，`border-radius` 文件夹包含圆角矩形图标。
 - 大家有需要的图标可以在`Issues`里留言。
