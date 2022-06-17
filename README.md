@@ -9,6 +9,11 @@
 - 多个版本的图标若背景颜色完全相反，文件名称会加上`White、Black`等。
 - 某些图标包含带名字的版本，文件名称会加上`WithName`。
 
+# 使用方法
+
+1. 直接复制图标连接即可。若访问不了github，可以使用镜像加速地址，如`hub.fastgit.xyz`
+2. 将图片下载到本地，使用本地链接调用即可，例如图片在`boot/config`下，则图标地址填写`http://127.0.0.1/boot/config/xxx.png`
+
 # 最近更新
 
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
