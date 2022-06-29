@@ -48,6 +48,9 @@
 |YesPlayMusic|1|Amule|1|Bilibili|5|MovieRobot|2|
 |Snap2Html|1|ThemeEngine|1|Overseerr|2|Jellyseerr|2|
 |OpenWRT|2|Halo|6|Miniflux|1|PostgreSQL|2|
-|-|1|-|1|-|1|-|1|
-|-|1|-|1|-|1|-|1|
-|-|1|-|1|-|1|-|1|
+|Bazarr|0|Caddy|0|Flood|0|Lidarr|0|
+|Jackett|0|Ombi|0|Radarr|0|Prowlarr|0|
+|Readarr|0|Requestrr|0|Sonarr|0|Sabnzbd|0|
+|Stash|0|Tautulli|0|Whisparr|0|Cloudflare|0|
+|Linkace|0|Neko|0|V2ray|0|思源笔记|0|
+|MT-Photos|0|Rustdesk|0|-|0|-|0|
