@@ -28,7 +28,7 @@
 |图标名称|数量|图标名称|数量|图标名称|数量|图标名称|数量|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |网易云音乐|1|天翼云盘|1|阿里云盘|1|Alist|1|
-|Aria2 NG|1|百度网盘|1|Bark|1|Bitwarden|1|
+|Aria2 NG|2|百度网盘|1|Bark|1|Bitwarden|1|
 |Calibre|1|Chrome|1|Docker|1|Draw.io|1|
 |EmbyTheater|1|EpicGames|1|FileBrowser|1|FreshRSS|2|
 |Heimdall|4|IYUU|1|Jellyfin|2|可道云|1|
