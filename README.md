@@ -52,5 +52,5 @@
 |Jackett|0|Ombi|0|Radarr|0|Prowlarr|0|
 |Readarr|0|Requestrr|0|Sonarr|0|Sabnzbd|0|
 |Stash|0|Tautulli|0|Whisparr|0|Cloudflare|0|
-|Linkace|0|Neko|0|V2ray|0|思源笔记|0|
-|MT-Photos|0|Rustdesk|0|-|0|-|0|
+|Linkace|0|Neko|0|V2ray|2|思源笔记|0|
+|MT-Photos|0|Rustdesk|1|V2raya|2|-|0|
