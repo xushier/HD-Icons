@@ -1,4 +1,4 @@
-# 高清图标（当前共计 160 个）
+# 高清图标（当前共计 161 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -16,6 +16,7 @@
 
 # 最近更新
 
+![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
 ![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
