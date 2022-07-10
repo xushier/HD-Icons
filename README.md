@@ -16,11 +16,11 @@
 
 # 最近更新
 
-![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
-![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
-![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
-![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
-![](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_A.png)
+![Minio]https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
+![Qinglong](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
+![Jellyseerr](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
+![Openwrt](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
+![Overseerr](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
 
 # 图标清单
 
