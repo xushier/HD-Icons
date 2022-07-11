@@ -1,4 +1,4 @@
-# 高清图标（当前共计 168 个）
+# 高清图标（当前共计 170 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -53,5 +53,5 @@
 |Stash|0|Tautulli|1|Whisparr|1|Cloudflare|0|
 |Linkace|0|Neko|0|V2ray|2|思源笔记|0|
 |MT-Photos|0|Rustdesk|1|V2raya|2|NasTools|1|
-|Flexget|1|Minio|5|-|0|-|0|
+|Flexget|1|Minio|5|Adguard|2|-|0|
 |-|0|-|0|-|0|-|0|
