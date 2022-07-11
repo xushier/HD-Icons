@@ -16,6 +16,7 @@
 
 # 最近更新
 
+![Adguard](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
 ![Minio](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
 ![Qinglong](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
 ![Jellyseerr](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
