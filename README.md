@@ -11,6 +11,7 @@
 
 ## 使用 Github 链接
 直接复制图标链接地址粘贴即可。若访问不了github，可以使用镜像加速地址，如`raw.fastgit.org`。使用时将图片地址的`raw.githubusercontent.com`替换为`raw.fastgit.org`即可。
+
 ## 使用本地链接
 将图片下载到本地，使用本地链接调用即可。例如，图片在`boot/config`下，则图标地址填写`/boot/config/xxx.png`或者`http://127.0.0.1/boot/config/xxx.png`。
 
