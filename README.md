@@ -15,16 +15,6 @@
 ## 使用本地链接
 将图片下载到本地，使用本地链接调用即可。例如，图片在`boot/config`下，则图标地址填写`/boot/config/xxx.png`或者`http://127.0.0.1/boot/config/xxx.png`。
 
-# 最近更新
-
-![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
-![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
-![Minio](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
-![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
-![Jellyseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
-![Openwrt](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
-![Overseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
-
 # 图标清单
 
 |图标名称|数量|图标名称|数量|图标名称|数量|图标名称|数量|
@@ -58,3 +48,13 @@
 |MT-Photos|0|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|1|
 |TailScale|1|YouTube-dl|6|-|0|-|0|
+
+# 最近更新
+
+![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
+![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
+![Minio](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
+![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
+![Jellyseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
+![Openwrt](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
+![Overseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
