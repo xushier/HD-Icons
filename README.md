@@ -1,4 +1,4 @@
-# 高清图标（当前共计 178 个）
+# 高清图标（当前共计 181 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -47,10 +47,16 @@
 |Linkace|0|Neko|0|V2ray|2|思源笔记|0|
 |MT-Photos|0|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|1|
-|TailScale|1|YouTube-dl|6|-|0|-|0|
+|TailScale|1|YouTube-dl|6|DDNS|2|Clash|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
+|-|1|-|1|-|1|-|1|
 
 # 最近更新
 
+![DDNS](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DDNS.png)
 ![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
 ![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
 ![Minio](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
