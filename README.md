@@ -1,4 +1,4 @@
-# 高清图标（当前共计 171 个）
+# 高清图标（当前共计 178 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -10,18 +10,10 @@
 # 使用方法
 
 ## 使用 Github 链接
-直接复制图标链接地址粘贴即可。若访问不了github，可以使用镜像加速地址，如`raw.fastgit.org`。使用时将图片地址的`raw.githubusercontent.com`替换为`raw.fastgit.org`即可。
+直接复制图标链接地址粘贴即可。若访问不了 github，可以使用镜像地址，如 `raw.fastgit.org`，使用时将图片地址的 `raw.githubusercontent.com` 替换为 `raw.fastgit.org` 即可。或使用代理加速地址，如 `ghproxy.com`，使用时将图片地址前加上 `https://ghproxy.com/` 即可。
+
 ## 使用本地链接
 将图片下载到本地，使用本地链接调用即可。例如，图片在`boot/config`下，则图标地址填写`/boot/config/xxx.png`或者`http://127.0.0.1/boot/config/xxx.png`。
-
-# 最近更新
-
-![Adguard](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
-![Minio](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
-![Qinglong](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
-![Jellyseerr](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
-![Openwrt](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
-![Overseerr](https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
 
 # 图标清单
 
@@ -55,4 +47,14 @@
 |Linkace|0|Neko|0|V2ray|2|思源笔记|0|
 |MT-Photos|0|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|1|
-|-|0|-|0|-|0|-|0|
+|TailScale|1|YouTube-dl|6|-|0|-|0|
+
+# 最近更新
+
+![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
+![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
+![Minio](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png)
+![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
+![Jellyseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
+![Openwrt](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
+![Overseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
