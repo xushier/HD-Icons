@@ -55,6 +55,7 @@
 
 # 最近更新
 
+![Jackett](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jackett.png)
 ![Flood](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flood_A.png)
 ![Ombi](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ombi_A.png)
 ![迅雷](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xunlei.png)
