@@ -52,10 +52,12 @@
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
-|-|41|-|51|-|47|-|40|
 
 # 最近更新
 
+![Flood](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flood_A.png)
+![Ombi](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ombi_A.png)
+![迅雷](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xunlei.png)
 ![DDNS](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DDNS.png)
 ![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
 ![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
