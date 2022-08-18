@@ -13,7 +13,7 @@
 直接复制图标链接地址粘贴即可。若访问不了 github，可以使用镜像地址，如 `raw.fastgit.org`，使用时将图片地址的 `raw.githubusercontent.com` 替换为 `raw.fastgit.org` 即可。或使用代理加速地址，如 `ghproxy.com`，使用时将图片地址前加上 `https://ghproxy.com/` 即可。
 
 ## 使用本地链接
-将图片下载到本地，使用本地链接调用即可。例如，图片在`boot/config`下，则图标地址填写`/boot/config/xxx.png`或者`http://127.0.0.1/boot/config/xxx.png`。
+将图片下载到本地，使用本地链接调用即可。例如，图标文件在`/mnt/user/appdata/icons`下，则图标地址填写`/mnt/user/appdata/icons/xxx.png`或者`http://127.0.0.1/mnt/user/appdata/icons/xxx.png`。
 
 # 图标清单
 
