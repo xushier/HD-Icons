@@ -53,6 +53,7 @@
 |Tasmota|2|HomeAssistant|3|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
+<<<<<<< HEAD
 
 # 最近更新
 
@@ -63,6 +64,16 @@
 ![NodeRed_B](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/NodeRed_B.png)
 ![MT-Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/MT-Photos.png)
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_A.png)
+=======
+|-|1|-|1|-|1|-|1|
+
+# 最近更新
+
+![Jackett](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jackett.png)
+![Flood](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flood_A.png)
+![Ombi](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ombi_A.png)
+![迅雷](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xunlei.png)
+>>>>>>> 22c7add12f54fdd988417a8d67c5db94edef7925
 ![DDNS](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DDNS.png)
 ![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
 ![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
@@ -71,3 +82,4 @@
 ![Jellyseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr.png)
 ![Openwrt](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png)
 ![Overseerr](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png)
+
