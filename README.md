@@ -1,4 +1,4 @@
-# 高清图标（当前共计 194 个）
+# 高清图标（当前共计 216 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -31,7 +31,7 @@
 |Qbittorrent|3|签到框架|1|青龙面板|3|Redis|1|
 |Rocket.Chat|1|ShadowSocks|1|ShadowSocksR|1|Syncthing|3|
 |TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|2|
-|Unraid|3|VNC|1|VSCode|1|Vertex|1|
+|Unraid|3|VNC|1|VSCode|1|Vertex|2|
 |微力同步|2|Wallabag|4|WhiteBophir|1|Webdav|2|
 |Wekan|2|WireGuard|2|为知笔记|2|ZeroTier|1|
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
@@ -45,17 +45,24 @@
 |Readarr|2|Requestrr|0|Sonarr|1|Sabnzbd|0|
 |Stash|0|Tautulli|2|Whisparr|1|Cloudflare|0|
 |Linkace|0|Neko|0|V2ray|2|思源笔记|0|
-|MT-Photos|0|Rustdesk|1|V2raya|2|NasTools|1|
+|MT-Photos|1|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|3|
 |TailScale|1|YouTube-dl|6|DDNS|2|Clash|1|
-|迅雷|1|Compressarr|1|-|1|-|1|
+|迅雷|1|Compressarr|1|PhotoStructure|1|PhotoPrism|9|
+|NodeRed|2|思源笔记|1|ZigbeeMQTT|1|TasmoAdmin|1|
+|Tasmota|2|HomeAssistant|3|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
-|-|1|-|1|-|1|-|1|
-|-|41|-|51|-|47|-|40|
 
 # 最近更新
 
+![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_C.png)
+![ZigbeeMQTT](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/ZigbeeMQTT.png)
+![Siyuan](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan.png)
+![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_B.png)
+![NodeRed_B](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/NodeRed_B.png)
+![MT-Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/MT-Photos.png)
+![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_A.png)
 ![DDNS](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DDNS.png)
 ![TailScale](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale.png)
 ![Adguard](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png)
