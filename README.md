@@ -1,4 +1,4 @@
-# 高清图标（当前共计 216 个）
+# 高清图标（当前共计 217 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -32,7 +32,7 @@
 |Rocket.Chat|1|ShadowSocks|1|ShadowSocksR|1|Syncthing|3|
 |TinyMediaManager|1|Traefik|2|Transmission|2|UnlockMusic|2|
 |Unraid|3|VNC|1|VSCode|1|Vertex|2|
-|微力同步|2|Wallabag|4|WhiteBophir|1|Webdav|2|
+|微力同步|3|Wallabag|4|WhiteBophir|1|Webdav|2|
 |Wekan|2|WireGuard|2|为知笔记|2|ZeroTier|1|
 |Dim|2|Excalidraw|2|爱快|2|Komga|2|
 |Lskypro|1|Pushplus|1|Rclone|2|RcloneBrowser|1|
@@ -56,6 +56,7 @@
 
 # 最近更新
 
+![微力同步](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/VerySync_B.png)
 ![ZigbeeMQTT](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/ZigbeeMQTT.png)
 ![Siyuan](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan.png)
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_B.png)
