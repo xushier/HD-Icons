@@ -1,4 +1,4 @@
-# 高清图标（当前共计 217 个）
+# 高清图标（当前共计 229 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -44,14 +44,14 @@
 |Jackett|1|Ombi|3|Radarr|0|Prowlarr|2|
 |Readarr|2|Requestrr|0|Sonarr|1|Sabnzbd|0|
 |Stash|0|Tautulli|2|Whisparr|1|Cloudflare|0|
-|Linkace|0|Neko|0|V2ray|2|思源笔记|0|
+|Linkace|2|Neko|1|V2ray|2|思源笔记|1|
 |MT-Photos|1|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|3|
 |TailScale|1|YouTube-dl|6|DDNS|2|Clash|1|
-|迅雷|1|Compressarr|1|PhotoStructure|1|PhotoPrism|9|
+|迅雷|1|Compressarr|1|PhotoStructure|6|PhotoPrism|9|
 |NodeRed|2|思源笔记|1|ZigbeeMQTT|1|TasmoAdmin|1|
-|Tasmota|2|HomeAssistant|3|-|1|-|1|
-|-|1|-|1|-|1|-|1|
+|Tasmota|2|HomeAssistant|3|Joplin|2|OnlyOffice|2|
+|PhotoView|2|Unbalance|1|-|1|-|1|
 |-|1|-|1|-|1|-|1|
 
 # 最近更新
