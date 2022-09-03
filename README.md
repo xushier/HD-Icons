@@ -56,7 +56,7 @@
 
 # 最近更新
 
-![微力同步](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/VerySync_B.png)
+![Neko](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Neko.png)
 ![ZigbeeMQTT](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/ZigbeeMQTT.png)
 ![Siyuan](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan.png)
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_B.png)
