@@ -60,9 +60,9 @@
 
 # 最近更新
 
-![PVE](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/PVE_A.png)
+![PVE](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/PVE_C.png)
 ![RssHub](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsshub.png)
-![Cloudflare](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_A.png)
+![Cloudflare](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_B.png)
 ![Neko](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Neko.png)
 ![ZigbeeMQTT](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/ZigbeeMQTT.png)
 ![Siyuan](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan.png)
