@@ -1,4 +1,4 @@
-# 高清图标（当前共计 229 个）
+# 高清图标（当前共计 241 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率大部分是 `1024x1024`，少数是 `512x512`。
@@ -43,7 +43,7 @@
 |Bazarr|1|Caddy|1|Flood|4|Lidarr|2|
 |Jackett|1|Ombi|3|Radarr|0|Prowlarr|2|
 |Readarr|2|Requestrr|0|Sonarr|1|Sabnzbd|0|
-|Stash|0|Tautulli|2|Whisparr|1|Cloudflare|0|
+|Stash|0|Tautulli|2|Whisparr|1|Cloudflare|4|
 |Linkace|2|Neko|1|V2ray|2|思源笔记|1|
 |MT-Photos|1|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|3|
@@ -51,11 +51,14 @@
 |迅雷|1|Compressarr|1|PhotoStructure|6|PhotoPrism|9|
 |NodeRed|2|思源笔记|1|ZigbeeMQTT|1|TasmoAdmin|1|
 |Tasmota|2|HomeAssistant|3|Joplin|2|OnlyOffice|2|
-|PhotoView|2|Unbalance|1|-|1|-|1|
-|-|1|-|1|-|1|-|1|
+|PhotoView|2|Unbalance|1|ProxmoxVE|5|RssHub|1|
+|SpeedTest|2|-|1|-|1|-|1|
 
 # 最近更新
 
+![PVE](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/PVE_A.png)
+![RssHub](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsshub.png)
+![Cloudflare](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_A.png)
 ![Neko](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Neko.png)
 ![ZigbeeMQTT](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/ZigbeeMQTT.png)
 ![Siyuan](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan.png)
