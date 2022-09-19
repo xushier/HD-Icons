@@ -55,7 +55,10 @@
 |NodeRed|2|思源笔记|1|ZigbeeMQTT|1|TasmoAdmin|1|
 |Tasmota|2|HomeAssistant|3|Joplin|2|OnlyOffice|2|
 |PhotoView|2|Unbalance|1|ProxmoxVE|5|RssHub|1|
-|SpeedTest|2|-|1|-|1|-|1|
+|SpeedTest|2|Linux|0|Windows 10|0|Windows 11|0|
+|Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|0|
+|CentOS|0|Deepin|0|Arch|0|Opensuse|0|
+|Debian|0|Android|0|Mint|0|Redhat|0|
 
 # 最近更新
 
