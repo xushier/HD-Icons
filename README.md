@@ -14,7 +14,7 @@
 
 ## 使用 Github 链接
 - 直接复制图标链接地址粘贴即可。
-- 或使用代理加速地址，如 `ghproxy.com`，使用时将图片地址前加上 `https://ghproxy.com/` 即可。如 `https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png`
+- 使用代理加速服务，如 `ghproxy.com`，使用时将图片地址前加上 `https://ghproxy.com/` 即可。如 `https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png` 或 `https://ghproxy.com/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr.png`
 - ~~若访问不了 github，可以使用镜像地址，如 `raw.fastgit.org`，使用时将图片地址的 `raw.githubusercontent.com` 替换为 `raw.fastgit.org` 即可。~~
 
 ## 使用本地链接
