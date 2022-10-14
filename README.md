@@ -61,6 +61,7 @@
 |Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|0|
 |CentOS|0|Deepin|0|Arch|0|Opensuse|0|
 |Debian|0|Android|0|Mint|0|Redhat|0|
+|LinkEase|0|Android|0|Mint|0|Redhat|0|
 
 # 最近更新
 
