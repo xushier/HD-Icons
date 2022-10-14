@@ -49,7 +49,7 @@
 |Jackett|1|Ombi|3|Radarr|0|Prowlarr|2|
 |Readarr|2|Requestrr|0|Sonarr|1|Sabnzbd|0|
 |Stash|0|Tautulli|2|Whisparr|1|Cloudflare|4|
-|Linkace|2|Neko|1|V2ray|2|思源笔记|1|
+|Linkace|2|Neko|1|V2ray|2|易有云|0|
 |MT-Photos|1|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|3|
 |TailScale|1|YouTube-dl|6|DDNS|2|Clash|1|
@@ -61,7 +61,6 @@
 |Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|0|
 |CentOS|0|Deepin|0|Arch|0|Opensuse|0|
 |Debian|0|Android|0|Mint|0|Redhat|0|
-|LinkEase|0|Android|0|Mint|0|Redhat|0|
 
 # 最近更新
 
