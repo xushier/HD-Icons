@@ -63,8 +63,9 @@
 |Debian|0|Android|0|Mint|0|Redhat|0|
 
 # 最近更新
-
+![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_A.png)
 ![易有云](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkease_A.png)
+![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
 ![PVE](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/PVE_C.png)
 ![RssHub](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsshub.png)
 ![Cloudflare](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_B.png)
