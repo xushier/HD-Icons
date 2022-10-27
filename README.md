@@ -1,4 +1,4 @@
-# 高清图标（当前共计 241 个）
+# 高清图标（当前共计 244 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率为 `1024x1024`。
@@ -49,7 +49,7 @@
 |Jackett|1|Ombi|3|Radarr|0|Prowlarr|2|
 |Readarr|2|Requestrr|0|Sonarr|1|Sabnzbd|0|
 |Stash|0|Tautulli|2|Whisparr|1|Cloudflare|4|
-|Linkace|2|Neko|1|V2ray|2|易有云|0|
+|Linkace|2|Neko|1|V2ray|2|易有云|1|
 |MT-Photos|1|Rustdesk|1|V2raya|2|NasTools|1|
 |Flexget|1|Minio|5|Adguard|2|Ombi|3|
 |TailScale|1|YouTube-dl|6|DDNS|2|Clash|1|
@@ -64,6 +64,7 @@
 
 # 最近更新
 
+![易有云](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkease_A.png)
 ![PVE](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/PVE_C.png)
 ![RssHub](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsshub.png)
 ![Cloudflare](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_B.png)
