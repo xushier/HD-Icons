@@ -1,4 +1,4 @@
-# 高清图标（当前共计 244 个）
+# 高清图标（当前共计 247 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率为 `1024x1024`。
@@ -61,8 +61,11 @@
 |Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|0|
 |CentOS|0|Deepin|0|Arch|0|Opensuse|0|
 |Debian|0|Android|0|Mint|0|Redhat|0|
+|网心云|2|FRP|1|-|0|-|0|
 
 # 最近更新
+![FRP](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/FRP_A.png)
+![网心云](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wangxinyun_A.png)
 ![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_A.png)
 ![易有云](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkease_A.png)
 ![Qinglong](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png)
