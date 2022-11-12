@@ -65,6 +65,7 @@
 |Synology Moments|1|Synology Photos|1|Synology Drive|1|-|0|
 
 # 最近更新
+![Synology](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology_A.png)
 ![Synology Moments](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synomoments_A.png)
 ![Synology Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synophotos_A.png)
 ![DSVideo](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DSvideo_A.png)
