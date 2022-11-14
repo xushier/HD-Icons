@@ -1,4 +1,4 @@
-# 高清图标（当前共计 253 个）
+# 高清图标（当前共计 254 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率为 `1024x1024`。
@@ -62,9 +62,10 @@
 |CentOS|0|Deepin|0|Arch|0|Opensuse|0|
 |Debian|0|Android|0|Mint|0|Redhat|0|
 |网心云|2|FRP|1|Synology|2|DSVideo|1|
-|Synology Moments|1|Synology Photos|1|Synology Drive|1|-|0|
+|Synology Moments|1|Synology Photos|1|Synology Drive|1|Casaos|1|
 
 # 最近更新
+![Casaos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Casaos_A.png)
 ![Synology](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology_A.png)
 ![Synology Moments](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synomoments_A.png)
 ![Synology Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synophotos_A.png)
