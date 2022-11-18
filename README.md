@@ -1,4 +1,4 @@
-# 高清图标（当前共计 260 个）
+# 高清图标（当前共计 266 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率为 `1024x1024`。
@@ -58,14 +58,17 @@
 |Tasmota|2|HomeAssistant|3|Joplin|2|OnlyOffice|2|
 |PhotoView|2|Unbalance|1|ProxmoxVE|5|RssHub|1|
 |SpeedTest|2|Linux|0|Windows 10|0|Windows 11|0|
-|Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|0|
-|CentOS|0|Deepin|0|Arch|0|Opensuse|0|
+|Windows 7|0|Windows XP|0|MacOS|0|Ubuntu|4|
+|CentOS|2|Deepin|0|Arch|0|Opensuse|0|
 |Debian|2|Android|0|Mint|0|Redhat|0|
 |网心云|2|FRP|1|Synology|2|DSVideo|1|
 |Synology Moments|1|Synology Photos|1|Synology Drive|1|Casaos|1|
 |Freenom|2|Immich|1|Iobroker|1|-|-|
 
 # 最近更新
+![Ubuntu](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_A.png)
+![Ubuntu](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_C.png)
+![Centos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Centos_A.png)
 ![Freenom](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freenom_A.png)
 ![Iobroker](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iobroker_A.png)
 ![Immich](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Immich_A.png)
