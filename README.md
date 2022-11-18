@@ -67,7 +67,7 @@
 
 # 最近更新
 ![Ubuntu](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_A.png)
-![Ubuntu](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_C.png)
+![Ubuntu](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_B.png)
 ![Centos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Centos_A.png)
 ![Freenom](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freenom_A.png)
 ![Iobroker](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iobroker_A.png)
