@@ -96,7 +96,7 @@
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_B.png)
 ![NodeRed_B](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/NodeRed_A.png)
 ![NodeRed_B](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/NodeRed_B.png)
-![MT-Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/MT-Photos_A.png)
+![MT-Photos](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mtphotos_A.png)
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_A.png)
 ![HomeAssistant](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/HA_C.png)
 ![Jackett](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jackett_A.png)
