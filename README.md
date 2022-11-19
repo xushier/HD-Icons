@@ -1,4 +1,4 @@
-# 高清图标（当前共计 272 个）
+# 高清图标（当前共计 276 个）
 
 - 初衷是为了用于`Unraid Docker`容器使用，当然，任何需要的地方也都可以用。
 - 分辨率为 `1024x1024`。
@@ -64,9 +64,11 @@
 |网心云|2|FRP|1|Synology|2|DSVideo|1|
 |Synology Moments|1|Synology Photos|1|Synology Drive|1|Casaos|1|
 |Freenom|2|Immich|1|Iobroker|1|Prometheus|2|
-|Mosquitto|2|-|-|-|-|-|-|
+|Mosquitto|2|Apache|4|-|-|-|-|
 
 # 最近更新
+![Apache](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_A.png)
+![Apache](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_B.png)
 ![Mosquitto](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mosquitto_B.png)
 ![Prometheus](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Prometheus_A.png)
 ![Arch](https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Arch_A.png)
