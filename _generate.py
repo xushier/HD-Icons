@@ -7,7 +7,7 @@ readme_path   = root / "README.md"
 
 
 def generate_img_tag(file,folder,radius):
-    return f'<div style="width: 105px;text-align: center;display: inline-block;font-size: 12px;margin: 5px;"><img style="border: 1.5px dashed white;border-radius: {radius};" src="{folder}/{file.name}" alt="{file.stem}" /><br/>{file.stem}</div>'
+    return f'<div style="width: 105px;text-align: center;display: inline-block;font-size: 12px;margin: 5px;"><img style="border: 1.5px dashed white;border-radius: {radius};width: 105px;" src="{folder}/{file.name}" alt="{file.stem}" /><br/>{file.stem}</div>'
 
 
 imgs            = sorted(Path("./border-radius").glob("*.png"))
