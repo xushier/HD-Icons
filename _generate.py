@@ -9,14 +9,14 @@ readme_path   = root / "README.md"
 # def generate_img_tag(file,folder,radius):
     # return f'<div style="width: 105px;text-align: center;display: inline-block;font-size: 12px;margin: 5px;"><img style="border: 1.5px dashed white;border-radius: {radius};" src="{folder}/{file.name}" alt="{file.stem}" /><br/>{file.stem}</div>'
 
-def generate_img_tag(file,folder,radius):
-    return f'<img src="{folder}/{file.name}" alt="{file.stem}" width="105"><br/>{file.stem}</img>'
+def generate_img_tag(file,folder):
+    return f'<img src="{folder}/{file.name}" alt="{file.stem}" width="100">'
 
 
 imgs            = sorted(Path("./border-radius").glob("*.png"))
-img_tags        = [generate_img_tag(x,"border-radius","25px") for x in imgs]
+img_tags        = [generate_img_tag(x,"border-radius") for x in imgs]
 circle_imgs     = sorted(Path("./circle").glob("*.png"))
-circle_img_tags = [generate_img_tag(x,"circle","50px") for x in circle_imgs]
+circle_img_tags = [generate_img_tag(x,"circle") for x in circle_imgs]
 line_number     = 0
 all_nums        = len(img_tags) + len(circle_img_tags)
 
