@@ -9,8 +9,8 @@
   <p align="center">
       1024x1024 分辨率，已经过无损压缩处理。
  <br/>
-    <a href="#图标预览"> <strong > 已有图标预览 »</strong> </a>
-    <a href="/issues/new/choose"> <strong > 请求新图标 »</strong> </a>
+    <a href="#圆角矩形图标"> <strong > 已有图标预览 »</strong> </a>
+    <a href="https://github.com/xushier/HD-Icons/issues/new/choose"> <strong > 请求新图标 »</strong> </a>
  <br/>
  <br/>
 </p>
@@ -35,7 +35,7 @@
   - [Organizr(v2)](https://github.com/causefx/Organizr)
   - [Flame](https://github.com/pawelmalak/flame)
   - [SUI](https://github.com/jeroenpardon/sui)
-- **需要使用新图标可以加微信、加 QQ 群或者发 `Issues` 申请，如果有能力做的就会添加。**<a href="/issues/new/choose"> <strong > 请求新图标 »</strong></a>
+- **需要使用新图标可以加微信、加 QQ 群或者发 `Issues` 申请，如果有能力做的就会添加。**<a href="https://github.com/xushier/HD-Icons/issues/new/choose"> <strong > 请求新图标 »</strong></a>
   - B站：煦诗儿<a href="https://space.bilibili.com/32313260"> <strong >前往 B 站 »</strong></a>
   - 公众号：小迪同学
   - QQ群：647605169
