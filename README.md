@@ -66,7 +66,7 @@
 
 # 捐赠
 
-<img src="blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400"><img src="_DONATE_W.png" alt="_DONATE_W" width="400">
+<img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400"><img src="_DONATE_W.png" alt="_DONATE_W" width="400">
 
 # 声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
