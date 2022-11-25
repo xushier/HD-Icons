@@ -19,6 +19,7 @@
 - [项目说明](#项目说明)
 - [使用方法](#使用方法)
 - [图标预览](#圆角矩形图标)
+- [捐赠](#捐赠)
 - [声明](#声明)
 
 <!-- GETTING STARTED -->
@@ -62,6 +63,10 @@
 <!-- END CIRCLE ICONS -->
 
 <!-- LEGAL -->
+
+# 捐赠
+
+<img src="_DONATE_A.png" alt="_DONATE_A" width="400"><img src="_DONATE_W.png" alt="_DONATE_W" width="400">
 
 # 声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
