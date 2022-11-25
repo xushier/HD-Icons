@@ -48,7 +48,7 @@
 - 使用代理加速地址，适用于墙内环境。例如：`https://ghproxy.com/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`，又或者`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
 - 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 ## 使用本地链接（后续更新不同步到本地，不推荐使用）
-将图片下载到本地，使用本地链接调用。例如，图标文件在 `/mnt/user/appdata/icons` 下，则图标地址填写 `/mnt/user/appdata/icons/xxxxx.png` 或者 `http://127.0.0.1/mnt/user/appdata/icons/xxxxx.png`，将 xxxxx 换成对应的图标名称即可，<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
+- 将图片下载到本地，使用本地链接调用。例如，图标文件在 `/mnt/user/appdata/icons` 下，则图标地址填写 `/mnt/user/appdata/icons/xxxxx.png` 或者 `http://127.0.0.1/mnt/user/appdata/icons/xxxxx.png`，将 xxxxx 换成对应的图标名称即可，<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 
 # 图标预览（当前共计 283 个）
 ## 圆角矩形图标
