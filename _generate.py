@@ -45,5 +45,5 @@ with open(readme_path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
 
-print("Done!")
-print("Please commit the new README.md file.")
+print("完成!")
+print("README.md 文件已更新。")
