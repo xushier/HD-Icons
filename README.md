@@ -3,6 +3,7 @@
   <p align="center">
     <a href="https://www.jsdelivr.com/package/gh/xushier/HD-Icons">
       <img src="https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded"/>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xushier/HD-Icons?color=green&logo=github">
     </a>
   </p>
 
