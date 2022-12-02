@@ -1,9 +1,16 @@
 <p align="center">
   <h3 align = "center" > 高清仪表盘图标 </h3>
   <p align="center">
-    <a href="https://www.jsdelivr.com/package/gh/xushier/HD-Icons">
+    <!-- <a href="https://www.jsdelivr.com/package/gh/xushier/HD-Icons">
       <img src="https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded"/>
-    </a>
+    </a> -->
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xushier/HD-Icons?color=green&logo=github">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xushier/HD-Icons">
+      <a href="https://www.youtube.com/channel/UCPj4GP1FxDt0I23GhctHRFA"><img alt="GitHub issues" src="https://img.shields.io/github/issues/xushier/HD-Icons?logo=github"></a>
+  </p>
+  
+  <p align="center">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPj4GP1FxDt0I23GhctHRFA?style=social">
   </p>
 
   <p align="center">
