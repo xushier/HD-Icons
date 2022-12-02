@@ -6,7 +6,7 @@
     </a> -->
       <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xushier/HD-Icons?color=green&logo=github">
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xushier/HD-Icons">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/xushier/HD-Icons?logo=github">
+      <a href="https://www.youtube.com/channel/UCPj4GP1FxDt0I23GhctHRFA"><img alt="GitHub issues" src="https://img.shields.io/github/issues/xushier/HD-Icons?logo=github"></a>
   </p>
   
   <p align="center">
