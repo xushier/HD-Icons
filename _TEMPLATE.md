@@ -26,7 +26,7 @@
 - [项目说明](#项目说明)
 - [使用方法](#使用方法)
 - [图标预览](#圆角矩形图标)
-- [捐赠](#捐赠)
+- [赞助](#赞助)
 - [声明](#声明)
 
 <!-- GETTING STARTED -->
@@ -73,7 +73,7 @@
 
 <!-- LEGAL -->
 
-# 捐赠
+# 赞助
 
 <img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
 
