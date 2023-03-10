@@ -82,3 +82,6 @@
 
 The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
 
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
