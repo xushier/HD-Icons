@@ -52,9 +52,9 @@
 # 使用方法
 
 ## 使用远程链接（后续更新同步显示，推荐）
-~~1. 使用 Gitee 图标链接，国内用户推荐。**(Gitee 识别到仓库包含图床外链，不允许公开)**
-   - Gitee 项目地址：https://gitee.com/xiaodid/HD-Icons
-   - 例如：`https://gitee.com/xiaodid/HD-Icons/raw/main/border-radius/xxxxx.png`~~
+~~1. 使用 Gitee 图标链接，国内用户推荐。**(Gitee 识别到仓库包含图床外链，不允许公开)**~~
+   - ~~Gitee 项目地址：https://gitee.com/xiaodid/HD-Icons~~
+   - ~~例如：`https://gitee.com/xiaodid/HD-Icons/raw/main/border-radius/xxxxx.png`~~
 
 2. 使用 Github 原始的图标链接，适用于可以访问 Github 的用户。
    - Github 项目地址：https://github.com/xushier/HD-Icons
