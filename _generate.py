@@ -17,8 +17,9 @@ imgs            = sorted(Path("./border-radius").glob("*.png"))
 img_tags        = [generate_img_tag(x,"border-radius") for x in imgs]
 circle_imgs     = sorted(Path("./circle").glob("*.png"))
 circle_img_tags = [generate_img_tag(x,"circle") for x in circle_imgs]
-line_number     = 0
-all_nums        = len(img_tags) + len(circle_img_tags)
+svg_imgs     = sorted(Path("./svg").glob("*.svg"))
+svg_img_tags = [generate_img_tag(x,"svg") for x in svg_imgs]
+all_nums        = len(img_tags) + len(circle_img_tags) + len(svg_img_tags)
 
 # Read the template file 
 with open(template_path, "r", encoding="UTF-8") as f:
@@ -33,10 +34,15 @@ for line in lines:
     if line.startswith("<!-- START CIRCLE ICONS -->"):
         circle_line_number = lines.index(line)
         break
+for line in lines:
+    if line.startswith("<!-- START SVG ICONS -->"):
+        svg_line_number = lines.index(line)
+        break
 
 # Insert the icons after the line
 lines.insert(line_number + 1, " ".join(img_tags))
-lines.insert(circle_line_number + 1, " ".join(circle_img_tags))
+lines.insert(circle_line_number + 2, " ".join(circle_img_tags))
+lines.insert(svg_line_number + 3, " ".join(svg_img_tags))
 
 lines = ["# 图标预览（当前共计 " + str(all_nums) + " 个）" if '# 图标预览（当前共计 0 个）' in i else i for i in lines]
 
@@ -45,5 +51,4 @@ with open(readme_path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
 
-print("完成!")
-print("README.md 文件已更新。")
+print("文件已更新!")
