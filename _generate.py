@@ -12,7 +12,6 @@ readme_path   = root / "README.md"
 def generate_img_tag(file,folder):
     return f'<img src="{folder}/{file.name}" alt="{file.stem}" width="95">'
 
-
 imgs            = sorted(Path("./border-radius").glob("*.png"))
 img_tags        = [generate_img_tag(x,"border-radius") for x in imgs]
 circle_imgs     = sorted(Path("./circle").glob("*.png"))
