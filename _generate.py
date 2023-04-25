@@ -20,7 +20,7 @@ circle_img_tags = [generate_img_tag(x,"circle") for x in circle_imgs]
 line_number     = 0
 all_nums        = len(img_tags) + len(circle_img_tags)
 
-# Read the template file
+# Read the template file 
 with open(template_path, "r", encoding="UTF-8") as f:
     lines = f.readlines()
 
