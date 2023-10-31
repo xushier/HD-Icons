@@ -91,7 +91,7 @@
 
 <!-- LEGAL -->
 
-# 赞助
+# 赞助（备注：图标）
 
 <img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
 
