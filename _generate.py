@@ -25,22 +25,22 @@ with open(template_path, "r", encoding="UTF-8") as f:
     lines = f.readlines()
 
 # Find the line that starts with "<!-- ICONS -->"
-for line in lines:
-    if line.startswith("<!-- START BORDER-RADIUS ICONS -->"):
-        line_number = lines.index(line)
-        break
-for line in lines:
-    if line.startswith("<!-- START CIRCLE ICONS -->"):
-        circle_line_number = lines.index(line)
-        break
+# for line in lines:
+#     if line.startswith("<!-- START BORDER-RADIUS ICONS -->"):
+#         line_number = lines.index(line)
+#         break
+# for line in lines:
+#     if line.startswith("<!-- START CIRCLE ICONS -->"):
+#         circle_line_number = lines.index(line)
+#         break
 for line in lines:
     if line.startswith("<!-- START SVG ICONS -->"):
         svg_line_number = lines.index(line)
         break
 
 # Insert the icons after the line
-lines.insert(line_number + 1, " ".join(img_tags))
-lines.insert(circle_line_number + 2, " ".join(circle_img_tags))
+# lines.insert(line_number + 1, " ".join(img_tags))
+# lines.insert(circle_line_number + 2, " ".join(circle_img_tags))
 lines.insert(svg_line_number + 3, " ".join(svg_img_tags))
 
 lines = ["# 图标预览（当前共计 " + str(all_nums) + " 个）" if '# 图标预览（当前共计 0 个）' in i else i for i in lines]
