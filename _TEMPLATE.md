@@ -75,12 +75,12 @@
 
 ## 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-radius.png?raw=true" alt="radius">
+<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-radius.jpg?raw=true" alt="radius">
 <!-- END BORDER-RADIUS ICONS -->
 
 ## 圆形图标
 <!-- START CIRCLE ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-circle.png?raw=true" alt="circle">
+<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-circle.jpg?raw=true" alt="circle">
 <!-- END CIRCLE ICONS -->
 
 ## SVG 图标
