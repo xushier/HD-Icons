@@ -22,7 +22,9 @@
  <br/>
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg "Repobeats analytics image")
+  <p align="center">
+  <img alt="beats" src="[https://img.shields.io/youtube/channel/views/UCPj4GP1FxDt0I23GhctHRFA?style=social](https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg)">
+  </p>
 
 # 目录
 - [说明](#说明)
