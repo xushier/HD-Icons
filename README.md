@@ -75,7 +75,7 @@
 
 - 例如，图标文件在 `/mnt/user/appdata/icons` 下，则图标地址填写 `/mnt/user/appdata/icons/xxxxx.png` 或者 `http://127.0.0.1/mnt/user/appdata/icons/xxxxx.png`，将 xxxxx 换成对应的图标名称即可，<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 
-# 图标预览（当前共计 1045 个）
+# 图标预览（当前共计 1069 个）
 ## 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
 <img src="https://github.com/xushier/HD-Icons/blob/main/_icons-radius.jpg?raw=true" alt="radius">
@@ -106,3 +106,4 @@ The use of these names, trademarks and brands appearing in these image files, do
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
+
