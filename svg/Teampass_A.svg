@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="100"
+   viewBox="0 0 158.74999 26.458334"
+   version="1.1"
+   id="svg4507"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo_teampass_600.svg">
+  <defs
+     id="defs4501">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5137"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5133" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5135" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5137"
+       id="linearGradient5143"
+       gradientUnits="userSpaceOnUse"
+       x1="82.314812"
+       y1="278.13617"
+       x2="82.069832"
+       y2="307.7793" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.08"
+     inkscape:cx="395.97429"
+     inkscape:cy="147.52441"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4504">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="21.274071"
+       y="292.84253"
+       id="text5054"><tspan
+         sodipodi:role="line"
+         id="tspan5052"
+         x="21.274071"
+         y="292.84253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;fill:#ffffff;">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="38.065697"
+       y="292.83661"
+       id="text5054-6"><tspan
+         sodipodi:role="line"
+         id="tspan5074"
+         x="38.065697"
+         y="292.83661">EAMPASS</tspan></text>
+    <path
+       style="opacity:1;fill:#24c8ff;fill-opacity:1;stroke:none;stroke-width:0.23232207"
+       d="m 0.93689353,285.77579 a 10,10 0 0 0 9.90171947,8.68939 10,10 0 0 0 9.999908,-9.99991 10,10 0 0 0 -9.999908,-9.99991 10,10 0 0 0 -0.770496,0.0326 10,10 0 0 1 0.07338,0.60358 10,10 0 0 1 0.02532,0.70745 10,10 0 0 1 -0.05012,0.99839 10,10 0 0 1 -0.1493437,0.98805 10,10 0 0 1 -0.247531,0.96842 10,10 0 0 1 -0.3426147,0.93896 10,10 0 0 1 -0.434599,0.9002 10,10 0 0 1 -0.5224488,0.85215 10,10 0 0 1 -0.6051312,0.79582 10,10 0 0 1 -0.6816116,0.73122 10,10 0 0 1 -0.7508584,0.65991 10,10 0 0 1 -0.8128715,0.58136 10,10 0 0 1 -0.86713,0.49764 10,10 0 0 1 -0.9126059,0.40824 10,10 0 0 1 -0.9482627,0.31523 10,10 0 0 1 -0.975651,0.21859 10,10 0 0 1 -0.92914197,0.11266 z"
+       id="path5098"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#2c7b96;fill-opacity:1;stroke:none;stroke-width:0.23232207"
+       d="m 0.93689353,285.77579 a 10,10 0 0 0 0.92914197,-0.11266 10,10 0 0 0 0.975651,-0.21859 10,10 0 0 0 0.9482627,-0.31523 10,10 0 0 0 0.9126059,-0.40824 10,10 0 0 0 0.86713,-0.49764 10,10 0 0 0 0.8128715,-0.58136 10,10 0 0 0 0.7508584,-0.65991 10,10 0 0 0 0.6816116,-0.73122 10,10 0 0 0 0.6051312,-0.79582 10,10 0 0 0 0.5224488,-0.85215 10,10 0 0 0 0.434599,-0.9002 10,10 0 0 0 0.3426147,-0.93896 10,10 0 0 0 0.247531,-0.96842 10,10 0 0 0 0.1493437,-0.98805 10,10 0 0 0 0.05012,-0.99839 10,10 0 0 0 -0.02532,-0.70745 10,10 0 0 0 -0.07338,-0.60358 10,10 0 0 0 -9.22940877,9.96735 10,10 0 0 0 0.098185,1.31052 z"
+       id="path5080"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:0.238;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:0.77930272"
+       id="path5076-1"
+       cx="79.619987"
+       cy="293.08026"
+       rx="83.527611"
+       ry="14.828843" />
+  </g>
+</svg>
