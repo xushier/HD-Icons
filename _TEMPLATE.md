@@ -55,6 +55,27 @@
 
 # 使用方法
 
+## 使用图标展示镜像，强烈推荐！！！
+
+**项目地址：https://github.com/xushier/HD-Icons-docker**
+**使用方法见项目详情。预览图如下：**
+
+#### 日间模式
+
+![日间模式](day.png)
+
+#### 夜间模式
+
+![夜间模式](night.png)
+
+#### 移动端自适应
+
+![移动端自适应](mobile.png)
+
+#### 单击复制地址
+
+![单击复制地址](copy.png)
+
 ## 使用远程链接（后续更新同步显示，推荐）
 ~~1. 使用 Gitee 图标链接，国内用户推荐。**(Gitee 识别到仓库包含图床外链，不允许公开)**~~
    - ~~Gitee 项目地址：https://gitee.com/xiaodid/HD-Icons~~
@@ -79,12 +100,12 @@
 
 ## 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-radius.png" alt="radius">
+<img src="_icons-radius.png" alt="radius">
 <!-- END BORDER-RADIUS ICONS -->
 
 ## 圆形图标
 <!-- START CIRCLE ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-circle.png" alt="circle">
+<img src="_icons-circle.png" alt="circle">
 <!-- END CIRCLE ICONS -->
 
 ## SVG 图标
@@ -97,7 +118,7 @@
 
 # 赞助（备注：图标）
 
-<img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
+<img src="_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
 
 # 声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
