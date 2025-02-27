@@ -55,46 +55,46 @@
 
 # 使用方法
 
-## 使用图标展示镜像，强烈推荐！！！
+## 使用图标展示 docker，强烈推荐！！！
 
 **项目地址：https://github.com/xushier/HD-Icons-docker**
 **使用方法见项目详情。预览图如下：**
 
 #### 日间模式
-
-![日间模式](day.png)
+<p align="center">
+<img src="day.png" alt="日间模式" style="max-width:100%;height:auto;">
+</p>
 
 #### 夜间模式
-
-![夜间模式](night.png)
+<p align="center">
+<img src="night.png" alt="夜间模式" style="max-width:100%;height:auto;">
+</p>
 
 #### 移动端自适应
-
-![移动端自适应](mobile.png)
+<p align="center">
+<img src="mobile.png" alt="移动端自适应" style="max-width:100%;height:auto;">
+</p>
 
 #### 单击复制地址
+<p align="center">
+<img src="copy.png" alt="单击复制地址" style="max-width:100%;height:auto;">
+</p>
 
-![单击复制地址](copy.png)
+#### 自定义图片上传
+<p align="center">
+<img src="upload.png" alt="自定义图片上传" style="max-width:100%;height:auto;">
+</p>
 
 ## 使用远程链接（后续更新同步显示，推荐）
-~~1. 使用 Gitee 图标链接，国内用户推荐。**(Gitee 识别到仓库包含图床外链，不允许公开)**~~
-   - ~~Gitee 项目地址：https://gitee.com/xiaodid/HD-Icons~~
-   - ~~例如：`https://gitee.com/xiaodid/HD-Icons/raw/main/border-radius/xxxxx.png`~~
 
-2. 使用 Github 原始的图标链接，适用于可以访问 Github 的用户。
+1. 使用 Github 原始的图标链接，适用于可以访问 Github 的用户。
    - Github 项目地址：https://github.com/xushier/HD-Icons
    - 例如：`https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
 
-3. 使用代理或 CDN 加速地址，适用于不能访问 Github 但想要使用 Github 图标源的用户。
-   - 例如：`https://ghproxy.com/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
-   - 又或者：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
+2. 使用代理或 CDN 加速地址，适用于不能访问 Github 但想要使用 Github 图标源的用户。
+   - 例如：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
 
-- 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
-- **或者直接到 https://cdn.jsdelivr.net/gh/xushier/HD-Icons/ 查看获取。**
-## 使用本地链接（后续更新不会同步，不推荐）
-将图片下载到本地，使用本地路径或链接调用。
-
-- 例如，图标文件在 `/mnt/user/appdata/icons` 下，则图标地址填写 `/mnt/user/appdata/icons/xxxxx.png` 或者 `http://127.0.0.1/mnt/user/appdata/icons/xxxxx.png`，将 xxxxx 换成对应的图标名称即可，<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
+注：将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 
 # 图标预览（当前共计 0 个）
 
