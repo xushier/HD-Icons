@@ -43,7 +43,7 @@ for line in lines:
 # lines.insert(circle_line_number + 2, " ".join(circle_img_tags))
 lines.insert(svg_line_number + 3, " ".join(svg_img_tags))
 
-lines = ["# 图标预览（当前共计 " + str(all_nums) + " 个）" if '# 图标预览（当前共计 0 个）' in i else i for i in lines]
+lines = ["## ✨ 图标预览（当前共计 " + str(all_nums) + " 个）" if '## ✨ 图标预览（当前共计 0 个）' in i else i for i in lines]
 
 # Write the new file
 with open(readme_path, "w", encoding="UTF-8") as f:
