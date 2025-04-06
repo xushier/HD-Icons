@@ -130,12 +130,12 @@
 
 ### 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
-<img src="_icons-radius.png" alt="radius">
+<img src="_icons-radius.jpg" alt="radius">
 <!-- END BORDER-RADIUS ICONS -->
 
 ### 圆形图标
 <!-- START CIRCLE ICONS -->
-<img src="_icons-circle.png" alt="circle">
+<img src="_icons-circle.jpg" alt="circle">
 <!-- END CIRCLE ICONS -->
 
 ### SVG 图标
