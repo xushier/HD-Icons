@@ -126,7 +126,7 @@
 
 注：将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 
-## ✨ 图标预览（当前共计 1417 个）
+## ✨ 图标预览（当前共计 1418 个）
 ### 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
 <img src="_icons-radius.jpg" alt="radius">
