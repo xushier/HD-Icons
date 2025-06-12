@@ -1,0 +1,4550 @@
+{
+    "name": "HD-Icons",
+    "description": "By 小迪",
+    "icons": [
+        {
+            "name": "115_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/115_A.png"
+        },
+        {
+            "name": "115_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/115_B.png"
+        },
+        {
+            "name": "115_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/115_C.png"
+        },
+        {
+            "name": "12306_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/12306_A.png"
+        },
+        {
+            "name": "123Pan_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/123Pan_A.png"
+        },
+        {
+            "name": "123Pan_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/123Pan_B.png"
+        },
+        {
+            "name": "163music_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/163music_A.png"
+        },
+        {
+            "name": "163music_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/163music_B.png"
+        },
+        {
+            "name": "189drive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/189drive_A.png"
+        },
+        {
+            "name": "1Panel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/1Panel_A.png"
+        },
+        {
+            "name": "1Panel_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/1Panel_B.png"
+        },
+        {
+            "name": "2Fas_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/2Fas_A.png"
+        },
+        {
+            "name": "2Fauth_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/2Fauth_A.png"
+        },
+        {
+            "name": "2Fauth_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/2Fauth_B.png"
+        },
+        {
+            "name": "9Kuai_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/9Kuai_A.png"
+        },
+        {
+            "name": "Actual_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Actual_A.png"
+        },
+        {
+            "name": "Acunetix_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Acunetix_A.png"
+        },
+        {
+            "name": "Acunetix_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Acunetix_B.png"
+        },
+        {
+            "name": "Acunetix_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Acunetix_C.png"
+        },
+        {
+            "name": "Acunetix_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Acunetix_D.png"
+        },
+        {
+            "name": "Adguard_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_A.png"
+        },
+        {
+            "name": "Adguard_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adguard_B.png"
+        },
+        {
+            "name": "Adminer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adminer_A.png"
+        },
+        {
+            "name": "Affine_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Affine_A.png"
+        },
+        {
+            "name": "Airflow_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Airflow_A.png"
+        },
+        {
+            "name": "Airflow_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Airflow_B.png"
+        },
+        {
+            "name": "Airflow_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Airflow_C.png"
+        },
+        {
+            "name": "Airflow_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Airflow_D.png"
+        },
+        {
+            "name": "Alicloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alicloud_A.png"
+        },
+        {
+            "name": "Alidrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alidrive_A.png"
+        },
+        {
+            "name": "Alist_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alist_A.png"
+        },
+        {
+            "name": "Alist_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alist_B.png"
+        },
+        {
+            "name": "Alist_encrypt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alist_encrypt_A.png"
+        },
+        {
+            "name": "Amc+_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Amc+_A.png"
+        },
+        {
+            "name": "Amc_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Amc_A.png"
+        },
+        {
+            "name": "Amule_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Amule_A.png"
+        },
+        {
+            "name": "Amule_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Amule_B.png"
+        },
+        {
+            "name": "Amule_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Amule_C.png"
+        },
+        {
+            "name": "Anaconda_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Anaconda_A.png"
+        },
+        {
+            "name": "Anaconda_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Anaconda_B.png"
+        },
+        {
+            "name": "Anirss_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Anirss_A.png"
+        },
+        {
+            "name": "Anytype_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Anytype_A.png"
+        },
+        {
+            "name": "Aospace_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aospace_A.png"
+        },
+        {
+            "name": "Apache_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_A.png"
+        },
+        {
+            "name": "Apache_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_B.png"
+        },
+        {
+            "name": "Apache_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_C.png"
+        },
+        {
+            "name": "Apache_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_D.png"
+        },
+        {
+            "name": "Apache_webdav_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Apache_webdav_A.png"
+        },
+        {
+            "name": "Appflowy_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Appflowy_A.png"
+        },
+        {
+            "name": "Appletv+_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Appletv+_A.png"
+        },
+        {
+            "name": "Appletv_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Appletv_A.png"
+        },
+        {
+            "name": "Aqua_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aqua_A.png"
+        },
+        {
+            "name": "Aqua_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aqua_B.png"
+        },
+        {
+            "name": "Arch_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Arch_A.png"
+        },
+        {
+            "name": "Arch_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Arch_B.png"
+        },
+        {
+            "name": "Aria2_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_A.png"
+        },
+        {
+            "name": "Aria2_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_B.png"
+        },
+        {
+            "name": "Aria2_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_C.png"
+        },
+        {
+            "name": "Asus_router_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Asus_router_A.png"
+        },
+        {
+            "name": "Audiobookshelf_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Audiobookshelf_A.png"
+        },
+        {
+            "name": "Authelia_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Authelia_A.png"
+        },
+        {
+            "name": "Authelia_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Authelia_B.png"
+        },
+        {
+            "name": "Authentik_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Authentik_A.png"
+        },
+        {
+            "name": "Autobangumi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autobangumi_A.png"
+        },
+        {
+            "name": "Autobangumi_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autobangumi_B.png"
+        },
+        {
+            "name": "Autobrr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autobrr_A.png"
+        },
+        {
+            "name": "Autosymlink_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autosymlink_A.png"
+        },
+        {
+            "name": "Autosymlink_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autosymlink_B.png"
+        },
+        {
+            "name": "Autosymlink_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autosymlink_C.png"
+        },
+        {
+            "name": "Autosymlink_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Autosymlink_D.png"
+        },
+        {
+            "name": "Aws_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aws_A.png"
+        },
+        {
+            "name": "Azure_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Azure_A.png"
+        },
+        {
+            "name": "B2cloud_storage_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/B2cloud_storage_A.png"
+        },
+        {
+            "name": "Baidudrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidudrive_A.png"
+        },
+        {
+            "name": "Baidudrive_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidudrive_B.png"
+        },
+        {
+            "name": "Baidumap_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidumap_A.png"
+        },
+        {
+            "name": "Baidu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidu_A.png"
+        },
+        {
+            "name": "Baidu_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidu_B.png"
+        },
+        {
+            "name": "Baidu_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baidu_C.png"
+        },
+        {
+            "name": "Bard_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bard_A.png"
+        },
+        {
+            "name": "Bark_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bark_A.png"
+        },
+        {
+            "name": "Baserow_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Baserow_A.png"
+        },
+        {
+            "name": "Bazarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bazarr_A.png"
+        },
+        {
+            "name": "Bazarr_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bazarr_B.png"
+        },
+        {
+            "name": "Beszel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Beszel_A.png"
+        },
+        {
+            "name": "Bigdatatools_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bigdatatools_A.png"
+        },
+        {
+            "name": "Bigdatatools_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bigdatatools_B.png"
+        },
+        {
+            "name": "Biglybt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Biglybt_A.png"
+        },
+        {
+            "name": "Bilibili_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bilibili_A.png"
+        },
+        {
+            "name": "Bilibili_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bilibili_B.png"
+        },
+        {
+            "name": "Bilibili_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bilibili_C.png"
+        },
+        {
+            "name": "Bilibili_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bilibili_D.png"
+        },
+        {
+            "name": "Bilibili_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bilibili_E.png"
+        },
+        {
+            "name": "Bililive_recorder_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bililive_recorder_A.png"
+        },
+        {
+            "name": "Bitwarden_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bitwarden_A.png"
+        },
+        {
+            "name": "Bitwarden_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bitwarden_B.png"
+        },
+        {
+            "name": "Blinko_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Blinko_A.png"
+        },
+        {
+            "name": "Blossom_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Blossom_A.png"
+        },
+        {
+            "name": "Blossom_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Blossom_B.png"
+        },
+        {
+            "name": "Bookstack_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bookstack_A.png"
+        },
+        {
+            "name": "Bracket_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bracket_A.png"
+        },
+        {
+            "name": "Bytebase_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bytebase_A.png"
+        },
+        {
+            "name": "Bytemuse_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Bytemuse_A.png"
+        },
+        {
+            "name": "Caddy_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Caddy_A.png"
+        },
+        {
+            "name": "Cadvisor_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cadvisor_A.png"
+        },
+        {
+            "name": "Cal.com_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cal.com_A.png"
+        },
+        {
+            "name": "Cal.com_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cal.com_B.png"
+        },
+        {
+            "name": "Calibreweb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Calibreweb_A.png"
+        },
+        {
+            "name": "Calibreweb_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Calibreweb_B.png"
+        },
+        {
+            "name": "Calibre_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Calibre_A.png"
+        },
+        {
+            "name": "Calibre_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Calibre_B.png"
+        },
+        {
+            "name": "Calibre_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Calibre_C.png"
+        },
+        {
+            "name": "Casaos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Casaos_A.png"
+        },
+        {
+            "name": "Cbs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cbs_A.png"
+        },
+        {
+            "name": "Centos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Centos_A.png"
+        },
+        {
+            "name": "Centos_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Centos_B.png"
+        },
+        {
+            "name": "Chandao_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chandao_A.png"
+        },
+        {
+            "name": "Chandao_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chandao_B.png"
+        },
+        {
+            "name": "Chanify_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chanify_A.png"
+        },
+        {
+            "name": "Chatgpt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chatgpt_A.png"
+        },
+        {
+            "name": "Chd_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chd_A.png"
+        },
+        {
+            "name": "Chd_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chd_B.png"
+        },
+        {
+            "name": "Check-mk_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Check-mk_A.png"
+        },
+        {
+            "name": "Chevereto_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chevereto_A.png"
+        },
+        {
+            "name": "Chinesesubfinder_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chinesesubfinder_A.png"
+        },
+        {
+            "name": "Chrome_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chrome_A.png"
+        },
+        {
+            "name": "Chrome_extension_store_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chrome_extension_store_A.png"
+        },
+        {
+            "name": "Clamav_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clamav_A.png"
+        },
+        {
+            "name": "Claper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Claper_A.png"
+        },
+        {
+            "name": "Clashverge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clashverge_A.png"
+        },
+        {
+            "name": "Clashverge_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clashverge_B.png"
+        },
+        {
+            "name": "Clash_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clash_A.png"
+        },
+        {
+            "name": "Clash_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clash_B.png"
+        },
+        {
+            "name": "Clion_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clion_A.png"
+        },
+        {
+            "name": "Clion_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clion_B.png"
+        },
+        {
+            "name": "Cloud-media-sync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloud-media-sync_A.png"
+        },
+        {
+            "name": "Cloudbeaver_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudbeaver_A.png"
+        },
+        {
+            "name": "Cloudbeaver_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudbeaver_B.png"
+        },
+        {
+            "name": "Cloudcmd_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudcmd_A.png"
+        },
+        {
+            "name": "Cloudcmd_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudcmd_B.png"
+        },
+        {
+            "name": "Clouddrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clouddrive_A.png"
+        },
+        {
+            "name": "Clouddrive_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clouddrive_B.png"
+        },
+        {
+            "name": "Cloudflare_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_A.png"
+        },
+        {
+            "name": "Cloudflare_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudflare_B.png"
+        },
+        {
+            "name": "Cloudreve_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudreve_A.png"
+        },
+        {
+            "name": "Cloudreve_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudreve_B.png"
+        },
+        {
+            "name": "Cloudreve_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudreve_C.png"
+        },
+        {
+            "name": "Cloudsaver_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cloudsaver_A.png"
+        },
+        {
+            "name": "Codeserver_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Codeserver_A.png"
+        },
+        {
+            "name": "Codewithme_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Codewithme_A.png"
+        },
+        {
+            "name": "Codewithme_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Codewithme_B.png"
+        },
+        {
+            "name": "Codex_docs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Codex_docs_A.png"
+        },
+        {
+            "name": "Collabora_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Collabora_A.png"
+        },
+        {
+            "name": "Compose-craft_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Compose-craft_A.png"
+        },
+        {
+            "name": "Composerize_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Composerize_A.png"
+        },
+        {
+            "name": "Compose_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Compose_A.png"
+        },
+        {
+            "name": "Compose_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Compose_B.png"
+        },
+        {
+            "name": "Containernursey_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Containernursey_A.png"
+        },
+        {
+            "name": "Convertx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Convertx_A.png"
+        },
+        {
+            "name": "Cookiecloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cookiecloud_A.png"
+        },
+        {
+            "name": "Cookiecloud_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cookiecloud_B.png"
+        },
+        {
+            "name": "Couchdb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Couchdb_A.png"
+        },
+        {
+            "name": "Cyberchef_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cyberchef_A.png"
+        },
+        {
+            "name": "Dae_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dae_A.png"
+        },
+        {
+            "name": "Dae_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dae_B.png"
+        },
+        {
+            "name": "Daily-hot_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Daily-hot_A.png"
+        },
+        {
+            "name": "Dashdot_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dashdot_A.png"
+        },
+        {
+            "name": "Datagrip_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Datagrip_A.png"
+        },
+        {
+            "name": "Datagrip_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Datagrip_B.png"
+        },
+        {
+            "name": "Datalore_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Datalore_A.png"
+        },
+        {
+            "name": "Datalore_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Datalore_B.png"
+        },
+        {
+            "name": "Dataspell_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dataspell_A.png"
+        },
+        {
+            "name": "Dataspell_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dataspell_B.png"
+        },
+        {
+            "name": "Ddns_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ddns_A.png"
+        },
+        {
+            "name": "Debian_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Debian_A.png"
+        },
+        {
+            "name": "Debian_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Debian_B.png"
+        },
+        {
+            "name": "Deepin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Deepin_A.png"
+        },
+        {
+            "name": "Deepseek_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Deepseek_A.png"
+        },
+        {
+            "name": "Dell_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dell_A.png"
+        },
+        {
+            "name": "Deluge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Deluge_A.png"
+        },
+        {
+            "name": "Dianxinyun_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dianxinyun_A.png"
+        },
+        {
+            "name": "Dicmusic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dicmusic_A.png"
+        },
+        {
+            "name": "Dim_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dim_A.png"
+        },
+        {
+            "name": "Dim_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dim_B.png"
+        },
+        {
+            "name": "Directus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Directus_A.png"
+        },
+        {
+            "name": "Discord_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Discord_A.png"
+        },
+        {
+            "name": "Disney+_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Disney+_A.png"
+        },
+        {
+            "name": "DNF_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DNF_A.png"
+        },
+        {
+            "name": "DNF_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DNF_B.png"
+        },
+        {
+            "name": "DNF_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DNF_C.png"
+        },
+        {
+            "name": "DNF_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/DNF_D.png"
+        },
+        {
+            "name": "Dnschecker.org_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dnschecker.org_A.png"
+        },
+        {
+            "name": "Dnschecker.org_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dnschecker.org_B.png"
+        },
+        {
+            "name": "Docker-copilot_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker-copilot_A.png"
+        },
+        {
+            "name": "Docker_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_A.png"
+        },
+        {
+            "name": "Docker_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_B.png"
+        },
+        {
+            "name": "Docker_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_C.png"
+        },
+        {
+            "name": "Docker_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_D.png"
+        },
+        {
+            "name": "Docker_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_E.png"
+        },
+        {
+            "name": "Docker_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_F.png"
+        },
+        {
+            "name": "Docker_G",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_G.png"
+        },
+        {
+            "name": "Docker_registry_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_registry_A.png"
+        },
+        {
+            "name": "Docker_registry_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docker_registry_B.png"
+        },
+        {
+            "name": "Dockge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dockge_A.png"
+        },
+        {
+            "name": "Docmost_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docmost_A.png"
+        },
+        {
+            "name": "Docspell_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docspell_A.png"
+        },
+        {
+            "name": "Documize_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Documize_A.png"
+        },
+        {
+            "name": "Docusaurus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docusaurus_A.png"
+        },
+        {
+            "name": "Docusaurus_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Docusaurus_B.png"
+        },
+        {
+            "name": "Dootask_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dootask_A.png"
+        },
+        {
+            "name": "Doris_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Doris_A.png"
+        },
+        {
+            "name": "Doris_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Doris_B.png"
+        },
+        {
+            "name": "Dotcover_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotcover_A.png"
+        },
+        {
+            "name": "Dotcover_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotcover_B.png"
+        },
+        {
+            "name": "Dotmemory_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotmemory_A.png"
+        },
+        {
+            "name": "Dotmemory_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotmemory_B.png"
+        },
+        {
+            "name": "Dotpeek_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotpeek_A.png"
+        },
+        {
+            "name": "Dotpeek_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dotpeek_B.png"
+        },
+        {
+            "name": "Dottrace_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dottrace_A.png"
+        },
+        {
+            "name": "Dottrace_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dottrace_B.png"
+        },
+        {
+            "name": "Doubao_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Doubao_A.png"
+        },
+        {
+            "name": "Dozzle_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dozzle_A.png"
+        },
+        {
+            "name": "Dpanel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dpanel_A.png"
+        },
+        {
+            "name": "Drawdb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Drawdb_A.png"
+        },
+        {
+            "name": "Drawio_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Drawio_A.png"
+        },
+        {
+            "name": "Dsaudio_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsaudio_A.png"
+        },
+        {
+            "name": "Dscam_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dscam_A.png"
+        },
+        {
+            "name": "Dscloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dscloud_A.png"
+        },
+        {
+            "name": "Dsfile_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsfile_A.png"
+        },
+        {
+            "name": "Dsfinder_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsfinder_A.png"
+        },
+        {
+            "name": "Dsnote_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsnote_A.png"
+        },
+        {
+            "name": "Dsphoto_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsphoto_A.png"
+        },
+        {
+            "name": "Dsrouter_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsrouter_A.png"
+        },
+        {
+            "name": "Dsvideo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dsvideo_A.png"
+        },
+        {
+            "name": "Duplicati_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Duplicati_A.png"
+        },
+        {
+            "name": "Duplicati_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Duplicati_B.png"
+        },
+        {
+            "name": "Dweebui_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dweebui_A.png"
+        },
+        {
+            "name": "Edge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Edge_A.png"
+        },
+        {
+            "name": "Elastic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Elastic_A.png"
+        },
+        {
+            "name": "Elastic_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Elastic_B.png"
+        },
+        {
+            "name": "Elastic_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Elastic_C.png"
+        },
+        {
+            "name": "Elastic_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Elastic_D.png"
+        },
+        {
+            "name": "Element_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Element_A.png"
+        },
+        {
+            "name": "Emby_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Emby_A.png"
+        },
+        {
+            "name": "Emby_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Emby_B.png"
+        },
+        {
+            "name": "Emby_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Emby_C.png"
+        },
+        {
+            "name": "Emby_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Emby_D.png"
+        },
+        {
+            "name": "Emqx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Emqx_A.png"
+        },
+        {
+            "name": "Enpass_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Enpass_A.png"
+        },
+        {
+            "name": "Epicgames_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Epicgames_A.png"
+        },
+        {
+            "name": "Esphome_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Esphome_A.png"
+        },
+        {
+            "name": "Etherpad_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Etherpad_A.png"
+        },
+        {
+            "name": "Excalidraw_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Excalidraw_A.png"
+        },
+        {
+            "name": "Excalidraw_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Excalidraw_B.png"
+        },
+        {
+            "name": "Fail2ban_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fail2ban_A.png"
+        },
+        {
+            "name": "Fast-emby_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fast-emby_A.png"
+        },
+        {
+            "name": "Featherwiki_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Featherwiki_A.png"
+        },
+        {
+            "name": "Feishin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Feishin_A.png"
+        },
+        {
+            "name": "Feishu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Feishu_A.png"
+        },
+        {
+            "name": "Fenrus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fenrus_A.png"
+        },
+        {
+            "name": "Fenrus_A_R",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fenrus_A_R.png"
+        },
+        {
+            "name": "Ferdi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ferdi_A.png"
+        },
+        {
+            "name": "Ferdi_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ferdi_B.png"
+        },
+        {
+            "name": "Ferdi_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ferdi_C.png"
+        },
+        {
+            "name": "File-code-box_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/File-code-box_A.png"
+        },
+        {
+            "name": "Filebrowser_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Filebrowser_A.png"
+        },
+        {
+            "name": "Filebrowser_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Filebrowser_B.png"
+        },
+        {
+            "name": "Filerise_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Filerise_A.png"
+        },
+        {
+            "name": "Filerun_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Filerun_A.png"
+        },
+        {
+            "name": "Filerun_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Filerun_B.png"
+        },
+        {
+            "name": "Firefox_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Firefox_A.png"
+        },
+        {
+            "name": "Firefox_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Firefox_B.png"
+        },
+        {
+            "name": "Flaresolverr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flaresolverr_A.png"
+        },
+        {
+            "name": "Flatnotes_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flatnotes_A.png"
+        },
+        {
+            "name": "Flatnotes_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flatnotes_B.png"
+        },
+        {
+            "name": "Flclash_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flclash_A.png"
+        },
+        {
+            "name": "Fleet_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fleet_A.png"
+        },
+        {
+            "name": "Fleet_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Fleet_B.png"
+        },
+        {
+            "name": "Flexget_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flexget_A.png"
+        },
+        {
+            "name": "Flink_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flink_A.png"
+        },
+        {
+            "name": "Flink_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flink_B.png"
+        },
+        {
+            "name": "Flood_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Flood_A.png"
+        },
+        {
+            "name": "Focalboard_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Focalboard_A.png"
+        },
+        {
+            "name": "Focalboard_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Focalboard_B.png"
+        },
+        {
+            "name": "Folder_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Folder_A.png"
+        },
+        {
+            "name": "Folder_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Folder_B.png"
+        },
+        {
+            "name": "Foliate_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Foliate_A.png"
+        },
+        {
+            "name": "Frds_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frds_A.png"
+        },
+        {
+            "name": "Freefilesync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freefilesync_A.png"
+        },
+        {
+            "name": "Freegamesclaimer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freegamesclaimer_A.png"
+        },
+        {
+            "name": "Freenom_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freenom_A.png"
+        },
+        {
+            "name": "Freenom_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freenom_B.png"
+        },
+        {
+            "name": "Freshrss_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freshrss_A.png"
+        },
+        {
+            "name": "Freshrss_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Freshrss_B.png"
+        },
+        {
+            "name": "Frigate_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frigate_A.png"
+        },
+        {
+            "name": "Frigate_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frigate_B.png"
+        },
+        {
+            "name": "Frigate_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frigate_C.png"
+        },
+        {
+            "name": "Frigate_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frigate_D.png"
+        },
+        {
+            "name": "Frp_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Frp_A.png"
+        },
+        {
+            "name": "Gaodemap_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gaodemap_A.png"
+        },
+        {
+            "name": "Gatus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gatus_A.png"
+        },
+        {
+            "name": "Gatus_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gatus_B.png"
+        },
+        {
+            "name": "Gcore_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gcore_A.png"
+        },
+        {
+            "name": "Gcore_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gcore_B.png"
+        },
+        {
+            "name": "Gemini_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gemini_A.png"
+        },
+        {
+            "name": "Ghostfolio_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ghostfolio_A.png"
+        },
+        {
+            "name": "Gitea_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gitea_A.png"
+        },
+        {
+            "name": "Gitea_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gitea_B.png"
+        },
+        {
+            "name": "Gitee_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gitee_A.png"
+        },
+        {
+            "name": "Github-actions_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github-actions_A.png"
+        },
+        {
+            "name": "Github-actions_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github-actions_B.png"
+        },
+        {
+            "name": "Github-actions_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github-actions_C.png"
+        },
+        {
+            "name": "Github-actions_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github-actions_D.png"
+        },
+        {
+            "name": "Githubdesktop_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Githubdesktop_A.png"
+        },
+        {
+            "name": "Github_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github_A.png"
+        },
+        {
+            "name": "Github_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github_B.png"
+        },
+        {
+            "name": "Github_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Github_C.png"
+        },
+        {
+            "name": "Gitlab_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gitlab_A.png"
+        },
+        {
+            "name": "Gitlab_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gitlab_B.png"
+        },
+        {
+            "name": "Git_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Git_A.png"
+        },
+        {
+            "name": "Git_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Git_B.png"
+        },
+        {
+            "name": "Glances_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Glances_A.png"
+        },
+        {
+            "name": "Glances_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Glances_B.png"
+        },
+        {
+            "name": "Glances_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Glances_C.png"
+        },
+        {
+            "name": "Glances_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Glances_D.png"
+        },
+        {
+            "name": "Goland_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Goland_A.png"
+        },
+        {
+            "name": "Goland_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Goland_B.png"
+        },
+        {
+            "name": "Googleclassroom_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googleclassroom_A.png"
+        },
+        {
+            "name": "Googledrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googledrive_A.png"
+        },
+        {
+            "name": "Googleearth_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googleearth_A.png"
+        },
+        {
+            "name": "Googlemap_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googlemap_A.png"
+        },
+        {
+            "name": "Googletv_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googletv_A.png"
+        },
+        {
+            "name": "Googlevoice_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googlevoice_A.png"
+        },
+        {
+            "name": "Google_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Google_A.png"
+        },
+        {
+            "name": "Google_cloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Google_cloud_A.png"
+        },
+        {
+            "name": "Gopeed_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gopeed_A.png"
+        },
+        {
+            "name": "Gopeed_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Gopeed_B.png"
+        },
+        {
+            "name": "Grafana_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Grafana_A.png"
+        },
+        {
+            "name": "Grimoire_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Grimoire_A.png"
+        },
+        {
+            "name": "Grimoire_A_R",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Grimoire_A_R.png"
+        },
+        {
+            "name": "Guacamole_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Guacamole_A.png"
+        },
+        {
+            "name": "Hadoop_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hadoop_A.png"
+        },
+        {
+            "name": "Hadoop_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hadoop_B.png"
+        },
+        {
+            "name": "Halo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_A.png"
+        },
+        {
+            "name": "Halo_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_B.png"
+        },
+        {
+            "name": "Halo_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_C.png"
+        },
+        {
+            "name": "Halo_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_D.png"
+        },
+        {
+            "name": "Halo_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_E.png"
+        },
+        {
+            "name": "Halo_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Halo_F.png"
+        },
+        {
+            "name": "Handbrake_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Handbrake_A.png"
+        },
+        {
+            "name": "Handbrake_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Handbrake_B.png"
+        },
+        {
+            "name": "Ha_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ha_A.png"
+        },
+        {
+            "name": "Ha_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ha_B.png"
+        },
+        {
+            "name": "Ha_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ha_C.png"
+        },
+        {
+            "name": "Hbomax_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hbomax_A.png"
+        },
+        {
+            "name": "Hedgedoc_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hedgedoc_A.png"
+        },
+        {
+            "name": "Heimdall_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Heimdall_A.png"
+        },
+        {
+            "name": "Heimdall_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Heimdall_B.png"
+        },
+        {
+            "name": "Heimdall_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Heimdall_C.png"
+        },
+        {
+            "name": "Heimdall_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Heimdall_D.png"
+        },
+        {
+            "name": "Helm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Helm_A.png"
+        },
+        {
+            "name": "Helm_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Helm_B.png"
+        },
+        {
+            "name": "Hexo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hexo_A.png"
+        },
+        {
+            "name": "Hexo_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hexo_B.png"
+        },
+        {
+            "name": "Heyform_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Heyform_A.png"
+        },
+        {
+            "name": "Hiddify_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hiddify_A.png"
+        },
+        {
+            "name": "Hive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hive_A.png"
+        },
+        {
+            "name": "Hlink_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hlink_A.png"
+        },
+        {
+            "name": "Hoarder_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hoarder_A.png"
+        },
+        {
+            "name": "Homarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homarr_A.png"
+        },
+        {
+            "name": "Home-gallery_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Home-gallery_A.png"
+        },
+        {
+            "name": "Homebridge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homebridge_A.png"
+        },
+        {
+            "name": "Homepage_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homepage_A.png"
+        },
+        {
+            "name": "Homepage_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homepage_B.png"
+        },
+        {
+            "name": "Homepage_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homepage_C.png"
+        },
+        {
+            "name": "Homepage_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homepage_D.png"
+        },
+        {
+            "name": "Homer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homer_A.png"
+        },
+        {
+            "name": "Huashengke_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Huashengke_A.png"
+        },
+        {
+            "name": "Hulu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Hulu_A.png"
+        },
+        {
+            "name": "Iceberg_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iceberg_A.png"
+        },
+        {
+            "name": "Ikuai_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ikuai_A.png"
+        },
+        {
+            "name": "Ikuai_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ikuai_B.png"
+        },
+        {
+            "name": "Immich_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Immich_A.png"
+        },
+        {
+            "name": "Immich_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Immich_B.png"
+        },
+        {
+            "name": "Immich_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Immich_C.png"
+        },
+        {
+            "name": "Immich_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Immich_D.png"
+        },
+        {
+            "name": "Impala_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Impala_A.png"
+        },
+        {
+            "name": "Influxdb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Influxdb_A.png"
+        },
+        {
+            "name": "Influxdb_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Influxdb_B.png"
+        },
+        {
+            "name": "Intellij-idea_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Intellij-idea_A.png"
+        },
+        {
+            "name": "Intellij-idea_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Intellij-idea_B.png"
+        },
+        {
+            "name": "Invoice_ninja_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Invoice_ninja_A.png"
+        },
+        {
+            "name": "Iobroker_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iobroker_A.png"
+        },
+        {
+            "name": "Iptv_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_A.png"
+        },
+        {
+            "name": "Iptv_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_B.png"
+        },
+        {
+            "name": "Iptv_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_C.png"
+        },
+        {
+            "name": "Iptv_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_D.png"
+        },
+        {
+            "name": "Iptv_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_E.png"
+        },
+        {
+            "name": "Iptv_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_F.png"
+        },
+        {
+            "name": "Iptv_G",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iptv_G.png"
+        },
+        {
+            "name": "Ipw.cn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ipw.cn_A.png"
+        },
+        {
+            "name": "Istoreos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Istoreos_A.png"
+        },
+        {
+            "name": "Itdog.cn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Itdog.cn_A.png"
+        },
+        {
+            "name": "Ittools_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ittools_A.png"
+        },
+        {
+            "name": "Iyuu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Iyuu_A.png"
+        },
+        {
+            "name": "Jackett_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jackett_A.png"
+        },
+        {
+            "name": "Jellyfin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyfin_A.png"
+        },
+        {
+            "name": "Jellyfin_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyfin_B.png"
+        },
+        {
+            "name": "Jellyfin_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyfin_C.png"
+        },
+        {
+            "name": "Jellyseerr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr_A.png"
+        },
+        {
+            "name": "Jellyseerr_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jellyseerr_B.png"
+        },
+        {
+            "name": "Jelu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jelu_A.png"
+        },
+        {
+            "name": "Jenkins_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jenkins_A.png"
+        },
+        {
+            "name": "Jenkins_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jenkins_B.png"
+        },
+        {
+            "name": "Jfago_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jfago_A.png"
+        },
+        {
+            "name": "Jfago_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jfago_B.png"
+        },
+        {
+            "name": "Jmalcloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jmalcloud_A.png"
+        },
+        {
+            "name": "Joplin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Joplin_A.png"
+        },
+        {
+            "name": "Joplin_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Joplin_B.png"
+        },
+        {
+            "name": "Jumpserver_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jumpserver_A.png"
+        },
+        {
+            "name": "Jumpserver_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jumpserver_B.png"
+        },
+        {
+            "name": "Jupyter_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jupyter_A.png"
+        },
+        {
+            "name": "Jupyter_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Jupyter_B.png"
+        },
+        {
+            "name": "Kdocs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kdocs_A.png"
+        },
+        {
+            "name": "Kener_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kener_A.png"
+        },
+        {
+            "name": "Kmplayer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kmplayer_A.png"
+        },
+        {
+            "name": "Kodcloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kodcloud_A.png"
+        },
+        {
+            "name": "Kodcloud_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kodcloud_B.png"
+        },
+        {
+            "name": "Kodi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kodi_A.png"
+        },
+        {
+            "name": "Kodi_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kodi_B.png"
+        },
+        {
+            "name": "Koel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koel_A.png"
+        },
+        {
+            "name": "Komga_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Komga_A.png"
+        },
+        {
+            "name": "Komga_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Komga_B.png"
+        },
+        {
+            "name": "Koodoreader_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koodoreader_A.png"
+        },
+        {
+            "name": "Koodoreader_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koodoreader_B.png"
+        },
+        {
+            "name": "Koodoreader_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koodoreader_C.png"
+        },
+        {
+            "name": "Kopia_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kopia_A.png"
+        },
+        {
+            "name": "Koreader_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koreader_A.png"
+        },
+        {
+            "name": "Koshi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Koshi_A.png"
+        },
+        {
+            "name": "Kotlin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kotlin_A.png"
+        },
+        {
+            "name": "Kotlin_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kotlin_B.png"
+        },
+        {
+            "name": "Kplayer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kplayer_A.png"
+        },
+        {
+            "name": "Krusader_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Krusader_A.png"
+        },
+        {
+            "name": "Krusader_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Krusader_B.png"
+        },
+        {
+            "name": "Ktor_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ktor_A.png"
+        },
+        {
+            "name": "Ktor_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ktor_B.png"
+        },
+        {
+            "name": "Kubernetes_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kubernetes_A.png"
+        },
+        {
+            "name": "Kubernetes_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kubernetes_B.png"
+        },
+        {
+            "name": "Kubespider_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kubespider_A.png"
+        },
+        {
+            "name": "Kutt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Kutt_A.png"
+        },
+        {
+            "name": "Lakekeeper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lakekeeper_A.png"
+        },
+        {
+            "name": "Lanzouyun_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lanzouyun_A.png"
+        },
+        {
+            "name": "Lanzouyun_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lanzouyun_B.png"
+        },
+        {
+            "name": "Lanzouyun_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lanzouyun_C.png"
+        },
+        {
+            "name": "Lanzouyun_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lanzouyun_D.png"
+        },
+        {
+            "name": "Leantime_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Leantime_A.png"
+        },
+        {
+            "name": "Leantime_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Leantime_B.png"
+        },
+        {
+            "name": "Leichi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Leichi_A.png"
+        },
+        {
+            "name": "Libreddit_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Libreddit_A.png"
+        },
+        {
+            "name": "Librespeed_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Librespeed_A.png"
+        },
+        {
+            "name": "Lidarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lidarr_A.png"
+        },
+        {
+            "name": "Limesurvey_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Limesurvey_A.png"
+        },
+        {
+            "name": "Limesurvey_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Limesurvey_B.png"
+        },
+        {
+            "name": "Linkace_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkace_A.png"
+        },
+        {
+            "name": "Linkace_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkace_B.png"
+        },
+        {
+            "name": "Linkace_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkace_C.png"
+        },
+        {
+            "name": "Linkace_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkace_D.png"
+        },
+        {
+            "name": "Linkding_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkding_A.png"
+        },
+        {
+            "name": "Linkease_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkease_A.png"
+        },
+        {
+            "name": "Linkwarden_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linkwarden_A.png"
+        },
+        {
+            "name": "Linux_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Linux_A.png"
+        },
+        {
+            "name": "Listmonk_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Listmonk_A.png"
+        },
+        {
+            "name": "Listmonk_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Listmonk_B.png"
+        },
+        {
+            "name": "Loggit_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Loggit_A.png"
+        },
+        {
+            "name": "Logseq_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Logseq_A.png"
+        },
+        {
+            "name": "Lol-esports_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lol-esports_A.png"
+        },
+        {
+            "name": "Lomorage_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lomorage_A.png"
+        },
+        {
+            "name": "Lrcapi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lrcapi_A.png"
+        },
+        {
+            "name": "Lskypro_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lskypro_A.png"
+        },
+        {
+            "name": "Lucky_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lucky_A.png"
+        },
+        {
+            "name": "Lynx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Lynx_A.png"
+        },
+        {
+            "name": "Macos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Macos_A.png"
+        },
+        {
+            "name": "Mafl_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mafl_A.png"
+        },
+        {
+            "name": "Maloja_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Maloja_A.png"
+        },
+        {
+            "name": "Maloja_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Maloja_B.png"
+        },
+        {
+            "name": "Manticore-search_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Manticore-search_A.png"
+        },
+        {
+            "name": "Mariadb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mariadb_A.png"
+        },
+        {
+            "name": "Mariadb_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mariadb_B.png"
+        },
+        {
+            "name": "Mastodon_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mastodon_A.png"
+        },
+        {
+            "name": "Mastodon_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mastodon_B.png"
+        },
+        {
+            "name": "Mastodon_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mastodon_C.png"
+        },
+        {
+            "name": "Mathesar_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mathesar_A.png"
+        },
+        {
+            "name": "Mattermost_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mattermost_A.png"
+        },
+        {
+            "name": "Mattermost_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mattermost_B.png"
+        },
+        {
+            "name": "Mattermost_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mattermost_C.png"
+        },
+        {
+            "name": "Mattermost_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mattermost_D.png"
+        },
+        {
+            "name": "Mautic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mautic_A.png"
+        },
+        {
+            "name": "Mazanoke_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mazanoke_A.png"
+        },
+        {
+            "name": "Mdcng_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mdcng_A.png"
+        },
+        {
+            "name": "Mdcng_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mdcng_B.png"
+        },
+        {
+            "name": "Mdcx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mdcx_A.png"
+        },
+        {
+            "name": "Media302_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Media302_A.png"
+        },
+        {
+            "name": "Media302_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Media302_B.png"
+        },
+        {
+            "name": "Media302_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Media302_C.png"
+        },
+        {
+            "name": "Mediaelch_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mediaelch_A.png"
+        },
+        {
+            "name": "Mediainfo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mediainfo_A.png"
+        },
+        {
+            "name": "Mediasaber_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mediasaber_A.png"
+        },
+        {
+            "name": "Mediawiki_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mediawiki_A.png"
+        },
+        {
+            "name": "Meilisearch_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Meilisearch_A.png"
+        },
+        {
+            "name": "Melody_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Melody_A.png"
+        },
+        {
+            "name": "Memcached_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memcached_A.png"
+        },
+        {
+            "name": "Memos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memos_A.png"
+        },
+        {
+            "name": "Memos_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memos_B.png"
+        },
+        {
+            "name": "Memos_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memos_C.png"
+        },
+        {
+            "name": "Memos_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memos_D.png"
+        },
+        {
+            "name": "Memos_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Memos_E.png"
+        },
+        {
+            "name": "Meremedical_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Meremedical_A.png"
+        },
+        {
+            "name": "Metabase_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Metabase_A.png"
+        },
+        {
+            "name": "Metacubexd_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Metacubexd_A.png"
+        },
+        {
+            "name": "Metatube_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Metatube_A.png"
+        },
+        {
+            "name": "Metube_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Metube_A.png"
+        },
+        {
+            "name": "Metube_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Metube_B.png"
+        },
+        {
+            "name": "Mgm+_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mgm+_A.png"
+        },
+        {
+            "name": "Microsoft365_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Microsoft365_A.png"
+        },
+        {
+            "name": "Microtalk-p2p_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Microtalk-p2p_A.png"
+        },
+        {
+            "name": "Microtalk-sfu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Microtalk-sfu_A.png"
+        },
+        {
+            "name": "Mihomo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mihomo_A.png"
+        },
+        {
+            "name": "Mimiri-notes_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mimiri-notes_A.png"
+        },
+        {
+            "name": "Mindsdb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mindsdb_A.png"
+        },
+        {
+            "name": "Miniflux_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Miniflux_A.png"
+        },
+        {
+            "name": "Minio_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_A.png"
+        },
+        {
+            "name": "Minio_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_B.png"
+        },
+        {
+            "name": "Minio_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_C.png"
+        },
+        {
+            "name": "Minio_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Minio_D.png"
+        },
+        {
+            "name": "Miniserve_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Miniserve_A.png"
+        },
+        {
+            "name": "Miwifi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Miwifi_A.png"
+        },
+        {
+            "name": "Mkvtoolnix_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mkvtoolnix_A.png"
+        },
+        {
+            "name": "Mkvtoolnix_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mkvtoolnix_B.png"
+        },
+        {
+            "name": "Mobiledrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mobiledrive_A.png"
+        },
+        {
+            "name": "Mongodb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mongodb_A.png"
+        },
+        {
+            "name": "Mongodb_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mongodb_B.png"
+        },
+        {
+            "name": "Mongodb_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mongodb_C.png"
+        },
+        {
+            "name": "Mongodb_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mongodb_D.png"
+        },
+        {
+            "name": "Moodle_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Moodle_A.png"
+        },
+        {
+            "name": "Mosdns_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mosdns_A.png"
+        },
+        {
+            "name": "Mosquitto_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mosquitto_A.png"
+        },
+        {
+            "name": "Mosquitto_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mosquitto_B.png"
+        },
+        {
+            "name": "Motrix_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Motrix_A.png"
+        },
+        {
+            "name": "Mover_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mover_A.png"
+        },
+        {
+            "name": "Moviepilot_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Moviepilot_A.png"
+        },
+        {
+            "name": "Moviepilot_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Moviepilot_B.png"
+        },
+        {
+            "name": "Movierobot_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Movierobot_A.png"
+        },
+        {
+            "name": "Movierobot_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Movierobot_B.png"
+        },
+        {
+            "name": "Mps_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mps_A.png"
+        },
+        {
+            "name": "Mps_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mps_B.png"
+        },
+        {
+            "name": "Mtphotos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mtphotos_A.png"
+        },
+        {
+            "name": "Mtphotos_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mtphotos_B.png"
+        },
+        {
+            "name": "Mtphotos_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mtphotos_C.png"
+        },
+        {
+            "name": "Mt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mt_A.png"
+        },
+        {
+            "name": "Musicn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Musicn_A.png"
+        },
+        {
+            "name": "Musictag_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Musictag_A.png"
+        },
+        {
+            "name": "Mysql_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mysql_A.png"
+        },
+        {
+            "name": "Mysql_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mysql_B.png"
+        },
+        {
+            "name": "Nascab_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nascab_A.png"
+        },
+        {
+            "name": "Nastools_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nastools_A.png"
+        },
+        {
+            "name": "Nastools_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nastools_B.png"
+        },
+        {
+            "name": "Navicat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Navicat_A.png"
+        },
+        {
+            "name": "Navidrome_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Navidrome_A.png"
+        },
+        {
+            "name": "Navidrome_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Navidrome_B.png"
+        },
+        {
+            "name": "Ndu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ndu_A.png"
+        },
+        {
+            "name": "Ndu_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ndu_B.png"
+        },
+        {
+            "name": "Neko_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Neko_A.png"
+        },
+        {
+            "name": "Nessus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nessus_A.png"
+        },
+        {
+            "name": "Nessus_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nessus_B.png"
+        },
+        {
+            "name": "Netdata_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Netdata_A.png"
+        },
+        {
+            "name": "Netdata_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Netdata_B.png"
+        },
+        {
+            "name": "Netflix_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Netflix_A.png"
+        },
+        {
+            "name": "Nextcloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nextcloud_A.png"
+        },
+        {
+            "name": "Nexterm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nexterm_A.png"
+        },
+        {
+            "name": "Nextterminal_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nextterminal_A.png"
+        },
+        {
+            "name": "Nezha_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nezha_A.png"
+        },
+        {
+            "name": "Nginx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_A.png"
+        },
+        {
+            "name": "Nginx_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_B.png"
+        },
+        {
+            "name": "Nginx_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_C.png"
+        },
+        {
+            "name": "Nginx_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_D.png"
+        },
+        {
+            "name": "Nginx_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_E.png"
+        },
+        {
+            "name": "Nginx_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_F.png"
+        },
+        {
+            "name": "Nginx_G",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_G.png"
+        },
+        {
+            "name": "Nginx_H",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nginx_H.png"
+        },
+        {
+            "name": "Nodered_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nodered_A.png"
+        },
+        {
+            "name": "Nodered_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nodered_B.png"
+        },
+        {
+            "name": "Notabase_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Notabase_A.png"
+        },
+        {
+            "name": "Notemark_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Notemark_A.png"
+        },
+        {
+            "name": "Notesnook_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Notesnook_A.png"
+        },
+        {
+            "name": "Npm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Npm_A.png"
+        },
+        {
+            "name": "Npm_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Npm_B.png"
+        },
+        {
+            "name": "Npm_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Npm_C.png"
+        },
+        {
+            "name": "Npm_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Npm_D.png"
+        },
+        {
+            "name": "Nps_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nps_A.png"
+        },
+        {
+            "name": "Nps_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nps_B.png"
+        },
+        {
+            "name": "Ntfy_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ntfy_A.png"
+        },
+        {
+            "name": "Nut_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nut_A.png"
+        },
+        {
+            "name": "Nvidia_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nvidia_A.png"
+        },
+        {
+            "name": "Nvidia_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nvidia_B.png"
+        },
+        {
+            "name": "Nxshell_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Nxshell_A.png"
+        },
+        {
+            "name": "Oauth2proxy_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Oauth2proxy_A.png"
+        },
+        {
+            "name": "Obsidian_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Obsidian_A.png"
+        },
+        {
+            "name": "Ob_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ob_A.png"
+        },
+        {
+            "name": "Office_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Office_A.png"
+        },
+        {
+            "name": "Office_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Office_B.png"
+        },
+        {
+            "name": "Ollama_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ollama_A.png"
+        },
+        {
+            "name": "Ombi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ombi_A.png"
+        },
+        {
+            "name": "Ombi_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ombi_B.png"
+        },
+        {
+            "name": "Omnivore_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Omnivore_A.png"
+        },
+        {
+            "name": "Omnivore_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Omnivore_B.png"
+        },
+        {
+            "name": "Onedev_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onedev_A.png"
+        },
+        {
+            "name": "Onedrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onedrive_A.png"
+        },
+        {
+            "name": "Onedrive_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onedrive_B.png"
+        },
+        {
+            "name": "Onedrive_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onedrive_C.png"
+        },
+        {
+            "name": "Onestrm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onestrm_A.png"
+        },
+        {
+            "name": "Onlyoffice_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onlyoffice_A.png"
+        },
+        {
+            "name": "Onlyoffice_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Onlyoffice_B.png"
+        },
+        {
+            "name": "Open-metadata_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Open-metadata_A.png"
+        },
+        {
+            "name": "Open-webui_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Open-webui_A.png"
+        },
+        {
+            "name": "Openvpn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openvpn_A.png"
+        },
+        {
+            "name": "Openvpn_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openvpn_B.png"
+        },
+        {
+            "name": "Openwrt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_A.png"
+        },
+        {
+            "name": "Openwrt_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openwrt_B.png"
+        },
+        {
+            "name": "Orion-visor_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Orion-visor_A.png"
+        },
+        {
+            "name": "Outline_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Outline_A.png"
+        },
+        {
+            "name": "Overleaf_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overleaf_A.png"
+        },
+        {
+            "name": "Overleaf_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overleaf_B.png"
+        },
+        {
+            "name": "Overseerr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr_A.png"
+        },
+        {
+            "name": "Overseerr_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr_B.png"
+        },
+        {
+            "name": "Overseerr_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr_C.png"
+        },
+        {
+            "name": "Overseerr_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Overseerr_D.png"
+        },
+        {
+            "name": "Oxicloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Oxicloud_A.png"
+        },
+        {
+            "name": "Padavan_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Padavan_A.png"
+        },
+        {
+            "name": "Padavan_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Padavan_B.png"
+        },
+        {
+            "name": "Padloc_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Padloc_A.png"
+        },
+        {
+            "name": "Palworld_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_A.png"
+        },
+        {
+            "name": "Palworld_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_B.png"
+        },
+        {
+            "name": "Palworld_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_C.png"
+        },
+        {
+            "name": "Palworld_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_D.png"
+        },
+        {
+            "name": "Palworld_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_E.png"
+        },
+        {
+            "name": "Palworld_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_F.png"
+        },
+        {
+            "name": "Paramount+_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Paramount+_A.png"
+        },
+        {
+            "name": "Passbolt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Passbolt_A.png"
+        },
+        {
+            "name": "Passbolt_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Passbolt_B.png"
+        },
+        {
+            "name": "Passky_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Passky_A.png"
+        },
+        {
+            "name": "Peanut_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Peanut_A.png"
+        },
+        {
+            "name": "Pgvecto.rs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pgvecto.rs_A.png"
+        },
+        {
+            "name": "Photopea_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photopea_A.png"
+        },
+        {
+            "name": "Photoprism_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoprism_A.png"
+        },
+        {
+            "name": "Photoprism_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoprism_B.png"
+        },
+        {
+            "name": "Photoprism_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoprism_C.png"
+        },
+        {
+            "name": "Photoshop_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoshop_A.png"
+        },
+        {
+            "name": "Photostructure_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photostructure_A.png"
+        },
+        {
+            "name": "Photostructure_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photostructure_B.png"
+        },
+        {
+            "name": "Photostructure_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photostructure_C.png"
+        },
+        {
+            "name": "Photostructure_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photostructure_D.png"
+        },
+        {
+            "name": "Photostructure_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photostructure_E.png"
+        },
+        {
+            "name": "Photoview_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoview_A.png"
+        },
+        {
+            "name": "Photoview_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Photoview_B.png"
+        },
+        {
+            "name": "Phpstorm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Phpstorm_A.png"
+        },
+        {
+            "name": "Phpstorm_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Phpstorm_B.png"
+        },
+        {
+            "name": "Pihole_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pihole_A.png"
+        },
+        {
+            "name": "Pihole_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pihole_B.png"
+        },
+        {
+            "name": "Pikpak_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pikpak_A.png"
+        },
+        {
+            "name": "Pingvin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pingvin_A.png"
+        },
+        {
+            "name": "Planka_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Planka_A.png"
+        },
+        {
+            "name": "Plexmetamanager_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plexmetamanager_A.png"
+        },
+        {
+            "name": "Plexmetamanager_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plexmetamanager_B.png"
+        },
+        {
+            "name": "Plexmetamanager_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plexmetamanager_C.png"
+        },
+        {
+            "name": "Plexmetamanager_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plexmetamanager_D.png"
+        },
+        {
+            "name": "Plex_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plex_A.png"
+        },
+        {
+            "name": "Plex_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plex_B.png"
+        },
+        {
+            "name": "Plex_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plex_C.png"
+        },
+        {
+            "name": "Plugins_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plugins_A.png"
+        },
+        {
+            "name": "Plugins_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Plugins_B.png"
+        },
+        {
+            "name": "Pma_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pma_A.png"
+        },
+        {
+            "name": "Pma_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pma_B.png"
+        },
+        {
+            "name": "Pomerium_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pomerium_A.png"
+        },
+        {
+            "name": "Pomerium_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pomerium_B.png"
+        },
+        {
+            "name": "Portainer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Portainer_A.png"
+        },
+        {
+            "name": "Portainer_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Portainer_B.png"
+        },
+        {
+            "name": "Portainer_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Portainer_C.png"
+        },
+        {
+            "name": "Portainer_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Portainer_D.png"
+        },
+        {
+            "name": "Postgresql_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Postgresql_A.png"
+        },
+        {
+            "name": "Postgresql_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Postgresql_B.png"
+        },
+        {
+            "name": "Primevideo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Primevideo_A.png"
+        },
+        {
+            "name": "Prometheus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Prometheus_A.png"
+        },
+        {
+            "name": "Prometheus_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Prometheus_B.png"
+        },
+        {
+            "name": "Prowlarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Prowlarr_A.png"
+        },
+        {
+            "name": "Pthelper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pthelper_A.png"
+        },
+        {
+            "name": "Pthelper_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pthelper_B.png"
+        },
+        {
+            "name": "Ptools_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ptools_A.png"
+        },
+        {
+            "name": "Ptools_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ptools_B.png"
+        },
+        {
+            "name": "Ptools_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ptools_C.png"
+        },
+        {
+            "name": "Pushplus_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pushplus_A.png"
+        },
+        {
+            "name": "Pve_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pve_A.png"
+        },
+        {
+            "name": "Pve_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pve_B.png"
+        },
+        {
+            "name": "Pve_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pve_C.png"
+        },
+        {
+            "name": "Pycharm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pycharm_A.png"
+        },
+        {
+            "name": "Pycharm_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pycharm_B.png"
+        },
+        {
+            "name": "Pydiocells_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Pydiocells_A.png"
+        },
+        {
+            "name": "Python_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Python_A.png"
+        },
+        {
+            "name": "Qbitmanage_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qbitmanage_A.png"
+        },
+        {
+            "name": "Qbittorrent_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png"
+        },
+        {
+            "name": "Qbittorrent_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qbittorrent_B.png"
+        },
+        {
+            "name": "Qi-reader_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qi-reader_A.png"
+        },
+        {
+            "name": "Qiandao_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qiandao_A.png"
+        },
+        {
+            "name": "Qinglong_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_A.png"
+        },
+        {
+            "name": "Qinglong_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qinglong_B.png"
+        },
+        {
+            "name": "Qiniu_cloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qiniu_cloud_A.png"
+        },
+        {
+            "name": "Qnap_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qnap_A.png"
+        },
+        {
+            "name": "Qnap_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qnap_B.png"
+        },
+        {
+            "name": "Qodana_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qodana_A.png"
+        },
+        {
+            "name": "Qodana_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Qodana_B.png"
+        },
+        {
+            "name": "QQ_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/QQ_A.png"
+        },
+        {
+            "name": "Quantumultx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Quantumultx_A.png"
+        },
+        {
+            "name": "Quill_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Quill_A.png"
+        },
+        {
+            "name": "Quill_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Quill_B.png"
+        },
+        {
+            "name": "Radarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Radarr_A.png"
+        },
+        {
+            "name": "Rclonebrowser_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rclonebrowser_A.png"
+        },
+        {
+            "name": "Rclone_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rclone_A.png"
+        },
+        {
+            "name": "Rclone_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rclone_B.png"
+        },
+        {
+            "name": "Readarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Readarr_A.png"
+        },
+        {
+            "name": "Readarr_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Readarr_B.png"
+        },
+        {
+            "name": "Readeck_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Readeck_A.png"
+        },
+        {
+            "name": "Readthedocs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Readthedocs_A.png"
+        },
+        {
+            "name": "Readthedocs_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Readthedocs_B.png"
+        },
+        {
+            "name": "Recommendarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Recommendarr_A.png"
+        },
+        {
+            "name": "Redhat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Redhat_A.png"
+        },
+        {
+            "name": "Redis_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Redis_A.png"
+        },
+        {
+            "name": "Redleaves_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Redleaves_A.png"
+        },
+        {
+            "name": "Remotely_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Remotely_A.png"
+        },
+        {
+            "name": "Requestrr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Requestrr_A.png"
+        },
+        {
+            "name": "Resharperc++_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Resharperc++_A.png"
+        },
+        {
+            "name": "Resharperc++_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Resharperc++_B.png"
+        },
+        {
+            "name": "Resharper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Resharper_A.png"
+        },
+        {
+            "name": "Resharper_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Resharper_B.png"
+        },
+        {
+            "name": "Resilio-sync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Resilio-sync_A.png"
+        },
+        {
+            "name": "Riderflow_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riderflow_A.png"
+        },
+        {
+            "name": "Riderflow_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riderflow_B.png"
+        },
+        {
+            "name": "Rider_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rider_A.png"
+        },
+        {
+            "name": "Rider_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rider_B.png"
+        },
+        {
+            "name": "Riot-games_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riot-games_A.png"
+        },
+        {
+            "name": "Riot-games_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riot-games_B.png"
+        },
+        {
+            "name": "Riot-games_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riot-games_C.png"
+        },
+        {
+            "name": "Riot-games_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Riot-games_D.png"
+        },
+        {
+            "name": "Rocketchat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocketchat_A.png"
+        },
+        {
+            "name": "Rocketchat_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocketchat_B.png"
+        },
+        {
+            "name": "Rocky_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocky_A.png"
+        },
+        {
+            "name": "Rocky_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocky_B.png"
+        },
+        {
+            "name": "Rocky_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocky_C.png"
+        },
+        {
+            "name": "Rocky_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rocky_D.png"
+        },
+        {
+            "name": "Rog_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rog_A.png"
+        },
+        {
+            "name": "Rog_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rog_B.png"
+        },
+        {
+            "name": "Roon_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Roon_A.png"
+        },
+        {
+            "name": "Roon_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Roon_B.png"
+        },
+        {
+            "name": "Rosy_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rosy_A.png"
+        },
+        {
+            "name": "Routeros_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Routeros_A.png"
+        },
+        {
+            "name": "Routeros_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Routeros_B.png"
+        },
+        {
+            "name": "Rsshub_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsshub_A.png"
+        },
+        {
+            "name": "Rsync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rsync_A.png"
+        },
+        {
+            "name": "Rubymine_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rubymine_A.png"
+        },
+        {
+            "name": "Rubymine_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rubymine_B.png"
+        },
+        {
+            "name": "Rustdesk_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rustdesk_A.png"
+        },
+        {
+            "name": "Rustrover_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rustrover_A.png"
+        },
+        {
+            "name": "Rustrover_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rustrover_B.png"
+        },
+        {
+            "name": "Rxresume_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Rxresume_A.png"
+        },
+        {
+            "name": "Scala_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scala_A.png"
+        },
+        {
+            "name": "Scala_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scala_B.png"
+        },
+        {
+            "name": "Scrutiny_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scrutiny_A.png"
+        },
+        {
+            "name": "Scrutiny_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scrutiny_B.png"
+        },
+        {
+            "name": "Scrutiny_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scrutiny_C.png"
+        },
+        {
+            "name": "Scrutiny_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Scrutiny_D.png"
+        },
+        {
+            "name": "Seafile_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Seafile_A.png"
+        },
+        {
+            "name": "Searxng_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Searxng_A.png"
+        },
+        {
+            "name": "Searx_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Searx_A.png"
+        },
+        {
+            "name": "Seatable_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Seatable_A.png"
+        },
+        {
+            "name": "Seatable_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Seatable_B.png"
+        },
+        {
+            "name": "Selectdb_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Selectdb_A.png"
+        },
+        {
+            "name": "Servas_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Servas_A.png"
+        },
+        {
+            "name": "Sftpgo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sftpgo_A.png"
+        },
+        {
+            "name": "Sftpgo_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sftpgo_B.png"
+        },
+        {
+            "name": "Shadowrocket_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shadowrocket_A.png"
+        },
+        {
+            "name": "Shadowsocksr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shadowsocksr_A.png"
+        },
+        {
+            "name": "Shadowsocks_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shadowsocks_A.png"
+        },
+        {
+            "name": "Sharkpt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sharkpt_A.png"
+        },
+        {
+            "name": "Shiori_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Shiori_A.png"
+        },
+        {
+            "name": "Showtime_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Showtime_A.png"
+        },
+        {
+            "name": "Sht_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sht_A.png"
+        },
+        {
+            "name": "Singbox_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Singbox_A.png"
+        },
+        {
+            "name": "Siyuan_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Siyuan_A.png"
+        },
+        {
+            "name": "Slack_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Slack_A.png"
+        },
+        {
+            "name": "Slash_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Slash_A.png"
+        },
+        {
+            "name": "Smanga_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Smanga_A.png"
+        },
+        {
+            "name": "Smartdns_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Smartdns_A.png"
+        },
+        {
+            "name": "Smartdns_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Smartdns_B.png"
+        },
+        {
+            "name": "Snap2html_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Snap2html_A.png"
+        },
+        {
+            "name": "Snapdrop_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Snapdrop_A.png"
+        },
+        {
+            "name": "Sonarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sonarr_A.png"
+        },
+        {
+            "name": "Sonatype-nexus-repository_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sonatype-nexus-repository_A.png"
+        },
+        {
+            "name": "Sonatype-nexus-repository_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sonatype-nexus-repository_B.png"
+        },
+        {
+            "name": "Sonatype_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sonatype_A.png"
+        },
+        {
+            "name": "Speedtest_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Speedtest_A.png"
+        },
+        {
+            "name": "Splayer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Splayer_A.png"
+        },
+        {
+            "name": "Spotify_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Spotify_A.png"
+        },
+        {
+            "name": "Squoosh_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Squoosh_A.png"
+        },
+        {
+            "name": "Ssd_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ssd_A.png"
+        },
+        {
+            "name": "Ssd_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ssd_B.png"
+        },
+        {
+            "name": "Ssd_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ssd_C.png"
+        },
+        {
+            "name": "Sshwifty_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sshwifty_A.png"
+        },
+        {
+            "name": "Standardnotes_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Standardnotes_A.png"
+        },
+        {
+            "name": "Standardnotes_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Standardnotes_B.png"
+        },
+        {
+            "name": "Stash_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Stash_A.png"
+        },
+        {
+            "name": "Steam_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Steam_A.png"
+        },
+        {
+            "name": "Stirlingpdf_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Stirlingpdf_A.png"
+        },
+        {
+            "name": "Subplayer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Subplayer_A.png"
+        },
+        {
+            "name": "Sunpanel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sunpanel_A.png"
+        },
+        {
+            "name": "Sunpanel_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Sunpanel_B.png"
+        },
+        {
+            "name": "Superset_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Superset_A.png"
+        },
+        {
+            "name": "Superset_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Superset_B.png"
+        },
+        {
+            "name": "Superset_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Superset_C.png"
+        },
+        {
+            "name": "Superset_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Superset_D.png"
+        },
+        {
+            "name": "Surfboard_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Surfboard_A.png"
+        },
+        {
+            "name": "Suwayomi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Suwayomi_A.png"
+        },
+        {
+            "name": "Swingmusic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Swingmusic_A.png"
+        },
+        {
+            "name": "Symedia_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Symedia_A.png"
+        },
+        {
+            "name": "Symedia_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Symedia_B.png"
+        },
+        {
+            "name": "Symedia_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Symedia_C.png"
+        },
+        {
+            "name": "Symedia_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Symedia_D.png"
+        },
+        {
+            "name": "Syncplay_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Syncplay_A.png"
+        },
+        {
+            "name": "Syncthing_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Syncthing_A.png"
+        },
+        {
+            "name": "Syncthing_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Syncthing_B.png"
+        },
+        {
+            "name": "Synctv_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synctv_A.png"
+        },
+        {
+            "name": "Synctv_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synctv_B.png"
+        },
+        {
+            "name": "Synochat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synochat_A.png"
+        },
+        {
+            "name": "Synodrive_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synodrive_A.png"
+        },
+        {
+            "name": "Synolivecam_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synolivecam_A.png"
+        },
+        {
+            "name": "Synology_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology_A.png"
+        },
+        {
+            "name": "Synology_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology_B.png"
+        },
+        {
+            "name": "Synomail_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synomail_A.png"
+        },
+        {
+            "name": "Synomoments_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synomoments_A.png"
+        },
+        {
+            "name": "Synophotos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synophotos_A.png"
+        },
+        {
+            "name": "Synosecure_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synosecure_A.png"
+        },
+        {
+            "name": "Synovpn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synovpn_A.png"
+        },
+        {
+            "name": "Tabby_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tabby_A.png"
+        },
+        {
+            "name": "Tailchat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailchat_A.png"
+        },
+        {
+            "name": "Tailscale_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tailscale_A.png"
+        },
+        {
+            "name": "Tandoor_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tandoor_A.png"
+        },
+        {
+            "name": "Tasmoadmin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tasmoadmin_A.png"
+        },
+        {
+            "name": "Tasmota_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tasmota_A.png"
+        },
+        {
+            "name": "Tasmota_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tasmota_B.png"
+        },
+        {
+            "name": "Tautulli_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tautulli_A.png"
+        },
+        {
+            "name": "Tbs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tbs_A.png"
+        },
+        {
+            "name": "Tdarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tdarr_A.png"
+        },
+        {
+            "name": "Teable_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teable_A.png"
+        },
+        {
+            "name": "Teammapper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teammapper_A.png"
+        },
+        {
+            "name": "Teampass_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teampass_A.png"
+        },
+        {
+            "name": "Teamspeak_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teamspeak_A.png"
+        },
+        {
+            "name": "Telegram_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Telegram_A.png"
+        },
+        {
+            "name": "Telegram_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Telegram_B.png"
+        },
+        {
+            "name": "Tenable_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tenable_A.png"
+        },
+        {
+            "name": "Tenable_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tenable_B.png"
+        },
+        {
+            "name": "Tencent_cloud_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tencent_cloud_A.png"
+        },
+        {
+            "name": "Terabox_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Terabox_A.png"
+        },
+        {
+            "name": "Terabox_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Terabox_B.png"
+        },
+        {
+            "name": "Termix_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Termix_A.png"
+        },
+        {
+            "name": "Teslamate_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teslamate_A.png"
+        },
+        {
+            "name": "Teslamate_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teslamate_B.png"
+        },
+        {
+            "name": "The-lounge_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/The-lounge_A.png"
+        },
+        {
+            "name": "Themeengine_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Themeengine_A.png"
+        },
+        {
+            "name": "Thunderbird_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Thunderbird_A.png"
+        },
+        {
+            "name": "Tieba_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tieba_A.png"
+        },
+        {
+            "name": "Tiktok_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tiktok_A.png"
+        },
+        {
+            "name": "Time_machine_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Time_machine_A.png"
+        },
+        {
+            "name": "Tips_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tips_A.png"
+        },
+        {
+            "name": "Tjupt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tjupt_A.png"
+        },
+        {
+            "name": "Tmm5_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tmm5_A.png"
+        },
+        {
+            "name": "Tmm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tmm_A.png"
+        },
+        {
+            "name": "Tongyi_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tongyi_A.png"
+        },
+        {
+            "name": "Tongyi_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tongyi_B.png"
+        },
+        {
+            "name": "Tongyi_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tongyi_C.png"
+        },
+        {
+            "name": "Toolbox_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Toolbox_A.png"
+        },
+        {
+            "name": "Toolbox_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Toolbox_B.png"
+        },
+        {
+            "name": "Tortoisesvn_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tortoisesvn_A.png"
+        },
+        {
+            "name": "Tortoisesvn_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tortoisesvn_B.png"
+        },
+        {
+            "name": "Tortoisesvn_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tortoisesvn_C.png"
+        },
+        {
+            "name": "Tortoisesvn_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tortoisesvn_D.png"
+        },
+        {
+            "name": "Traccar-client_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Traccar-client_A.png"
+        },
+        {
+            "name": "Traccar-manager_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Traccar-manager_A.png"
+        },
+        {
+            "name": "Traefik_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Traefik_A.png"
+        },
+        {
+            "name": "Traefik_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Traefik_B.png"
+        },
+        {
+            "name": "Transmission_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Transmission_A.png"
+        },
+        {
+            "name": "Transmission_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Transmission_B.png"
+        },
+        {
+            "name": "Trilium_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Trilium_A.png"
+        },
+        {
+            "name": "Trilium_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Trilium_B.png"
+        },
+        {
+            "name": "Truenas_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_A.png"
+        },
+        {
+            "name": "Truenas_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_B.png"
+        },
+        {
+            "name": "Truenas_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_C.png"
+        },
+        {
+            "name": "Truenas_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_D.png"
+        },
+        {
+            "name": "Truenas_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_E.png"
+        },
+        {
+            "name": "Truenas_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Truenas_F.png"
+        },
+        {
+            "name": "Tvhelper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tvhelper_A.png"
+        },
+        {
+            "name": "Ubuntu_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_A.png"
+        },
+        {
+            "name": "Ubuntu_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_B.png"
+        },
+        {
+            "name": "Ubuntu_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_C.png"
+        },
+        {
+            "name": "Ubuntu_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ubuntu_D.png"
+        },
+        {
+            "name": "Unbalance_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unbalance_A.png"
+        },
+        {
+            "name": "Unbound_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unbound_A.png"
+        },
+        {
+            "name": "Unbound_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unbound_B.png"
+        },
+        {
+            "name": "Univer_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Univer_A.png"
+        },
+        {
+            "name": "Univer_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Univer_B.png"
+        },
+        {
+            "name": "Unlockmusic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unlockmusic_A.png"
+        },
+        {
+            "name": "Unlockmusic_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unlockmusic_B.png"
+        },
+        {
+            "name": "Unraid_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unraid_A.png"
+        },
+        {
+            "name": "Unraid_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unraid_B.png"
+        },
+        {
+            "name": "Unraid_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unraid_C.png"
+        },
+        {
+            "name": "Unraid_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Unraid_D.png"
+        },
+        {
+            "name": "Upsnap_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Upsnap_A.png"
+        },
+        {
+            "name": "Uptimekuma_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Uptimekuma_A.png"
+        },
+        {
+            "name": "Uptimekuma_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Uptimekuma_B.png"
+        },
+        {
+            "name": "V2raya_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2raya_A.png"
+        },
+        {
+            "name": "V2raya_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2raya_B.png"
+        },
+        {
+            "name": "V2raya_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2raya_C.png"
+        },
+        {
+            "name": "V2raya_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2raya_D.png"
+        },
+        {
+            "name": "V2ray_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2ray_A.png"
+        },
+        {
+            "name": "V2ray_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/V2ray_B.png"
+        },
+        {
+            "name": "Vagrant_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vagrant_A.png"
+        },
+        {
+            "name": "Vagrant_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vagrant_B.png"
+        },
+        {
+            "name": "Vertex_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vertex_A.png"
+        },
+        {
+            "name": "Vertex_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vertex_B.png"
+        },
+        {
+            "name": "Verysync_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Verysync_A.png"
+        },
+        {
+            "name": "Verysync_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Verysync_B.png"
+        },
+        {
+            "name": "Vmware_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vmware_A.png"
+        },
+        {
+            "name": "Vmware_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vmware_B.png"
+        },
+        {
+            "name": "Vnc_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vnc_A.png"
+        },
+        {
+            "name": "Vocechat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vocechat_A.png"
+        },
+        {
+            "name": "Vscode_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscode_A.png"
+        },
+        {
+            "name": "Vscode_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscode_B.png"
+        },
+        {
+            "name": "Vscode_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscode_C.png"
+        },
+        {
+            "name": "Vscodium_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscodium_A.png"
+        },
+        {
+            "name": "Vscodium_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Vscodium_B.png"
+        },
+        {
+            "name": "Waline_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Waline_A.png"
+        },
+        {
+            "name": "Wallabag_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wallabag_A.png"
+        },
+        {
+            "name": "Wallabag_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wallabag_B.png"
+        },
+        {
+            "name": "Wallabag_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wallabag_C.png"
+        },
+        {
+            "name": "Wallabag_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wallabag_D.png"
+        },
+        {
+            "name": "Wallos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wallos_A.png"
+        },
+        {
+            "name": "Wangxinyun_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wangxinyun_A.png"
+        },
+        {
+            "name": "Wangxinyun_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wangxinyun_B.png"
+        },
+        {
+            "name": "Ward_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Ward_A.png"
+        },
+        {
+            "name": "Watchtower_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Watchtower_A.png"
+        },
+        {
+            "name": "Wbo_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wbo_A.png"
+        },
+        {
+            "name": "Webdav_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Webdav_A.png"
+        },
+        {
+            "name": "Webos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Webos_A.png"
+        },
+        {
+            "name": "Webstorm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Webstorm_A.png"
+        },
+        {
+            "name": "Webstorm_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Webstorm_B.png"
+        },
+        {
+            "name": "Wechat_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wechat_A.png"
+        },
+        {
+            "name": "Wechat_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wechat_B.png"
+        },
+        {
+            "name": "Wecom_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wecom_A.png"
+        },
+        {
+            "name": "Wecom_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wecom_B.png"
+        },
+        {
+            "name": "Wekan_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wekan_A.png"
+        },
+        {
+            "name": "Wekan_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wekan_B.png"
+        },
+        {
+            "name": "Wekan_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wekan_C.png"
+        },
+        {
+            "name": "Wenxin_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wenxin_A.png"
+        },
+        {
+            "name": "Whaledeck_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Whaledeck_A.png"
+        },
+        {
+            "name": "Whisparr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Whisparr_A.png"
+        },
+        {
+            "name": "Whisparr_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Whisparr_B.png"
+        },
+        {
+            "name": "Wikijs_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wikijs_A.png"
+        },
+        {
+            "name": "Wikijs_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wikijs_B.png"
+        },
+        {
+            "name": "Windows-server_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows-server_A.png"
+        },
+        {
+            "name": "Windows10_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows10_A.png"
+        },
+        {
+            "name": "Windows11_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows11_A.png"
+        },
+        {
+            "name": "Windows7_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows7_A.png"
+        },
+        {
+            "name": "Windows8_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows8_A.png"
+        },
+        {
+            "name": "Windows95_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Windows95_A.png"
+        },
+        {
+            "name": "Wireguard_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wireguard_A.png"
+        },
+        {
+            "name": "Wisemapping_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wisemapping_A.png"
+        },
+        {
+            "name": "Wizarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wizarr_A.png"
+        },
+        {
+            "name": "Wiznote_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wiznote_A.png"
+        },
+        {
+            "name": "Wiznote_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wiznote_B.png"
+        },
+        {
+            "name": "Wiznote_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wiznote_C.png"
+        },
+        {
+            "name": "Wordpress_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wordpress_A.png"
+        },
+        {
+            "name": "Wordpress_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wordpress_B.png"
+        },
+        {
+            "name": "Writerside_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Writerside_A.png"
+        },
+        {
+            "name": "Writerside_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Writerside_B.png"
+        },
+        {
+            "name": "Wxread_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wxread_A.png"
+        },
+        {
+            "name": "Xarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xarr_A.png"
+        },
+        {
+            "name": "Xiaoya_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xiaoya_A.png"
+        },
+        {
+            "name": "Xike_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xike_A.png"
+        },
+        {
+            "name": "Xstrm_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xstrm_A.png"
+        },
+        {
+            "name": "Xunlei_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xunlei_A.png"
+        },
+        {
+            "name": "Xunlei_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Xunlei_B.png"
+        },
+        {
+            "name": "Yacd-meta_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Yacd-meta_A.png"
+        },
+        {
+            "name": "Yesplaymusic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Yesplaymusic_A.png"
+        },
+        {
+            "name": "Youtrack_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtrack_A.png"
+        },
+        {
+            "name": "Youtrack_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtrack_B.png"
+        },
+        {
+            "name": "Youtubedl_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtubedl_A.png"
+        },
+        {
+            "name": "Youtubedl_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtubedl_B.png"
+        },
+        {
+            "name": "Youtubedl_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtubedl_C.png"
+        },
+        {
+            "name": "Youtube_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtube_A.png"
+        },
+        {
+            "name": "Youtube_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtube_B.png"
+        },
+        {
+            "name": "Youtube_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtube_C.png"
+        },
+        {
+            "name": "Youtube_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Youtube_D.png"
+        },
+        {
+            "name": "Yuanbao_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Yuanbao_A.png"
+        },
+        {
+            "name": "Zerotier_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zerotier_A.png"
+        },
+        {
+            "name": "Zfile_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zfile_A.png"
+        },
+        {
+            "name": "Zfile_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zfile_B.png"
+        },
+        {
+            "name": "Zigbeemqtt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zigbeemqtt_A.png"
+        },
+        {
+            "name": "Zimaos_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zimaos_A.png"
+        },
+        {
+            "name": "国家电网_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/国家电网_A.png"
+        },
+        {
+            "name": "智谱清言_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/智谱清言_A.png"
+        },
+        {
+            "name": "极空间_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/极空间_A.png"
+        },
+        {
+            "name": "绿联私有云_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/绿联私有云_A.png"
+        },
+        {
+            "name": "节点小宝_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/节点小宝_A.png"
+        },
+        {
+            "name": "飞牛私有云_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/飞牛私有云_A.png"
+        },
+        {
+            "name": "Actual_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Actual_A.png"
+        },
+        {
+            "name": "Actual_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Actual_B.png"
+        },
+        {
+            "name": "Apache_webdav_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Apache_webdav_A.png"
+        },
+        {
+            "name": "Ariang_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Ariang_A.png"
+        },
+        {
+            "name": "Audiobookshelf_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Audiobookshelf_A.png"
+        },
+        {
+            "name": "Autobangumi_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Autobangumi_A.png"
+        },
+        {
+            "name": "Bazarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Bazarr_A.png"
+        },
+        {
+            "name": "Bracket_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Bracket_A.png"
+        },
+        {
+            "name": "Bytemuse_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Bytemuse_A.png"
+        },
+        {
+            "name": "Caddy_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Caddy_A.png"
+        },
+        {
+            "name": "Chandao_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Chandao_A.png"
+        },
+        {
+            "name": "Chandao_B-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Chandao_B.png"
+        },
+        {
+            "name": "Cloud-media-sync_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Cloud-media-sync_A.png"
+        },
+        {
+            "name": "Clouddrive_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Clouddrive_A.png"
+        },
+        {
+            "name": "Cloudflare_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Cloudflare_A.png"
+        },
+        {
+            "name": "Cloudflare_B-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Cloudflare_B.png"
+        },
+        {
+            "name": "Cloudreve_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Cloudreve_A.png"
+        },
+        {
+            "name": "Cloudsaver_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Cloudsaver_A.png"
+        },
+        {
+            "name": "Compressarr_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Compressarr_A.png"
+        },
+        {
+            "name": "Daily-hot_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Daily-hot_A.png"
+        },
+        {
+            "name": "DDNS_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/DDNS_A.png"
+        },
+        {
+            "name": "Dell_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Dell_A.png"
+        },
+        {
+            "name": "Docker-copilot_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Docker-copilot_A.png"
+        },
+        {
+            "name": "Docker_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Docker_A.png"
+        },
+        {
+            "name": "Docspell_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Docspell_A.png"
+        },
+        {
+            "name": "Feishin_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Feishin_A.png"
+        },
+        {
+            "name": "Fenrus_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Fenrus_A.png"
+        },
+        {
+            "name": "FileBrowser_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/FileBrowser_A.png"
+        },
+        {
+            "name": "Flood_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Flood_A.png"
+        },
+        {
+            "name": "FreshRSS_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/FreshRSS_A.png"
+        },
+        {
+            "name": "Gitee_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Gitee_A.png"
+        },
+        {
+            "name": "Gopeed_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Gopeed_A.png"
+        },
+        {
+            "name": "Guacamole_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Guacamole_A.png"
+        },
+        {
+            "name": "Homebridge_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Homebridge_A.png"
+        },
+        {
+            "name": "Homer_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Homer_A.png"
+        },
+        {
+            "name": "Iceberg_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Iceberg_A.png"
+        },
+        {
+            "name": "Ipw.cn_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Ipw.cn_A.png"
+        },
+        {
+            "name": "Itdog.cn_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Itdog.cn_A.png"
+        },
+        {
+            "name": "IYUU_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/IYUU_A.png"
+        },
+        {
+            "name": "Jellyseerr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Jellyseerr_A.png"
+        },
+        {
+            "name": "Koshi_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Koshi_A.png"
+        },
+        {
+            "name": "Librespeed_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Librespeed_A.png"
+        },
+        {
+            "name": "Lidarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Lidarr_A.png"
+        },
+        {
+            "name": "Linkding_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Linkding_A.png"
+        },
+        {
+            "name": "Listmonk_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Listmonk_A.png"
+        },
+        {
+            "name": "Loggit_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Loggit_A.png"
+        },
+        {
+            "name": "Macos_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_A.png"
+        },
+        {
+            "name": "Macos_Bigsur_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_Bigsur_A.png"
+        },
+        {
+            "name": "Macos_Catalina_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_Catalina_A.png"
+        },
+        {
+            "name": "Macos_EI_Capitan_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_EI_Capitan_A.png"
+        },
+        {
+            "name": "Macos_High_Sierra_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_High_Sierra_A.png"
+        },
+        {
+            "name": "Macos_Mojave_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_Mojave_A.png"
+        },
+        {
+            "name": "Macos_Monterey_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_Monterey_A.png"
+        },
+        {
+            "name": "Macos_Sierra_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Macos_Sierra_A.png"
+        },
+        {
+            "name": "Mastodon_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Mastodon_A.png"
+        },
+        {
+            "name": "Minio_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Minio_A.png"
+        },
+        {
+            "name": "Musicn_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Musicn_A.png"
+        },
+        {
+            "name": "Navidrome_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Navidrome_A.png"
+        },
+        {
+            "name": "Nexterm_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Nexterm_A.png"
+        },
+        {
+            "name": "Notemark_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Notemark_A.png"
+        },
+        {
+            "name": "Ombi_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Ombi_A.png"
+        },
+        {
+            "name": "Omnivore_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Omnivore_A.png"
+        },
+        {
+            "name": "Open-webui_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Open-webui_A.png"
+        },
+        {
+            "name": "Overseerr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Overseerr_A.png"
+        },
+        {
+            "name": "Photoprism_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_A.png"
+        },
+        {
+            "name": "Photoprism_B-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_B.png"
+        },
+        {
+            "name": "Photoprism_C-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_C.png"
+        },
+        {
+            "name": "Photoprism_D",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_D.png"
+        },
+        {
+            "name": "Photoprism_E",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_E.png"
+        },
+        {
+            "name": "Photoprism_F",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photoprism_F.png"
+        },
+        {
+            "name": "Photostructure_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Photostructure_A.png"
+        },
+        {
+            "name": "Prowlarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Prowlarr_A.png"
+        },
+        {
+            "name": "PTHelper_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/PTHelper_A.png"
+        },
+        {
+            "name": "PVE_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/PVE_A.png"
+        },
+        {
+            "name": "PVE_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/PVE_B.png"
+        },
+        {
+            "name": "Qbittorrent_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Qbittorrent_A.png"
+        },
+        {
+            "name": "Qbittorrent_B-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Qbittorrent_B.png"
+        },
+        {
+            "name": "Qinglong_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Qinglong_A.png"
+        },
+        {
+            "name": "Readarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Readarr_A.png"
+        },
+        {
+            "name": "Rocky_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Rocky_A.png"
+        },
+        {
+            "name": "Rocky_B-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Rocky_B.png"
+        },
+        {
+            "name": "Rosy_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Rosy_A.png"
+        },
+        {
+            "name": "Selectdb_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Selectdb_A.png"
+        },
+        {
+            "name": "Shiori_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Shiori_A.png"
+        },
+        {
+            "name": "Slack_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Slack_A.png"
+        },
+        {
+            "name": "Slash_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Slash_A.png"
+        },
+        {
+            "name": "Sonarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Sonarr_A.png"
+        },
+        {
+            "name": "Speedtest_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Speedtest_A.png"
+        },
+        {
+            "name": "Squoosh_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Squoosh_A.png"
+        },
+        {
+            "name": "Sshwifty_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Sshwifty_A.png"
+        },
+        {
+            "name": "Subplayer_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Subplayer_A.png"
+        },
+        {
+            "name": "Swingmusic_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Swingmusic_A.png"
+        },
+        {
+            "name": "Syncthing_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Syncthing_A.png"
+        },
+        {
+            "name": "Tandoor_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Tandoor_A.png"
+        },
+        {
+            "name": "Tautulli_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Tautulli_A.png"
+        },
+        {
+            "name": "Tdarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Tdarr_A.png"
+        },
+        {
+            "name": "Teampass_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Teampass_A.png"
+        },
+        {
+            "name": "Telegram_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Telegram_A.png"
+        },
+        {
+            "name": "Termix_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Termix_A.png"
+        },
+        {
+            "name": "Time_machine_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Time_machine_A.png"
+        },
+        {
+            "name": "Time_machine_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Time_machine_B.png"
+        },
+        {
+            "name": "Trakt_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Trakt_A.png"
+        },
+        {
+            "name": "Trilium_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Trilium_A.png"
+        },
+        {
+            "name": "UnlockMusic_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/UnlockMusic_A.png"
+        },
+        {
+            "name": "Verysync_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Verysync_A.png"
+        },
+        {
+            "name": "Vscodium_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Vscodium_A.png"
+        },
+        {
+            "name": "Watchtower_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Watchtower_A.png"
+        },
+        {
+            "name": "Webdav_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Webdav_A.png"
+        },
+        {
+            "name": "Whisparr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Whisparr_A.png"
+        },
+        {
+            "name": "Wireguard_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Wireguard_A.png"
+        },
+        {
+            "name": "Wizarr_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Wizarr_A.png"
+        },
+        {
+            "name": "Wordpress_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Wordpress_A.png"
+        },
+        {
+            "name": "Xstrm_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Xstrm_A.png"
+        },
+        {
+            "name": "Youtube-dl_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Youtube-dl_A.png"
+        },
+        {
+            "name": "Youtube-dl_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Youtube-dl_B.png"
+        },
+        {
+            "name": "Youtube-dl_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Youtube-dl_C.png"
+        }
+    ]
+}
