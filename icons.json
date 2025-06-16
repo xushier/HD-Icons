@@ -975,6 +975,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dweebui_A.png"
         },
         {
+            "name": "Easytier_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Easytier_A.png"
+        },
+        {
+            "name": "Easytier_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Easytier_B.png"
+        },
+        {
             "name": "Edge_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Edge_A.png"
         },
@@ -2285,6 +2293,18 @@
         {
             "name": "Mysql_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mysql_B.png"
+        },
+        {
+            "name": "N8n_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/N8n_A.png"
+        },
+        {
+            "name": "N8n_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/N8n_B.png"
+        },
+        {
+            "name": "N8n_C",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/N8n_C.png"
         },
         {
             "name": "Nascab_A",
@@ -3951,8 +3971,8 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wikijs_B.png"
         },
         {
-            "name": "Willlow_A",
-            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Willlow_A.png"
+            "name": "Willow_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Willow_A.png"
         },
         {
             "name": "Windows-server_A",
@@ -4591,8 +4611,8 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Whisparr_A.png"
         },
         {
-            "name": "Willlow_A-1",
-            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Willlow_A.png"
+            "name": "Willow_A-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Willow_A.png"
         },
         {
             "name": "Wireguard_A-1",
