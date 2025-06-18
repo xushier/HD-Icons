@@ -519,6 +519,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Chrome_extension_store_A.png"
         },
         {
+            "name": "Cisco_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Cisco_A.png"
+        },
+        {
             "name": "Clamav_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Clamav_A.png"
         },
@@ -2555,6 +2559,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Open-webui_A.png"
         },
         {
+            "name": "Openlist_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Openlist_A.png"
+        },
+        {
             "name": "Opentofu_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Opentofu_A.png"
         },
@@ -2649,6 +2657,10 @@
         {
             "name": "Palworld_F",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Palworld_F.png"
+        },
+        {
+            "name": "Paperless_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Paperless_A.png"
         },
         {
             "name": "Paramount+_A",
@@ -3485,6 +3497,10 @@
         {
             "name": "Tandoor_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Tandoor_A.png"
+        },
+        {
+            "name": "Taosync_B",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Taosync_B.png"
         },
         {
             "name": "Tasmoadmin_A",
