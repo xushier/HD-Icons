@@ -130,7 +130,7 @@
 直接导入图标包：`https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json`，若无反应，则需要开启代理环境。
 不想使用代理可以自己部署，详情请看：<a href="https://github.com/xushier/HD-Icons-docker"><strong>HD-Icons-docker »</strong></a>
 
-## ✨ 图标预览（当前共计 1463 个）
+## ✨ 图标预览（当前共计 1464 个）
 ### 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
 <img src="_icons-radius.jpg" alt="radius">
