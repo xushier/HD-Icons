@@ -158,15 +158,19 @@
 <!-- LEGAL -->
 
 ## 🤝 赞助（备注：图标）
-
+<div align="center">
 <img src="_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
-
+</div>
 ## 📜 免责声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
 
 The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
 
 ---
+<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+</div>
