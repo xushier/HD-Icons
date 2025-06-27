@@ -1,8 +1,9 @@
-# HD-Icons - 高清仪表盘图标
+<div align="center">
+    <h1>HD-Icons - 高清仪表盘图标</h1>
+</div>
 
 <div align="center">
-
-<p><em>1024x1024 分辨率，已经过无损压缩处理。</em></p>
+    <p><em>1024x1024 分辨率，已经过无损压缩处理。</em></p>
 
 [![GitHub stars](https://img.shields.io/github/stars/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/network)
@@ -13,11 +14,18 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xushier/HD-Icons">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPj4GP1FxDt0I23GhctHRFA?style=social">
 
-<a href="#圆角矩形图标"> <strong > 已有图标预览 »</strong> </a>
-<a href="https://github.com/xushier/HD-Icons/issues/new/choose">   		<strong > 请求新图标 »</strong> </a>
-<img alt="beats" src="https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg">
-
 </div>
+
+<div align="center">
+    <div>
+    <a href="#圆角矩形图标"> <strong > 已有图标预览 »</strong> </a>
+    <a href="https://github.com/xushier/HD-Icons/issues/new/choose">   		<strong > 请求新图标 »</strong> </a>
+    </div>
+    <div>
+    <img align="center" alt="beats" src="https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg">
+    </div>
+</div>
+
 
 <!-- GETTING STARTED -->
 
@@ -28,7 +36,7 @@
 3. 图标主体适当放大，Unraid 系统上看起来图标主体更加突出。
 4.`border-radius` 文件夹包含圆角矩形图标，`circle` 文件夹包含圆形图标。
 5. 以下是几个常见的仪表盘程序，其中添加的链接可使用该项目图标。
-    <table>
+    <table align="center">
     <tr>
     <td align="center">
     <h4>Dashy</h4>
@@ -60,7 +68,7 @@
     </table>
 6. **需要使用新图标可以加微信、加 QQ 群或者发 `Issues` 申请，如果有能力做的就会添加。**<a href="https://github.com/xushier/HD-Icons/issues/new/choose"> <strong > 请求新图标 »</strong></a>
 7. 其他平台：
-    <table>
+    <table align="center">
     <tr>
     <td align="center">
     <h4>B站</h4>
@@ -151,14 +159,19 @@
 <!-- LEGAL -->
 
 ## 🤝 赞助（备注：图标）
-
+<div align="center">
 <img src="_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
-
+</div>
 ## 📜 免责声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
 
 The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
 
 ---
+<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+</div>
