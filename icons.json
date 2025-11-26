@@ -63,6 +63,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/9Kuai_A.png"
         },
         {
+            "name": "Acrane_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Acrane_A.png"
+        },
+        {
             "name": "Actual_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Actual_A.png"
         },
@@ -297,6 +301,10 @@
         {
             "name": "B2cloud_storage_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/B2cloud_storage_A.png"
+        },
+        {
+            "name": "Backrest_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Backrest_A.png"
         },
         {
             "name": "Baidudrive_A",
@@ -2175,6 +2183,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mindsdb_A.png"
         },
         {
+            "name": "Mindwendel_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mindwendel_A.png"
+        },
+        {
             "name": "Miniflux_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Miniflux_A.png"
         },
@@ -3491,6 +3503,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synolivecam_A.png"
         },
         {
+            "name": "Synology-surveillance-station_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology-surveillance-station_A.png"
+        },
+        {
             "name": "Synology_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Synology_A.png"
         },
@@ -4203,6 +4219,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zimaos_A.png"
         },
         {
+            "name": "Zulip_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Zulip_A.png"
+        },
+        {
             "name": "国家电网_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/国家电网_A.png"
         },
@@ -4221,6 +4241,18 @@
         {
             "name": "节点小宝_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/节点小宝_A.png"
+        },
+        {
+            "name": "飞牛同步_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/飞牛同步_A.png"
+        },
+        {
+            "name": "飞牛影视_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/飞牛影视_A.png"
+        },
+        {
+            "name": "飞牛相册_A",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/飞牛相册_A.png"
         },
         {
             "name": "飞牛私有云_A",
