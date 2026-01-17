@@ -1,29 +1,42 @@
 <div align="center">
-    <h1>HD-Icons - 高清仪表盘图标</h1>
+  <h1>🎨 HD-Icons</h1>
+  <h2>高清仪表盘图标集合</h2>
+  <p><em>1024×1024 超清分辨率 · 无损压缩优化 · 多种样式适配</em></p>
 </div>
 
 <div align="center">
-    <p><em>1024x1024 分辨率，已经过无损压缩处理。</em></p>
-
-[![GitHub stars](https://img.shields.io/github/stars/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/network)
-[![GitHub issues](https://img.shields.io/github/issues/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/issues)
-[![GitHub license](https://img.shields.io/github/license/xushier/HD-Icons)](https://github.com/xushier/HD-Icons/blob/master/LICENSE)
-
-<img src="https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded"/>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xushier/HD-Icons">
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPj4GP1FxDt0I23GhctHRFA?style=social">
-
+  
+  <!-- 徽章区域 -->
+  [![GitHub stars](https://img.shields.io/github/stars/xushier/HD-Icons?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/xushier/HD-Icons/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/xushier/HD-Icons?style=for-the-badge&logo=github&color=4ecdc4)](https://github.com/xushier/HD-Icons/network)
+  [![GitHub issues](https://img.shields.io/github/issues/xushier/HD-Icons?style=for-the-badge&logo=github&color=45b7d1)](https://github.com/xushier/HD-Icons/issues)
+  [![GitHub license](https://img.shields.io/github/license/xushier/HD-Icons?style=for-the-badge&logo=github&color=96ceb4)](https://github.com/xushier/HD-Icons/blob/master/LICENSE)
+  
+  <!-- 统计信息 -->
+  [![GitHub release](https://img.shields.io/github/release/xushier/HD-Icons?style=for-the-badge&logo=github&color=ffd93d)](https://github.com/xushier/HD-Icons/releases)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=for-the-badge&logo=github&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
+  [![GitHub repo size](https://img.shields.io/github/repo-size/xushier/HD-Icons?style=for-the-badge&logo=github&color=a29bfe)](https://github.com/xushier/HD-Icons)
+  
+  <!-- CDN 徽章 -->
+  [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
+  
 </div>
 
 <div align="center">
-    <div>
-    <a href="#圆角矩形图标"> <strong > 已有图标预览 »</strong> </a>
-    <a href="https://github.com/xushier/HD-Icons/issues/new/choose">   		<strong > 请求新图标 »</strong> </a>
-    </div>
-    <div>
-    <img align="center" alt="beats" src="https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg">
-    </div>
+  
+  <!-- 快速导航 -->
+  <div>
+    <a href="#-项目简介"><strong>📖 项目简介</strong></a> •
+    <a href="#-使用说明"><strong>🚀 使用说明</strong></a> •
+    <a href="#-图标预览"><strong>✨ 图标预览</strong></a> •
+    <a href="#-请求新图标"><strong>🎯 请求图标</strong></a>
+  </div>
+  
+  <!-- 活动图表 -->
+  <div>
+    <img align="center" alt="GitHub activity" src="https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg">
+  </div>
+  
 </div>
 
 
@@ -31,147 +44,181 @@
 
 ## 📝 项目简介
 
-1. 本项目建立初衷是为了用于 `Unraid Docker` 容器使用，当然，任何需要的地方也都可以用。
-2. 图标分辨率为 `1024x1024`。所有图标都已经过 **无损压缩** 处理。
-3. 图标主体适当放大，Unraid 系统上看起来图标主体更加突出。
-4.`border-radius` 文件夹包含圆角矩形图标，`circle` 文件夹包含圆形图标。
-5. 以下是几个常见的仪表盘程序，其中添加的链接可使用该项目图标。
-    <table align="center">
-    <tr>
-    <td align="center">
-    <h4>Dashy</h4>
-    https://github.com/Lissy93/dashy
-    </td>
-    <td align="center">
-    <h4>Homer Dashboard</h4>
-    https://github.com/bastienwirtz/homer
-    </td>
-    <td align="center">
-    <h4>Heimdall</h4>
-    https://github.com/linuxserver/Heimdall
-    </td>
-    </tr>
-    <tr>
-    <td align="center">
-    <h4>Organizr(v2)</h4>
-    https://github.com/causefx/Organizr
-    </td>
-    <td align="center">
-    <h4>Flame</h4>
-    https://github.com/pawelmalak/flame
-    </td>
-    <td align="center">
-    <h4>SUI</h4>
-    https://github.com/jeroenpardon/sui
-    </td>
-    </tr>
-    </table>
-6. **需要使用新图标可以加微信、加 QQ 群或者发 `Issues` 申请，如果有能力做的就会添加。**<a href="https://github.com/xushier/HD-Icons/issues/new/choose"> <strong > 请求新图标 »</strong></a>
-7. 其他平台：
-    <table align="center">
-    <tr>
-    <td align="center">
-    <h4>B站</h4>
-    小迪课代表 <a href="https://space.bilibili.com/32313260"> <strong >传送门 »</strong></a>
-    </td>
-    <td align="center">
-    <h4>公众号</h4>
-    小迪同学
-    </td>
-    </tr>
-    <tr>
-    <td align="center">
-    <h4>QQ群</h4>
-    647605169
-    </td>
-    <td align="center">
-    <h4>微信群</h4>
-    dxyxddsbds，备注加群
-    </td>
-    </tr>
-    </table>
+> 🎯 **使命**：为 Unraid Docker 容器和各类仪表盘应用提供高质量、标准化的图标解决方案
 
-## 📖 使用说明
+### ✨ 核心特性
 
-### 使用图标展示 docker，强烈推荐！！！
+| 特性 | 描述 |
+|------|-----|
+| 🖼️ **超清分辨率** | 1024×1024 像素，确保在任何尺寸下都清晰锐利 |
+| 🗜️ **无损压缩** | 所有图标经过无损压缩，体积更小，质量不变 |
+| 🎨 **优化显示** | 图标主体适当放大，满足各种使用场景 |
+| 📁 **多样样式** | 提供 `border-radius`（圆角矩形）、 `circle`（圆形）和 `svg`（矢量）三种风格 |
+| 🔄 **持续更新** | 不定期添加新图标，满足不断增长的需求 |
 
-**项目地址：https://github.com/xushier/HD-Icons-docker**
-**使用方法见项目详情。预览图如下：**
+### 🎯 适用场景
 
-#### 日间模式
-<p align="center">
-<img src="day.png" alt="日间模式" style="max-width:100%;height:auto;">
-</p>
+本项目最初为 `Unraid Docker` 容器图标展示而设计，现已扩展支持多种仪表盘应用、部分APP及其他用途：
 
-#### 夜间模式
-<p align="center">
-<img src="night.png" alt="夜间模式" style="max-width:100%;height:auto;">
-</p>
 
-#### 移动端自适应
-<p align="center">
-<img src="mobile.png" alt="移动端自适应" style="max-width:100%;height:auto;">
-</p>
 
-#### 单击复制地址
-<p align="center">
-<img src="copy.png" alt="单击复制地址" style="max-width:100%;height:auto;">
-</p>
+| 应用程序 | 描述 | 链接 | 备注 |
+|----------|------|------|------|
+| **FlatNas** | 新晋现代化仪表盘 | [🔗](https://github.com/Garry-QD/FlatNas) | 开源免费 |
+| **Sun-Panel** | 适合国人体质的现代化仪表盘 | [🔗](https://github.com/hslr-s/sun-panel) | 1.3.0及之前版本开源，新版Pro授权99永久 |
+| **Dashy** | 现代化仪表盘 | [🔗](https://github.com/Lissy93/dashy) | 开源免费 |
+| **Homer Dashboard** | 简洁的静态主页 | [🔗](https://github.com/bastienwirtz/homer) | 开源免费 |
+| **Heimdall** | 应用程序仪表盘 | [🔗](https://github.com/linuxserver/Heimdall) | 开源免费 |
+| **Organizr(v2)** | 组织管理工具 | [🔗](https://github.com/causefx/Organizr) | 开源免费 |
+| **Flame** | 自托管仪表盘 | [🔗](https://github.com/pawelmalak/flame) | 开源免费 |
+| **SUI** | 简单用户界面 | [🔗](https://github.com/jeroenpardon/sui) | 开源免费 |
 
-#### 自定义图片上传
-<p align="center">
-<img src="upload.png" alt="自定义图片上传" style="max-width:100%;height:auto;">
-</p>
 
-### 使用远程链接（后续更新同步显示，推荐）
 
-1. 使用 Github 原始的图标链接，适用于可以访问 Github 的用户。
-   - Github 项目地址：https://github.com/xushier/HD-Icons
-   - 例如：`https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
+### 🌟 社区支持
 
-2. 使用代理或 CDN 加速地址，适用于不能访问 Github 但想要使用 Github 图标源的用户。
-   - 例如：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
 
-注：将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 
-### 其他APP使用，例如 Yamby、Hills 等安卓 APP
-直接导入图标包：`https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json`，若无反应，则需要开启代理环境。
-不想使用代理可以自己部署，详情请看：<a href="https://github.com/xushier/HD-Icons-docker"><strong>HD-Icons-docker »</strong></a>
+| 平台 | 账号/群组 | 链接 |
+|------|-----------|------|
+| **B站** | 小迪课代表 | [🎬 传送门](https://space.bilibili.com/32313260) |
+| **公众号** | 小迪同学 | 📱 微信搜索关注 |
+| **QQ群** | 647605169 | 💬 加入讨论 |
+| **微信群** | dxyxddsbds（备注加群） | 📱 添加微信入群 |
+
+
+
+> 💡 **需要新图标？** [点击这里提交请求](https://github.com/xushier/HD-Icons/issues/new/choose) 🎯
+
+## 📖 使用说明（三种方式）
+
+### 🐳 Docker 部署图标展示容器使用（强烈推荐）
+
+> 🚀 **项目地址**：[HD-Icons-docker](https://github.com/xushier/HD-Icons-docker)
+> 
+> 💡 **优势**：自动同步更新、一键复制、移动端适配、自定义上传
+
+#### 🌟 功能展示
+
+
+
+| 功能 | 预览 |
+|------|------|
+| **☀️ 日间模式** | <img src="day.png" alt="日间模式" width="400"> |
+| **🌙 夜间模式** | <img src="night.png" alt="夜间模式" width="400"> |
+| **📱 移动端适配** | <img src="mobile.png" alt="移动端自适应" height="400"> |
+| **📋 一键复制** | <img src="copy.png" alt="单击复制地址" height="400"> |
+| **📤 自定义上传** | <img src="upload.png" alt="自定义图片上传" height="400"> |
+
+
+
+### 🔗 远程链接使用（自动同步更新）
+
+#### 📋 GitHub 原始链接
+
+> 🌐 **适用场景**：可直接访问 GitHub 的用户
+> 
+> 📝 **格式**：`https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/图标名称.png`
+> 
+> 🔗 **项目地址**：[HD-Icons](https://github.com/xushier/HD-Icons)
+
+#### ⚡ CDN 加速链接
+
+> 🚀 **适用场景**：无法直接访问 GitHub 但需要使用 GitHub 图标源的用户
+> 
+> 📝 **格式**：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/图标名称.png`
+> 
+> 💡 **优势**：全球 CDN 加速，访问速度更快
+
+> 📌 **使用提示**：将上述链接中的 `图标名称` 替换为实际图标文件名即可。[📋 查看所有图标](#-图标预览)
+
+### 📱 移动应用使用
+
+> 🎯 **支持应用**：Yamby、Hills 等安卓 APP
+> 
+> 📦 **图标包地址**：`https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json`
+> 
+> ⚠️ **注意**：如无响应，请开启代理环境或自行部署
+> 
+> 🚀 **自部署方案**：[HD-Icons-docker](https://github.com/xushier/HD-Icons-docker)
 
 ## ✨ 图标预览（当前共计 0 个）
 
-### 圆角矩形图标
-<!-- START BORDER-RADIUS ICONS -->
-<img src="_icons-radius.jpg" alt="radius">
-<!-- END BORDER-RADIUS ICONS -->
+> 🎨 **持续更新中**：图标数量不断增加，欢迎提交新图标请求
 
-### 圆形图标
-<!-- START CIRCLE ICONS -->
-<img src="_icons-circle.jpg" alt="circle">
-<!-- END CIRCLE ICONS -->
+### 📦 圆角矩形图标
+<div align="center">
+  <img src="_icons-radius.jpg" alt="圆角矩形图标集合" width="90%">
+</div>
 
-### SVG 图标
-<!-- START SVG ICONS -->
+### ⭕ 圆形图标
+<div align="center">
+  <img src="_icons-circle.jpg" alt="圆形图标集合" width="90%">
+</div>
 
-<!-- END SVG ICONS -->
+### 🎨 SVG 矢量图标
+<div align="center">
+
+<!-- SVG 图标预览区域 -->
+
+<!-- 此处将自动生成 SVG 图标预览 -->
+
+</div>
 
 
 <!-- LEGAL -->
 
-## 🤝 赞助（备注：图标）
-<div align="center">
-<img src="_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
-</div>
-## 📜 免责声明
-(Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
+---
 
-The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
+## 🤝 支持与赞助
+
+<div align="center">
+  <p><strong>💝 感谢您的支持，让这个项目持续发展！</strong></p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="_DONATE_A.jpg?raw=true" alt="支付宝赞助" width="300">
+        <p><strong>支付宝</strong></p>
+      </td>
+      <td align="center">
+        <img src="_DONATE_W.jpg?raw=true" alt="微信赞助" width="300">
+        <p><strong>微信支付</strong></p>
+      </td>
+    </tr>
+  </table>
+  
+  <p><em>赞助时请备注「图标」，感谢您的慷慨支持！</em></p>
+</div>
+
+## 📜 免责声明
+
+> ⚖️ **法律声明**：本仓库中图像的（几乎）所有产品名称、商标和注册商标均为其各自所有者的财产。仪表盘导航用户仅将本仓库中的所有图像用于识别目的。
+> 
+> 📝 **使用说明**：这些图像文件中出现的名称、商标和品牌的使用不表示认可。
 
 ---
+
 <div align="center">
+
+### 🌟 项目统计
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
 
+### 🚀 技术支持
+
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
+### 📊 项目活跃度
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xushier/HD-Icons?style=for-the-badge&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/xushier/HD-Icons?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+  <p><strong>🎯 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！</strong></p>
+  <p><em>Made with ❤️ by xushier</em></p>
 </div>

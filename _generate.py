@@ -34,7 +34,7 @@ with open(template_path, "r", encoding="UTF-8") as f:
 #         circle_line_number = lines.index(line)
 #         break
 for line in lines:
-    if line.startswith("<!-- START SVG ICONS -->"):
+    if line.startswith("<!-- SVG 图标预览区域 -->"):
         svg_line_number = lines.index(line)
         break
 
