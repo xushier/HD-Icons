@@ -27,9 +27,9 @@
   <!-- 快速导航 -->
   <div>
     <a href="#-项目简介"><strong>📖 项目简介</strong></a> •
-    <a href="#-使用说明"><strong>🚀 使用说明</strong></a> •
+    <a href="#-使用说明三种方式"><strong>🚀 使用说明</strong></a> •
     <a href="#-图标预览"><strong>✨ 图标预览</strong></a> •
-    <a href="#-请求新图标"><strong>🎯 请求图标</strong></a>
+    <a href="https://github.com/xushier/HD-Icons/issues/new/choose"><strong>🎯 请求图标</strong></a>
   </div>
   
   <!-- 活动图表 -->
@@ -142,9 +142,9 @@
 > 
 > 🚀 **自部署方案**：[HD-Icons-docker](https://github.com/xushier/HD-Icons-docker)
 
-## ✨ 图标预览（当前共计 1558 个）
-> 🎨 **持续更新中**：图标数量不断增加，欢迎提交新图标请求
+## ✨ 图标预览
 
+> 🎨 **持续更新中**：当前共计 1558 个，数量不断增加，欢迎提交新图标请求
 ### 📦 圆角矩形图标
 <div align="center">
   <img src="_icons-radius.jpg" alt="圆角矩形图标集合" width="90%">
