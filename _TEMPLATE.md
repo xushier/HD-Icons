@@ -205,10 +205,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
 
-### 🚀 技术支持
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 ### 📊 项目活跃度
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xushier/HD-Icons?style=for-the-badge&logo=github)
