@@ -173,6 +173,7 @@
 ## 🤝 支持与赞助
 
 <div align="center">
+  <p><strong>！！！项目批量使用请告知！！！</strong></p>
   <p><strong>💝 感谢您的支持，让这个项目持续发展！</strong></p>
   
   <table>
