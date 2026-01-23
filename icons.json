@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1558，更新于：2026-01-18 00:55:56。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1558,
-    "update_at": "2026-01-18 00:55:56",
+    "description": "当前数量：1727，更新于：2026-01-23 15:00:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1727,
+    "update_at": "2026-01-23 15:00:02",
     "icons": [
         {
             "name": "115_A",
@@ -4837,6 +4837,26 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Atuin_A.svg"
         },
         {
+            "name": "audi-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/audi-1.svg"
+        },
+        {
+            "name": "audi-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/audi-2.svg"
+        },
+        {
+            "name": "audi-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/audi-3.svg"
+        },
+        {
+            "name": "audi-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/audi-4.svg"
+        },
+        {
+            "name": "audi-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/audi-5.svg"
+        },
+        {
             "name": "Audio-bookshelf_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Audio-bookshelf_A.svg"
         },
@@ -4881,6 +4901,30 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Bazarr_A.svg"
         },
         {
+            "name": "benq-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/benq-1.svg"
+        },
+        {
+            "name": "benq-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/benq-2.svg"
+        },
+        {
+            "name": "benq-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/benq-3.svg"
+        },
+        {
+            "name": "bentley-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bentley-1.svg"
+        },
+        {
+            "name": "bentley-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bentley-2.svg"
+        },
+        {
+            "name": "bentley-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bentley-3.svg"
+        },
+        {
             "name": "BigDataTools_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/BigDataTools_A.svg"
         },
@@ -4909,8 +4953,60 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Blossom_A.svg"
         },
         {
+            "name": "bmw-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-1.svg"
+        },
+        {
+            "name": "bmw-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-2.svg"
+        },
+        {
+            "name": "bmw-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-3.svg"
+        },
+        {
+            "name": "bmw-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-4.svg"
+        },
+        {
+            "name": "bmw-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-5.svg"
+        },
+        {
+            "name": "bmw-6",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-6.svg"
+        },
+        {
+            "name": "bmw-7",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bmw-7.svg"
+        },
+        {
             "name": "Bracket_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Bracket_A.svg"
+        },
+        {
+            "name": "buick-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-1.svg"
+        },
+        {
+            "name": "buick-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-2.svg"
+        },
+        {
+            "name": "buick-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-3.svg"
+        },
+        {
+            "name": "buick-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-4.svg"
+        },
+        {
+            "name": "buick-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-5.svg"
+        },
+        {
+            "name": "buick-6",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/buick-6.svg"
         },
         {
             "name": "burger-king-1",
@@ -4937,6 +5033,18 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Bytebase_A.svg"
         },
         {
+            "name": "c++-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/c++-1.svg"
+        },
+        {
+            "name": "c-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/c-1.svg"
+        },
+        {
+            "name": "c-plus-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/c-plus-1.svg"
+        },
+        {
             "name": "Caddy_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Caddy_A.svg"
         },
@@ -4947,6 +5055,22 @@
         {
             "name": "Calibre-web_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Calibre-web_A.svg"
+        },
+        {
+            "name": "canon-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/canon-1.svg"
+        },
+        {
+            "name": "canon-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/canon-2.svg"
+        },
+        {
+            "name": "canon-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/canon-3.svg"
+        },
+        {
+            "name": "canon-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/canon-4.svg"
         },
         {
             "name": "Casaos_A-1",
@@ -4975,6 +5099,26 @@
         {
             "name": "Chevereto_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Chevereto_A.svg"
+        },
+        {
+            "name": "chevrolet-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chevrolet-1.svg"
+        },
+        {
+            "name": "chevrolet-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chevrolet-2.svg"
+        },
+        {
+            "name": "chevrolet-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chevrolet-3.svg"
+        },
+        {
+            "name": "chevrolet-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chevrolet-4.svg"
+        },
+        {
+            "name": "chevrolet-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chevrolet-5.svg"
         },
         {
             "name": "Chrome_A-1",
@@ -5027,6 +5171,26 @@
         {
             "name": "Cooler-control_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Cooler-control_A.svg"
+        },
+        {
+            "name": "couch-base-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/couch-base-1.svg"
+        },
+        {
+            "name": "couch-base-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/couch-base-2.svg"
+        },
+        {
+            "name": "css-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/css-1.svg"
+        },
+        {
+            "name": "css-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/css-2.svg"
+        },
+        {
+            "name": "css-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/css-3.svg"
         },
         {
             "name": "Cyberchef_A-1",
@@ -5087,6 +5251,14 @@
         {
             "name": "Discord_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Discord_A.svg"
+        },
+        {
+            "name": "django-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/django-1.svg"
+        },
+        {
+            "name": "django-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/django-2.svg"
         },
         {
             "name": "DM_20240201114214_043",
@@ -5157,12 +5329,56 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Duplicati_A.svg"
         },
         {
+            "name": "elastic-search-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/elastic-search-1.svg"
+        },
+        {
+            "name": "elastic-search-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/elastic-search-2.svg"
+        },
+        {
             "name": "Element_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Element_A.svg"
         },
         {
+            "name": "epson-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/epson-1.svg"
+        },
+        {
+            "name": "epson-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/epson-2.svg"
+        },
+        {
+            "name": "epson-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/epson-3.svg"
+        },
+        {
             "name": "Etherpad_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Etherpad_A.svg"
+        },
+        {
+            "name": "fanta-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-1.svg"
+        },
+        {
+            "name": "fanta-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-2.svg"
+        },
+        {
+            "name": "fanta-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-3.svg"
+        },
+        {
+            "name": "fanta-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-4.svg"
+        },
+        {
+            "name": "fanta-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-5.svg"
+        },
+        {
+            "name": "fanta-6",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fanta-6.svg"
         },
         {
             "name": "Featherwiki_A-1",
@@ -5171,6 +5387,18 @@
         {
             "name": "Fenrus_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Fenrus_A.svg"
+        },
+        {
+            "name": "fiat-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fiat-1.svg"
+        },
+        {
+            "name": "fiat-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fiat-2.svg"
+        },
+        {
+            "name": "fiat-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/fiat-3.svg"
         },
         {
             "name": "Filerise_A-1",
@@ -5257,8 +5485,24 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/GoLand_A.svg"
         },
         {
+            "name": "golang-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/golang-1.svg"
+        },
+        {
+            "name": "golang-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/golang-2.svg"
+        },
+        {
             "name": "Gopeed_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Gopeed_A.svg"
+        },
+        {
+            "name": "gree-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/gree-1.svg"
+        },
+        {
+            "name": "gree-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/gree-2.svg"
         },
         {
             "name": "Grimoire_A-1",
@@ -5277,8 +5521,20 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Hedgedoc_A.svg"
         },
         {
+            "name": "hetzner-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hetzner-1.svg"
+        },
+        {
             "name": "Heyform_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Heyform_A.svg"
+        },
+        {
+            "name": "hisense-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hisense-1.svg"
+        },
+        {
+            "name": "hisense-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hisense-2.svg"
         },
         {
             "name": "Hive_A-1",
@@ -5295,6 +5551,26 @@
         {
             "name": "Homer_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Homer_A.svg"
+        },
+        {
+            "name": "honda-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/honda-1.svg"
+        },
+        {
+            "name": "honda-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/honda-2.svg"
+        },
+        {
+            "name": "honda-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/honda-3.svg"
+        },
+        {
+            "name": "honda-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/honda-4.svg"
+        },
+        {
+            "name": "honda-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/honda-5.svg"
         },
         {
             "name": "honor-1",
@@ -5315,6 +5591,22 @@
         {
             "name": "Huntarr_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Huntarr_A.svg"
+        },
+        {
+            "name": "hyundai-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hyundai-1.svg"
+        },
+        {
+            "name": "hyundai-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hyundai-2.svg"
+        },
+        {
+            "name": "hyundai-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hyundai-3.svg"
+        },
+        {
+            "name": "hyundai-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hyundai-4.svg"
         },
         {
             "name": "Intellij-idea_A-1",
@@ -5345,6 +5637,26 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/It-tools_A.svg"
         },
         {
+            "name": "java-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/java-1.svg"
+        },
+        {
+            "name": "java-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/java-2.svg"
+        },
+        {
+            "name": "java-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/java-3.svg"
+        },
+        {
+            "name": "javascript-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/javascript-1.svg"
+        },
+        {
+            "name": "javascript-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/javascript-2.svg"
+        },
+        {
             "name": "Jfa-go_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Jfa-go_A.svg"
         },
@@ -5355,6 +5667,26 @@
         {
             "name": "Jmalcloud_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Jmalcloud_A.svg"
+        },
+        {
+            "name": "jquery-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jquery-1.svg"
+        },
+        {
+            "name": "jquery-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jquery-2.svg"
+        },
+        {
+            "name": "jquery-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jquery-3.svg"
+        },
+        {
+            "name": "jquery-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jquery-4.svg"
+        },
+        {
+            "name": "jsr-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jsr-1.svg"
         },
         {
             "name": "Jupyter_B-1",
@@ -5385,6 +5717,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Kopia_A.svg"
         },
         {
+            "name": "kotlin-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kotlin-1.svg"
+        },
+        {
+            "name": "kotlin-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kotlin-2.svg"
+        },
+        {
             "name": "Kotlin_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Kotlin_A.svg"
         },
@@ -5393,8 +5733,64 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Ktor_A.svg"
         },
         {
+            "name": "lamborghini-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lamborghini-1.svg"
+        },
+        {
+            "name": "lamborghini-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lamborghini-2.svg"
+        },
+        {
+            "name": "lamborghini-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lamborghini-3.svg"
+        },
+        {
+            "name": "lamborghini-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lamborghini-4.svg"
+        },
+        {
+            "name": "lamborghini-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lamborghini-5.svg"
+        },
+        {
+            "name": "laravel-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/laravel-1.svg"
+        },
+        {
+            "name": "leica-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/leica-1.svg"
+        },
+        {
+            "name": "leica-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/leica-2.svg"
+        },
+        {
+            "name": "leica-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/leica-3.svg"
+        },
+        {
+            "name": "leica",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/leica.svg"
+        },
+        {
             "name": "Leichi_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Leichi_A.svg"
+        },
+        {
+            "name": "lg-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lg-1.svg"
+        },
+        {
+            "name": "lg-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lg-2.svg"
+        },
+        {
+            "name": "lg-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lg-3.svg"
+        },
+        {
+            "name": "lg-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lg-4.svg"
         },
         {
             "name": "li-1",
@@ -5481,6 +5877,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Mautic_A.svg"
         },
         {
+            "name": "mazda-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mazda-1.svg"
+        },
+        {
+            "name": "mazda-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mazda-2.svg"
+        },
+        {
             "name": "mcdonalds-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mcdonalds-1.svg"
         },
@@ -5507,6 +5911,22 @@
         {
             "name": "Meilisearch_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Meilisearch_A.svg"
+        },
+        {
+            "name": "mercedes-benz-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mercedes-benz-1.svg"
+        },
+        {
+            "name": "mercedes-benz-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mercedes-benz-2.svg"
+        },
+        {
+            "name": "mercedes-benz-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mercedes-benz-3.svg"
+        },
+        {
+            "name": "mercedes-benz-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mercedes-benz-4.svg"
         },
         {
             "name": "Meremedical_A-1",
@@ -5569,12 +5989,28 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Namecheap-ddns-updater_A.svg"
         },
         {
+            "name": "nestjs-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nestjs-1.svg"
+        },
+        {
             "name": "News-now_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/News-now_A.svg"
         },
         {
             "name": "Nexterm_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Nexterm_A.svg"
+        },
+        {
+            "name": "nextjs-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nextjs-1.svg"
+        },
+        {
+            "name": "nextjs-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nextjs-2.svg"
+        },
+        {
+            "name": "nextjs-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nextjs-3.svg"
         },
         {
             "name": "Nezha_A-1",
@@ -5593,6 +6029,22 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Nginx_C.svg"
         },
         {
+            "name": "nikon-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nikon-1.svg"
+        },
+        {
+            "name": "nikon-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nikon-2.svg"
+        },
+        {
+            "name": "nikon-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nikon-3.svg"
+        },
+        {
+            "name": "nikon-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nikon-4.svg"
+        },
+        {
             "name": "nio-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nio-1.svg"
         },
@@ -5603,6 +6055,38 @@
         {
             "name": "nio-3",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nio-3.svg"
+        },
+        {
+            "name": "nissan-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nissan-1.svg"
+        },
+        {
+            "name": "nissan-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nissan-2.svg"
+        },
+        {
+            "name": "nissan-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nissan-3.svg"
+        },
+        {
+            "name": "nissan-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nissan-4.svg"
+        },
+        {
+            "name": "nodejs-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nodejs-1.svg"
+        },
+        {
+            "name": "nodejs-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nodejs-2.svg"
+        },
+        {
+            "name": "nodejs-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nodejs-3.svg"
+        },
+        {
+            "name": "nodejs-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nodejs-4.svg"
         },
         {
             "name": "Notabase_A-1",
@@ -5657,8 +6141,28 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/oppo-1.svg"
         },
         {
+            "name": "oracle-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/oracle-1.svg"
+        },
+        {
+            "name": "oracle-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/oracle-2.svg"
+        },
+        {
+            "name": "oracle-corporation-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/oracle-corporation-1.svg"
+        },
+        {
             "name": "Orb.net_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Orb.net_A.svg"
+        },
+        {
+            "name": "origin-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/origin-1.svg"
+        },
+        {
+            "name": "origin-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/origin-2.svg"
         },
         {
             "name": "Orion-visor_A-1",
@@ -5677,6 +6181,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Padloc_A.svg"
         },
         {
+            "name": "pandas-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/pandas-1.svg"
+        },
+        {
             "name": "Pangolin_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Pangolin_A.svg"
         },
@@ -5685,12 +6193,48 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Paperless_A.svg"
         },
         {
+            "name": "paramount-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/paramount-1.svg"
+        },
+        {
+            "name": "paramount-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/paramount-2.svg"
+        },
+        {
+            "name": "paramount-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/paramount-3.svg"
+        },
+        {
+            "name": "paramount-plus-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/paramount-plus-1.svg"
+        },
+        {
+            "name": "perl-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/perl-1.svg"
+        },
+        {
+            "name": "perl-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/perl-2.svg"
+        },
+        {
+            "name": "perl-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/perl-3.svg"
+        },
+        {
             "name": "Perlite_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Perlite_A.svg"
         },
         {
             "name": "Photopea_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Photopea_A.svg"
+        },
+        {
+            "name": "php-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/php-1.svg"
+        },
+        {
+            "name": "php-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/php-2.svg"
         },
         {
             "name": "PhpStorm_A",
@@ -5709,6 +6253,30 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Plex_C.svg"
         },
         {
+            "name": "porsche-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-1.svg"
+        },
+        {
+            "name": "porsche-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-2.svg"
+        },
+        {
+            "name": "porsche-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-3.svg"
+        },
+        {
+            "name": "porsche-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-4.svg"
+        },
+        {
+            "name": "porsche-5",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-5.svg"
+        },
+        {
+            "name": "porsche-6",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/porsche-6.svg"
+        },
+        {
             "name": "Ptools_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Ptools_A.svg"
         },
@@ -5719,6 +6287,18 @@
         {
             "name": "PyCharm_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/PyCharm_A.svg"
+        },
+        {
+            "name": "python-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/python-1.svg"
+        },
+        {
+            "name": "python-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/python-2.svg"
+        },
+        {
+            "name": "python-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/python-3.svg"
         },
         {
             "name": "Python_A-1",
@@ -5821,6 +6401,18 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Rxresume_A.svg"
         },
         {
+            "name": "samsung-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/samsung-1.svg"
+        },
+        {
+            "name": "samsung-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/samsung-2.svg"
+        },
+        {
+            "name": "samsung-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/samsung-3.svg"
+        },
+        {
             "name": "Scala_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Scala_A.svg"
         },
@@ -5853,6 +6445,46 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Sonatype_A.svg"
         },
         {
+            "name": "sony-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-1.svg"
+        },
+        {
+            "name": "sony-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-2.svg"
+        },
+        {
+            "name": "sony-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-3.svg"
+        },
+        {
+            "name": "sony-digital-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-digital-1.svg"
+        },
+        {
+            "name": "sony-music-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-music-1.svg"
+        },
+        {
+            "name": "sony-pictures-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-pictures-1.svg"
+        },
+        {
+            "name": "sony-walkman-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-walkman-1.svg"
+        },
+        {
+            "name": "sony-walkman-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-walkman-2.svg"
+        },
+        {
+            "name": "sony-walkman-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-walkman-3.svg"
+        },
+        {
+            "name": "sony-walkman-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/sony-walkman-4.svg"
+        },
+        {
             "name": "Splayer_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Splayer_A.svg"
         },
@@ -5875,6 +6507,22 @@
         {
             "name": "Stash_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Stash_A.svg"
+        },
+        {
+            "name": "steam-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/steam-1.svg"
+        },
+        {
+            "name": "steam-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/steam-2.svg"
+        },
+        {
+            "name": "steam-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/steam-3.svg"
+        },
+        {
+            "name": "steam-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/steam-4.svg"
         },
         {
             "name": "Sunpanel_A-1",
@@ -5929,6 +6577,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Taosync_A.svg"
         },
         {
+            "name": "tcl-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/tcl-1.svg"
+        },
+        {
+            "name": "tcl-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/tcl-2.svg"
+        },
+        {
             "name": "Teable_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Teable_A.svg"
         },
@@ -5981,8 +6637,24 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/ToolBox_A.svg"
         },
         {
+            "name": "toyota-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/toyota-1.svg"
+        },
+        {
+            "name": "toyota-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/toyota-2.svg"
+        },
+        {
+            "name": "toyota-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/toyota-3.svg"
+        },
+        {
             "name": "Traccar_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Traccar_A.svg"
+        },
+        {
+            "name": "typescript-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/typescript-1.svg"
         },
         {
             "name": "Ubuntu_A-1",
@@ -6031,6 +6703,10 @@
         {
             "name": "Vertex_B-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Vertex_B.svg"
+        },
+        {
+            "name": "vitejs-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/vitejs-1.svg"
         },
         {
             "name": "vivo-1",
