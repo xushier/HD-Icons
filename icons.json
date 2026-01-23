@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1727，更新于：2026-01-23 15:00:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1727,
-    "update_at": "2026-01-23 15:00:02",
+    "description": "当前数量：1743，更新于：2026-01-23 15:19:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1743,
+    "update_at": "2026-01-23 15:19:02",
     "icons": [
         {
             "name": "115_A",
@@ -705,6 +705,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Dashdot_A.png"
         },
         {
+            "name": "databasus-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/databasus-1.png"
+        },
+        {
             "name": "Datagrip_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Datagrip_A.png"
         },
@@ -1023,6 +1027,10 @@
         {
             "name": "Element_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Element_A.png"
+        },
+        {
+            "name": "emby-toolkit-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/emby-toolkit-1.png"
         },
         {
             "name": "Emby_A",
@@ -1369,6 +1377,18 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Goland_B.png"
         },
         {
+            "name": "good-gym-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/good-gym-1.png"
+        },
+        {
+            "name": "good-gym-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/good-gym-2.png"
+        },
+        {
+            "name": "good-gym-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/good-gym-3.png"
+        },
+        {
             "name": "Googleclassroom_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Googleclassroom_A.png"
         },
@@ -1579,6 +1599,10 @@
         {
             "name": "Huntarr_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Huntarr_A.png"
+        },
+        {
+            "name": "hypermind-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/hypermind-1.png"
         },
         {
             "name": "Iceberg_A",
@@ -1891,6 +1915,10 @@
         {
             "name": "Leantime_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Leantime_B.png"
+        },
+        {
+            "name": "leelaa-reader-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/leelaa-reader-1.png"
         },
         {
             "name": "Leichi_A",
@@ -2293,6 +2321,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mps_B.png"
         },
         {
+            "name": "msm-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/msm-1.png"
+        },
+        {
             "name": "Mtphotos_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mtphotos_A.png"
         },
@@ -2463,6 +2495,10 @@
         {
             "name": "Notemark_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Notemark_A.png"
+        },
+        {
+            "name": "notenregal-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/notenregal-1.png"
         },
         {
             "name": "Notesnook_A",
@@ -3333,6 +3369,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Smanga_A.png"
         },
         {
+            "name": "smart-strm-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/smart-strm-1.png"
+        },
+        {
             "name": "Smartdns_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Smartdns_A.png"
         },
@@ -3629,8 +3669,12 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Terabox_B.png"
         },
         {
-            "name": "Termix_A",
-            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Termix_A.png"
+            "name": "termix-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/termix-1.png"
+        },
+        {
+            "name": "termix-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/termix-2.png"
         },
         {
             "name": "Teslamate_A",
@@ -4019,6 +4063,10 @@
         {
             "name": "Wecom_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Wecom_B.png"
+        },
+        {
+            "name": "weight-tracker-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/weight-tracker-1.png"
         },
         {
             "name": "Wekan_A",
@@ -4677,7 +4725,7 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Telegram_A.png"
         },
         {
-            "name": "Termix_A-1",
+            "name": "Termix_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Termix_A.png"
         },
         {
@@ -4919,10 +4967,6 @@
         {
             "name": "bentley-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bentley-2.svg"
-        },
-        {
-            "name": "bentley-3",
-            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bentley-3.svg"
         },
         {
             "name": "BigDataTools_A",
@@ -5199,6 +5243,10 @@
         {
             "name": "Cyberchef_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Cyberchef_B.svg"
+        },
+        {
+            "name": "databasus-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/databasus-1.svg"
         },
         {
             "name": "DataGrip_A",
@@ -5593,6 +5641,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Huntarr_A.svg"
         },
         {
+            "name": "hypermind-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hypermind-1.svg"
+        },
+        {
             "name": "hyundai-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hyundai-1.svg"
         },
@@ -5979,6 +6031,10 @@
         {
             "name": "MPS_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/MPS_A.svg"
+        },
+        {
+            "name": "msm-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/msm-1.svg"
         },
         {
             "name": "N8n_A-1",
@@ -6429,6 +6485,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Shadcn-ui_A.svg"
         },
         {
+            "name": "smart-strm-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/smart-strm-1.svg"
+        },
+        {
             "name": "Snapdrop_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Snapdrop_A.svg"
         },
@@ -6607,6 +6667,10 @@
         {
             "name": "Telegram_C",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Telegram_C.svg"
+        },
+        {
+            "name": "termix-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/termix-1.svg"
         },
         {
             "name": "tesla-1",
