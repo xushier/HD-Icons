@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1743，更新于：2026-01-23 15:19:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1743,
-    "update_at": "2026-01-23 15:19:02",
+    "description": "当前数量：1757，更新于：2026-01-26 11:47:38。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1757,
+    "update_at": "2026-01-26 11:47:38",
     "icons": [
         {
             "name": "115_A",
@@ -1565,6 +1565,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Home-gallery_A.png"
         },
         {
+            "name": "homebox-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/homebox-1.png"
+        },
+        {
             "name": "Homebridge_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Homebridge_A.png"
         },
@@ -2189,6 +2193,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Mgm+_A.png"
         },
         {
+            "name": "microsoft-sql-server-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/microsoft-sql-server-1.png"
+        },
+        {
             "name": "Microsoft365_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Microsoft365_A.png"
         },
@@ -2427,6 +2435,10 @@
         {
             "name": "Netflix_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Netflix_A.png"
+        },
+        {
+            "name": "new-api-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/new-api-1.png"
         },
         {
             "name": "News-now_A",
@@ -3101,6 +3113,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Redhat_A.png"
         },
         {
+            "name": "redia-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/redia-1.png"
+        },
+        {
             "name": "Redis_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Redis_A.png"
         },
@@ -3677,6 +3693,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/termix-2.png"
         },
         {
+            "name": "terra-master-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/terra-master-1.png"
+        },
+        {
+            "name": "terra-master-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/terra-master-2.png"
+        },
+        {
             "name": "Teslamate_A",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Teslamate_A.png"
         },
@@ -3943,6 +3967,14 @@
         {
             "name": "Verysync_B",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Verysync_B.png"
+        },
+        {
+            "name": "virola-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/virola-1.png"
+        },
+        {
+            "name": "virola-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/virola-2.png"
         },
         {
             "name": "Vmware_A",
@@ -4643,6 +4675,10 @@
         {
             "name": "Readarr_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/Readarr_A.png"
+        },
+        {
+            "name": "redia-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/redia-1.png"
         },
         {
             "name": "Rocky_A-1",
@@ -5597,6 +5633,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Home-gallery_A.svg"
         },
         {
+            "name": "homebox-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/homebox-1.svg"
+        },
+        {
             "name": "Homer_A-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Homer_A.svg"
         },
@@ -5997,6 +6037,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Metacubexd_A.svg"
         },
         {
+            "name": "microsoft-sql-server-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/microsoft-sql-server-1.svg"
+        },
+        {
+            "name": "microsoft-sql-server-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/microsoft-sql-server-2.svg"
+        },
+        {
             "name": "Microtalk-p2p_A-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Microtalk-p2p_A.svg"
         },
@@ -6047,6 +6095,10 @@
         {
             "name": "nestjs-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nestjs-1.svg"
+        },
+        {
+            "name": "new-api-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/new-api-1.svg"
         },
         {
             "name": "News-now_A-1",
@@ -6767,6 +6819,10 @@
         {
             "name": "Vertex_B-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/Vertex_B.svg"
+        },
+        {
+            "name": "virola-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/virola-1.svg"
         },
         {
             "name": "vitejs-1",
