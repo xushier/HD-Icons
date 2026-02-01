@@ -1,29 +1,30 @@
 <div align="center">
-  <h1>🎨 HD-Icons</h1>
-  <h2>高清仪表盘图标集合</h2>
+  <img src="hd-icons.png" alt="logo" width="200">
+  <h1>HD-Icons：高清仪表盘图标</h1>
   <p><em>1024×1024 超清分辨率 · 无损压缩优化 · 多种样式适配</em></p>
 </div>
 
+
+
 <div align="center">
-  
   <!-- 徽章区域 -->
   [![GitHub stars](https://img.shields.io/github/stars/xushier/HD-Icons?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/xushier/HD-Icons/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/xushier/HD-Icons?style=for-the-badge&logo=github&color=4ecdc4)](https://github.com/xushier/HD-Icons/network)
   [![GitHub issues](https://img.shields.io/github/issues/xushier/HD-Icons?style=for-the-badge&logo=github&color=45b7d1)](https://github.com/xushier/HD-Icons/issues)
   [![GitHub license](https://img.shields.io/github/license/xushier/HD-Icons?style=for-the-badge&logo=github&color=96ceb4)](https://github.com/xushier/HD-Icons/blob/master/LICENSE)
-  
+
   <!-- 统计信息 -->
   [![GitHub release](https://img.shields.io/github/release/xushier/HD-Icons?style=for-the-badge&logo=github&color=ffd93d)](https://github.com/xushier/HD-Icons/releases)
   [![GitHub last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=for-the-badge&logo=github&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
   [![GitHub repo size](https://img.shields.io/github/repo-size/xushier/HD-Icons?style=for-the-badge&logo=github&color=a29bfe)](https://github.com/xushier/HD-Icons)
-  
+
   <!-- CDN 徽章 -->
   [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
-  
+
 </div>
 
 <div align="center">
-  
+
   <!-- 快速导航 -->
   <div>
     <a href="#-项目简介"><strong>📖 项目简介</strong></a> •
@@ -31,12 +32,12 @@
     <a href="#-图标预览"><strong>✨ 图标预览</strong></a> •
     <a href="https://github.com/xushier/HD-Icons/issues/new/choose"><strong>🎯 请求图标</strong></a>
   </div>
-  
+
   <!-- 活动图表 -->
   <div>
     <img align="center" alt="GitHub activity" src="https://repobeats.axiom.co/api/embed/94fe9f2a6c0bccb6dd42c71e49b6e83fc46aecf4.svg">
   </div>
-  
+
 </div>
 
 
@@ -175,7 +176,7 @@
 <div align="center">
   <p><strong>！！！项目批量使用请告知！！！</strong></p>
   <p><strong>💝 感谢您的支持，让这个项目持续发展！</strong></p>
-  
+
   <table>
     <tr>
       <td align="center">
@@ -188,7 +189,7 @@
       </td>
     </tr>
   </table>
-  
+
   <p><em>赞助时请备注「图标」，感谢您的慷慨支持！</em></p>
 </div>
 
