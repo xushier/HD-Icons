@@ -1,0 +1,8 @@
+# 本地发布脚本（仅本机使用，不入库）
+publish.bat
+publish.ps1
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store
