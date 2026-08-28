@@ -12,7 +12,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=flat-square&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
 [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
 
-**共 <!--ICONS:total-->0<!--/ICONS:total--> 个图标，持续更新中**
+**共 <!--ICONS:total-->1754<!--/ICONS:total--> 个图标，持续更新中**
 </div>
 
 ---
@@ -28,9 +28,9 @@
 
 | 风格 | 目录 | 数量 |
 |------|------|------|
-| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->0<!--/ICONS:radius--> |
-| ⭕ 圆形 | `circle/` | <!--ICONS:circle-->0<!--/ICONS:circle--> |
-| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->0<!--/ICONS:svg--> |
+| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->1083<!--/ICONS:radius--> |
+| ⭕ 圆形 | `circle/` | <!--ICONS:circle-->124<!--/ICONS:circle--> |
+| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->547<!--/ICONS:svg--> |
 
 ## 🚀 使用
 
@@ -47,7 +47,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>📱 移动端适配 / 一键复制 / 自定义上传</summary>
 
 | 移动端自适应 | 一键复制地址 | 自定义上传 |
@@ -84,22 +84,22 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 
 ## 🖼️ 图标预览
 
-### 📦 圆角矩形（<!--ICONS:radius-->0<!--/ICONS:radius-->）
-
+<details open>
+<summary>📦 圆角矩形（<!--ICONS:radius-->1083<!--/ICONS:radius-->）</summary>
 <div align="center">
   <img src="_icons-radius.jpg" alt="圆角矩形图标预览" width="90%">
 </div>
+</details>
 
-### ⭕ 圆形（<!--ICONS:circle-->0<!--/ICONS:circle-->）
-
+<details open>
+<summary>⭕ 圆形（<!--ICONS:circle-->124<!--/ICONS:circle-->）</summary>
 <div align="center">
   <img src="_icons-circle.jpg" alt="圆形图标预览" width="90%">
 </div>
-
-### 🎨 SVG 矢量（<!--ICONS:svg-->0<!--/ICONS:svg-->）
+</details>
 
 <details open>
-<summary>🎨 SVG 图标预览</summary>
+<summary>🎨 SVG 矢量（<!--ICONS:svg-->547<!--/ICONS:svg-->）</summary>
 <div align="center">
   <img src="_icons-svg.jpg" alt="SVG 图标预览" width="90%">
 </div>
