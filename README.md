@@ -12,7 +12,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=flat-square&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
 [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
 
-**共 <!--ICONS:total-->1754<!--/ICONS:total--> 个图标，持续更新中**
+**共 <!--ICONS:total-->0<!--/ICONS:total--> 个图标，持续更新中**
 </div>
 
 ---
@@ -28,9 +28,9 @@
 
 | 风格 | 目录 | 数量 |
 |------|------|------|
-| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->1083<!--/ICONS:radius--> |
-| ⭕ 圆形 | `circle/` | <!--ICONS:circle-->124<!--/ICONS:circle--> |
-| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->547<!--/ICONS:svg--> |
+| 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->0<!--/ICONS:radius--> |
+| ⭕ 圆形 | `circle/` | <!--ICONS:circle-->0<!--/ICONS:circle--> |
+| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->0<!--/ICONS:svg--> |
 
 ## 🚀 使用
 
@@ -79,19 +79,19 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 
 ## 🖼️ 图标预览
 
-### 📦 圆角矩形（<!--ICONS:radius-->1083<!--/ICONS:radius-->）
+### 📦 圆角矩形（<!--ICONS:radius-->0<!--/ICONS:radius-->）
 
 <div align="center">
   <img src="_icons-radius.jpg" alt="圆角矩形图标预览" width="90%">
 </div>
 
-### ⭕ 圆形（<!--ICONS:circle-->124<!--/ICONS:circle-->）
+### ⭕ 圆形（<!--ICONS:circle-->0<!--/ICONS:circle-->）
 
 <div align="center">
   <img src="_icons-circle.jpg" alt="圆形图标预览" width="90%">
 </div>
 
-### 🎨 SVG 矢量（<!--ICONS:svg-->547<!--/ICONS:svg-->）
+### 🎨 SVG 矢量（<!--ICONS:svg-->0<!--/ICONS:svg-->）
 
 <details>
 <summary>点击展开 SVG 图标预览</summary>
@@ -161,13 +161,13 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 
 </details>
 
-## ⭐ Star History
+## ⭐ 支持这个项目
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xushier/HD-Icons&type=Date)](https://star-history.com/#xushier/HD-Icons&Date)
-
 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！
+
+📈 完整 Star 增长曲线请查看 [Star History](https://star-history.com/#xushier/HD-Icons&Date)
 
 <sub>Made with ❤️ by xushier</sub>
 
