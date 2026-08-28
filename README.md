@@ -38,9 +38,14 @@
 
 部署 [HD-Icons-docker](https://github.com/xushier/HD-Icons-docker)，自动同步本仓库更新，支持一键复制、移动端适配与自定义上传。
 
+<details open>
+<summary>☀️ 日间模式 / 🌙 夜间模式</summary>
+
 | 日间模式 | 夜间模式 |
 |----------|----------|
 | <img src="day.png" alt="日间模式" width="380"> | <img src="night.png" alt="夜间模式" width="380"> |
+
+</details>
 
 <details>
 <summary>📱 移动端适配 / 一键复制 / 自定义上传</summary>
@@ -93,8 +98,8 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 
 ### 🎨 SVG 矢量（<!--ICONS:svg-->0<!--/ICONS:svg-->）
 
-<details>
-<summary>点击展开 SVG 图标预览</summary>
+<details open>
+<summary>🎨 SVG 图标预览</summary>
 <div align="center">
   <img src="_icons-svg.jpg" alt="SVG 图标预览" width="90%">
 </div>
@@ -106,7 +111,7 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 - 想贡献图标？Fork 本仓库，把做好的图标（1024×1024 PNG 或 SVG）放进 `inbox/` 对应子目录，提交 PR，压缩入库、索引更新、预览图生成全部自动完成
 - 命名规范：小写英文单词 + 连字符 + 序号，如 `google-map-1.png`
 
-<details>
+<details open>
 <summary>📖 适用场景</summary>
 
 本项目最初为 Unraid Docker 容器图标展示而设计，现已扩展支持多种仪表盘应用、部分 App 及其他用途：
@@ -124,7 +129,7 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 
 </details>
 
-<details>
+<details open>
 <summary>💬 社区</summary>
 
 | 平台 | 账号/群组 | 链接 |
