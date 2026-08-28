@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1758，更新于：2026-08-28 03:16:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1758,
-    "update_at": "2026-08-28 03:16:02",
+    "description": "当前数量：1809，更新于：2026-08-28 03:28:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1809,
+    "update_at": "2026-08-28 03:28:36",
     "icons": [
         {
             "name": "115-drive-1",
@@ -4885,6 +4885,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/ani-rss-1.svg"
         },
         {
+            "name": "anthropic-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/anthropic-1.svg"
+        },
+        {
+            "name": "anthropic-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/anthropic-2.svg"
+        },
+        {
             "name": "apache-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/apache-1.svg"
         },
@@ -4957,6 +4965,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/autobrr-1.svg"
         },
         {
+            "name": "azure-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/azure-1.svg"
+        },
+        {
+            "name": "azure-ai-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/azure-ai-1.svg"
+        },
+        {
             "name": "backrest-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/backrest-1.svg"
         },
@@ -4967,6 +4983,14 @@
         {
             "name": "baidu-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/baidu-1.svg"
+        },
+        {
+            "name": "baidu-cloud-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/baidu-cloud-1.svg"
+        },
+        {
+            "name": "bailian-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bailian-1.svg"
         },
         {
             "name": "bard-1-1",
@@ -5011,6 +5035,10 @@
         {
             "name": "bililive-recorder-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bililive-recorder-1.svg"
+        },
+        {
+            "name": "bing-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/bing-1.svg"
         },
         {
             "name": "bitwarden-1-1",
@@ -5149,6 +5177,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/canon-4.svg"
         },
         {
+            "name": "capcut-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/capcut-1.svg"
+        },
+        {
             "name": "casaos-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/casaos-1.svg"
         },
@@ -5171,6 +5203,10 @@
         {
             "name": "chatgpt-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/chatgpt-2.svg"
+        },
+        {
+            "name": "cherrystudio-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/cherrystudio-1.svg"
         },
         {
             "name": "chevereto-1-1",
@@ -5209,6 +5245,18 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/claper-1.svg"
         },
         {
+            "name": "claude-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/claude-1.svg"
+        },
+        {
+            "name": "claude-code-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/claude-code-1.svg"
+        },
+        {
+            "name": "cline-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/cline-1.svg"
+        },
+        {
             "name": "clion-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/clion-1.svg"
         },
@@ -5241,6 +5289,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/code-with-me-1.svg"
         },
         {
+            "name": "codebuddy-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/codebuddy-1.svg"
+        },
+        {
             "name": "codex-docs-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/codex-docs-1.svg"
         },
@@ -5267,6 +5319,10 @@
         {
             "name": "css-3",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/css-3.svg"
+        },
+        {
+            "name": "cursor-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/cursor-1.svg"
         },
         {
             "name": "cyberchef-1-1",
@@ -5307,6 +5363,10 @@
         {
             "name": "deepin-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/deepin-1.svg"
+        },
+        {
+            "name": "deepmind-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/deepmind-1.svg"
         },
         {
             "name": "deepseek-1-1",
@@ -5387,6 +5447,10 @@
         {
             "name": "dottrace-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/dottrace-1.svg"
+        },
+        {
+            "name": "doubao-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/doubao-1.svg"
         },
         {
             "name": "dozzle-1-1",
@@ -5525,6 +5589,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/gcore-1.svg"
         },
         {
+            "name": "gemini-1-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/gemini-1.svg"
+        },
+        {
             "name": "git-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/git-1.svg"
         },
@@ -5583,6 +5651,10 @@
         {
             "name": "grimoire-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/grimoire-1.svg"
+        },
+        {
+            "name": "grok-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/grok-1.svg"
         },
         {
             "name": "hadoop-1-1",
@@ -5681,8 +5753,20 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/huawei-3.svg"
         },
         {
+            "name": "huggingface-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/huggingface-1.svg"
+        },
+        {
+            "name": "huggingface-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/huggingface-2.svg"
+        },
+        {
             "name": "huntarr-1-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/huntarr-1.svg"
+        },
+        {
+            "name": "hunyuan-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hunyuan-1.svg"
         },
         {
             "name": "hypermind-1-1",
@@ -5765,6 +5849,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jiedian-xiaobao-1.svg"
         },
         {
+            "name": "jimeng-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jimeng-1.svg"
+        },
+        {
             "name": "jmalcloud-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/jmalcloud-1.svg"
         },
@@ -5809,8 +5897,32 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kfc-4.svg"
         },
         {
+            "name": "kimi-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kimi-1.svg"
+        },
+        {
+            "name": "kimi-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kimi-2.svg"
+        },
+        {
+            "name": "kimi-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kimi-3.svg"
+        },
+        {
+            "name": "kimi-4",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kimi-4.svg"
+        },
+        {
+            "name": "kiro-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kiro-1.svg"
+        },
+        {
             "name": "koel-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/koel-1.svg"
+        },
+        {
+            "name": "kolors-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/kolors-1.svg"
         },
         {
             "name": "kopia-1-1",
@@ -5913,6 +6025,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/listmonk-1.svg"
         },
         {
+            "name": "lobehub-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/lobehub-1.svg"
+        },
+        {
             "name": "loggit-1-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/loggit-1.svg"
         },
@@ -5957,6 +6073,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/manticore-search-1.svg"
         },
         {
+            "name": "manus-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/manus-1.svg"
+        },
+        {
             "name": "mastodon-1-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mastodon-1.svg"
         },
@@ -5991,6 +6111,10 @@
         {
             "name": "mcdonalds-3",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mcdonalds-3.svg"
+        },
+        {
+            "name": "mcp-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mcp-1.svg"
         },
         {
             "name": "mdc-ng-1-1",
@@ -6033,6 +6157,22 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/message-push-nest-1.svg"
         },
         {
+            "name": "meta-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/meta-1.svg"
+        },
+        {
+            "name": "meta-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/meta-2.svg"
+        },
+        {
+            "name": "meta-ai-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/meta-ai-1.svg"
+        },
+        {
+            "name": "meta-gpt-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/meta-gpt-1.svg"
+        },
+        {
             "name": "metabase-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/metabase-1.svg"
         },
@@ -6073,6 +6213,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mini-serve-1.svg"
         },
         {
+            "name": "minimax-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/minimax-1.svg"
+        },
+        {
             "name": "mongotv-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mongotv-1.svg"
         },
@@ -6083,6 +6227,10 @@
         {
             "name": "moodle-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/moodle-1.svg"
+        },
+        {
+            "name": "moonshot-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/moonshot-1.svg"
         },
         {
             "name": "mps-1-1",
@@ -6101,12 +6249,20 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/namecheap-ddns-updater-1.svg"
         },
         {
+            "name": "nanobanana-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nanobanana-1.svg"
+        },
+        {
             "name": "nestjs-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/nestjs-1.svg"
         },
         {
             "name": "new-api-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/new-api-1.svg"
+        },
+        {
+            "name": "newapi-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/newapi-1.svg"
         },
         {
             "name": "news-now-1-1",
@@ -6229,6 +6385,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/ollama-1.svg"
         },
         {
+            "name": "ollama-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/ollama-2.svg"
+        },
+        {
             "name": "one-kvm-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/one-kvm-1.svg"
         },
@@ -6255,6 +6415,10 @@
         {
             "name": "opentofu-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/opentofu-1.svg"
+        },
+        {
+            "name": "openwebui-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/openwebui-1.svg"
         },
         {
             "name": "oppo-1",
@@ -6425,6 +6589,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qi-reader-1.svg"
         },
         {
+            "name": "qingyan-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qingyan-1.svg"
+        },
+        {
             "name": "qnap-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qnap-1.svg"
         },
@@ -6437,6 +6605,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qodana-1.svg"
         },
         {
+            "name": "qoder-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qoder-1.svg"
+        },
+        {
             "name": "qqlive-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qqlive-1.svg"
         },
@@ -6447,6 +6619,10 @@
         {
             "name": "quill-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/quill-1.svg"
+        },
+        {
+            "name": "qwen-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/qwen-1.svg"
         },
         {
             "name": "radarr-1-1",
@@ -6777,6 +6953,18 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/traccar-1.svg"
         },
         {
+            "name": "trae-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/trae-1.svg"
+        },
+        {
+            "name": "trae-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/trae-2.svg"
+        },
+        {
+            "name": "trae-3",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/trae-3.svg"
+        },
+        {
             "name": "typescript-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/typescript-1.svg"
         },
@@ -6953,6 +7141,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/windows-server-1.svg"
         },
         {
+            "name": "windsurf-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/windsurf-1.svg"
+        },
+        {
             "name": "wireguard-1-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/wireguard-1.svg"
         },
@@ -6979,6 +7171,14 @@
         {
             "name": "xiaomi-3",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/xiaomi-3.svg"
+        },
+        {
+            "name": "xiaomi-mimo-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/xiaomi-mimo-1.svg"
+        },
+        {
+            "name": "xiaomi-mimo-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/xiaomi-mimo-2.svg"
         },
         {
             "name": "youku-1",
@@ -7015,6 +7215,10 @@
         {
             "name": "youtube-5",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/youtube-5.svg"
+        },
+        {
+            "name": "zai-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/zai-1.svg"
         },
         {
             "name": "zfile-1-1",
