@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1754，更新于：2026-08-27 13:45:23。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1754,
-    "update_at": "2026-08-27 13:45:23",
+    "description": "当前数量：1758，更新于：2026-08-28 03:16:02。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1758,
+    "update_at": "2026-08-28 03:16:02",
     "icons": [
         {
             "name": "115-drive-1",
@@ -5601,6 +5601,14 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hedgedoc-1.svg"
         },
         {
+            "name": "hermes-agent-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hermes-agent-1.svg"
+        },
+        {
+            "name": "hermes-agent-2",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hermes-agent-2.svg"
+        },
+        {
             "name": "hetzner-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/hetzner-1.svg"
         },
@@ -6049,6 +6057,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/microtalk-sfu-1.svg"
         },
         {
+            "name": "midjourney-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/midjourney-1.svg"
+        },
+        {
             "name": "mind-wendel-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/mind-wendel-1.svg"
         },
@@ -6231,6 +6243,10 @@
         {
             "name": "open-webui-1-2",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/open-webui-1.svg"
+        },
+        {
+            "name": "openclaw-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/openclaw-1.svg"
         },
         {
             "name": "openlist-1-1",
