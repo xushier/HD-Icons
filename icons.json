@@ -1,8 +1,8 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1809，更新于：2026-08-28 03:28:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1809,
-    "update_at": "2026-08-28 03:28:36",
+    "description": "当前数量：1811，更新于：2026-09-01 02:49:31。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1811,
+    "update_at": "2026-09-01 02:49:31",
     "icons": [
         {
             "name": "115-drive-1",
@@ -5469,6 +5469,10 @@
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/duplicati-1.svg"
         },
         {
+            "name": "edgeever-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/edgeever-1.svg"
+        },
+        {
             "name": "elastic-search-1-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/elastic-search-1.svg"
         },
@@ -5623,6 +5627,10 @@
         {
             "name": "glances-4-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/glances-4.svg"
+        },
+        {
+            "name": "go-nav-1",
+            "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/go-nav-1.svg"
         },
         {
             "name": "goland-1-1",

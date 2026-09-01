@@ -12,7 +12,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/xushier/HD-Icons?style=flat-square&color=6c5ce7)](https://github.com/xushier/HD-Icons/commits/main)
 [![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xushier/HD-Icons)
 
-**共 <!--ICONS:total-->1809<!--/ICONS:total--> 个图标，持续更新中**
+**共 <!--ICONS:total-->1811<!--/ICONS:total--> 个图标，持续更新中**
 </div>
 
 ---
@@ -30,7 +30,7 @@
 |------|------|------|
 | 📦 圆角矩形 | `border-radius/` | <!--ICONS:radius-->1083<!--/ICONS:radius--> |
 | ⭕ 圆形 | `circle/` | <!--ICONS:circle-->124<!--/ICONS:circle--> |
-| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->602<!--/ICONS:svg--> |
+| 🎨 SVG 矢量 | `svg/` | <!--ICONS:svg-->604<!--/ICONS:svg--> |
 
 ## 🚀 使用
 
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/xushier/HD-Icons/main/icons.json
 </details>
 
 <details open>
-<summary>🎨 SVG 矢量（<!--ICONS:svg-->602<!--/ICONS:svg-->）</summary>
+<summary>🎨 SVG 矢量（<!--ICONS:svg-->604<!--/ICONS:svg-->）</summary>
 <div align="center">
   <img src="_icons-svg.jpg" alt="SVG 图标预览" width="90%">
 </div>
